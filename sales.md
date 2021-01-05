@@ -25,3 +25,24 @@
 
 ---
 
+## How to close a client deal
+- As more details, read carefully the project plan
+- Make a mini research about the customer (area of activity, current status, strengths, proposals)
+- Show them your enthousiasm, kindly ask for the job
+- Talk positive about the project (talk like you already got it)
+- Contact back the client about the proposal (follow up)
+- Contact all the previous clients about new, additional features and projects
+- Contatc new potential clients about new features you offer (through newsletter, blog, phone etc)
+
+---
+
+## How to get paid more by clients
+- Make life of the customers easier (tasks flow, save time etc)
+- Offer some tasks or material for free (freebies)
+- Use convincing wording (exaplain why you are worthing the money they pay):
+  - replace "maybe" with "guaranteed" or "risk-free" phrase
+  - replace "we will try" to "we will definitely"
+  - focus on **benefits** over **features** (what is the client gaining from your work)
+  - explain how the life of the customer will become easier
+  - explain how you will help the customer increase sales or results
+  - explain why cheaper solutions (alternatives) do not fit to the client vision
