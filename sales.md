@@ -32,7 +32,7 @@
 - Talk positive about the project (talk like you already got it)
 - Contact back the client about the proposal (follow up)
 - Contact all the previous clients about new, additional features and projects
-- Contatc new potential clients about new features you offer (through newsletter, blog, phone etc)
+- Contact new potential clients about new features you offer (through newsletter, blog, phone etc)
 
 ---
 
