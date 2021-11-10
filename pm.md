@@ -67,18 +67,18 @@
 
 ## Project Brief
 
-- The Task
-- The Deliverables
-- Background information
-- The Objectives
-- The target Audience
-- Choice of Channels
-- The key message
-- The Budget
-- Measurement
-- Any Mandatories
-- Possible Ideas
-- Tone of voice
+- The Task (what's the main site functionality?)
+- The Deliverables (bullet point list)
+- Background information (what eas the reason to write this brief?)
+- The Objectives (Explain any key challenges and opportunities)
+- The target Audience (user profiles etc)
+- Choice of channels (eg web, email, mobile app etc)
+- The key Message (what are we saying?)
+- The Budget (by phases)
+- Measurement (KPI, how will we measure success?)
+- Any mandatories (is there anything that we should include or avoid?)
+- Possible ideas
+- Tone of voice (eg branding, UX defined etc)
 
 
 [Source: Drupalize.me - Introduction to Project Management](https://drupalize.me/series/introduction-project-management)
