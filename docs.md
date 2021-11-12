@@ -14,10 +14,12 @@ What should we include on internal Company Docs.
 - General:
   - How to use the PM tool
   - How to document projects
-  - How to we do maintenance
+  - What kind of maintenance are we providing
   - D.O. profile
   - Contributing to Drupal (and other Open Source projects)
   - Adopt Drupal projects
+  - Training of new members
+  - General best practices (Do and Don't list)
 - Local Development setup
   - IDEs and extensions
   - Snippet management for the whole company (eg using an online tool)
@@ -57,7 +59,7 @@ What should we include on internal Company Docs.
   - Drupal modules we avoid
   - Drupal structure
   - Custom modules
-  - Setup a new Drupal Project locally
+  - Setup a new Drupal project locally
   - Customize composer.json and composer scaffolding
   - yml files we use and/or override
   - txt or other files we remove from repositories
@@ -73,6 +75,7 @@ What should we include on internal Company Docs.
   - New Project estimation checklist
   - Existing Project estimation checklist
   - Project security audit checklist
+  - Drupal development best practices (Do and Don't list)
 - Theming (Drupal)
   - How to theme
   - Modules we use for theming
