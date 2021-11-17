@@ -4,7 +4,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 
 ## Index
 - [Project Management](pm.md)
-- [Sales](sales.md)
+- [e-Commerce](commerce)
 - [Jobs](jobs.md)
 - [Offers](offers.md)
 - [Company Docs](docs.md)
