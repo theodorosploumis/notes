@@ -4,11 +4,11 @@
 
 ## Guides
 
-- [General Guide](commerce/general.md)
-- [Analytics](commerce/analytics.md)
-- [Best Practices](commerce/best_practices.md)
+- [General Guide](general.md)
+- [Analytics](analytics.md)
+- [Best Practices](best_practices.md)
 - [Common issues](issues.md)
-- [Sales](commerce/sales.md)
-- [Trends 2020](commerce/trends.md)
-- [User flows](commerce/flows.md)
+- [Sales](sales.md)
+- [Trends 2020](trends.md)
+- [User flows](flows.md)
 
