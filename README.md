@@ -18,6 +18,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Lessons](drupal/lessons.md)
   - [Maintennace and support Contract](drupal/contract.md)
   - [README template](drupal/readme-template.md)
+  - [Selling Drupal](drupal/selling-drupal)
   - [Theme validator](drupal/theme-validator.md)
 
 ## Licence
