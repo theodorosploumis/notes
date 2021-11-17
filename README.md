@@ -9,7 +9,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 - [Offers](offers.md)
 - [Company Docs](docs.md)
 - [Data tables](data.md)
-- [Drupal](blob/master/drupal)
+- [Drupal](drupal)
   - [Developer Setup](drupal/developer-setup.md)
   - [Favorite Drupal modules](drupal/favorites.md)
   - [Development checklist](drupal/development-checklist.md)
