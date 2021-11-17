@@ -54,7 +54,7 @@ What should we include on internal Company Docs.
   - What are we testing
   - Strech tests
   - Testing tools (online) we use
-- Drupal related
+- Drupal* related
   - Drupal modules we prefer
   - Drupal modules we avoid
   - Drupal structure
@@ -93,3 +93,5 @@ What should we include on internal Company Docs.
 - Examples
   - Links to code examples grouped by task type (eg Drupal queues, cron tasks)
   - Links to reusable scripts (eg fix-drupal-permissions.sh)
+
+* For Drupal see also a more detailed list of lessons on https://github.com/theodorosploumis/drupal-lessons.
