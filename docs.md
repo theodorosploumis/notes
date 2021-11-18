@@ -87,6 +87,13 @@ What should we include on internal Company Docs.
   - Browsers we support
   - A11y testing
   - Using paid themes
+- Marketing
+  - How to create Presentations for Projects (templates, branding)
+  - How to use our brand
+  - Email signatures
+  - Publish Projects on company profile
+  - Publish Projects on Drupal.org
+  - Share Projects on social networks
 - Other
   - Important tools (drush, ddev, lando, robo.li, gitpod.io etc)
   - Tools we use in general for Dev tasks
