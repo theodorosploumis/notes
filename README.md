@@ -5,6 +5,13 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 ## Index
 - [Project Management](pm.md)
 - [e-Commerce](commerce)
+  - [General Guide](general.md)
+  - [Analytics](analytics.md)
+  - [Best Practices](best_practices.md)
+  - [Common issues](issues.md)
+  - [Sales](sales.md)
+  - [Trends 2020](trends.md)
+  - [User flows](flows.md)
 - [Jobs](jobs.md)
 - [Offers](offers.md)
 - [Company Docs](docs.md)
