@@ -3,7 +3,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 
 
 ## Index
-- [Project Management](pm.md)
+- [Project Management](pm.md) (Project estimation, hr, brief, work streams etc)
 - [e-Commerce](commerce)
   - [General Guide](general.md)
   - [Analytics](analytics.md)
@@ -14,8 +14,8 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [User flows](flows.md)
 - [Jobs](jobs.md)
 - [Offers](offers.md)
-- [Company Docs](docs.md)
-- [Data tables](data.md)
+- [Company Docs](docs.md) (What should we include on internal Company Docs)
+- [Data tables](data.md) (What fields should we include on a table like data sheet)
 - [Drupal](drupal)
   - [Checklist: Development](drupal/checklist-development.md)
   - [Checklist: Production](drupal/checklist-production.md)
