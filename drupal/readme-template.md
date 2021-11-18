@@ -7,7 +7,7 @@
 | -- **Customer** -- | **Customer name here**                 |
 | Website          | [customer.example.com](https://customer.example.com)  |
 | Contacts         | `Customer name here and maybe email`   |
-| -- **Agency** -- | **TheodorosPloumis LTD**               |
+| -- **Agency** -- | **NAME OF THE AGENCY HERE**            |
 | Website          | [theodorosploumis.com](https://www.theodorosploumis.com) |
 | Contacts         | Theodoros Ploumis                      |
 | -- **Project** --| **`Project tile here with Drupal version`** |
@@ -25,7 +25,8 @@
 | Htpasswd         | `link to your Password provider or file here` |
 | Drupal admin     | `link to your Password provider or file here` |
 | Database dump UI | `No UI, use only cli` |
-| CI/CD dashboard  | `link to CI/CD dashboard or settings files here` |
+| CI/CD dashboard  | `link to CI/CD dashboard or settings files here`|
+| Contributors     | `Add the humans (Names, emails etc) that worked for this Project` |
 
 ## About
 A basic introduction about this project...
