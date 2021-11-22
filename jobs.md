@@ -1,4 +1,4 @@
-## Questions to ask before you join a company
+# Questions to ask before you join a company
 
 - Company details (website, email, contact person)
 - About Company (when, where, customers, philosophy, plan)

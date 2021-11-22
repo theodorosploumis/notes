@@ -1,4 +1,4 @@
-## Web product redesign
+# Web product redesign
 
 - Executive summary
 - Goals and KPIs
