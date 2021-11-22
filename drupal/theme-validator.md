@@ -39,6 +39,7 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
  - [ ] Development dependencies (eg nodejs, bash, ruby)
  - [ ] Component based design (eg Storybook, Patternlab etc)
  - [ ] Has a styleguide
+ - [ ] 
 
 ---
 
@@ -54,7 +55,7 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
 ---
 
  - [ ] SCSS/CSS structure
- - [ ] CSS methodology used
+ - [ ] CSS methodology or library used (eg bootstrap)
  - [ ] Is CSS reusable
  - [ ] Does CSS adds utility classes (like TailwindCSS)
  - [ ] 3rd party CSS libraries used
@@ -77,15 +78,27 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
  - [ ] Breakpoints available
  - [ ] Right to left support (if needed)
 
+ -- 
+
+ - [ ] Is using css variables
+ - [ ] Is using grid/flexbox properties for layout
+ - [ ] Is using variable fonts (if needed)
+ - [ ] Fonts used (custom or from online service. Prefer the 2nd)
+
 ---
  
  - [ ] Errors and warnings
  - [ ] W3C validation (Valid HTML)
+ - [ ] A11 validation
  - [ ] Browser Compatible (screenshots)
  - [ ] Performance
  - [ ] SEO friendly
  - [ ] Security
  - [ ] UX (can nwe measure it?)
+
+---
+
+ - [ ] Easy to enable local development (npm packages, browsersync, linters etc)
 
 ---
  

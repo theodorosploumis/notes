@@ -23,8 +23,11 @@ Prefer to install all software globally.
  - [ ] patch
  - [ ] [drush-launcher](https://github.com/drush-ops/drush-launcher)
  - [ ] [composer](https://getcomposer.org)
- - [ ] openssh-server
+ - [ ] openssh-server(ssh/sftp)
  - [ ] nodejs/npm (if needed)
+ - [ ] Caching (eg memcache, redis etc)
+ - [ ] Backups (files, db, all)
+ - [ ] DNS (2 domains, STAGE and PRODUCTION)
 
 ## Dev Packages (if needed)
 
@@ -33,57 +36,26 @@ Prefer to install all software globally.
 ## SaaS
 
  - [ ] Create Github/Bitbucket/Gitlab repository
- - [ ] Create Project Management project (eg [TeamWork](https://teamwork.com))
+ - [ ] Create Project Management project (eg Jira, Redmine etc)
  - [ ] Create a Trello board (if using Trello)
  - [ ] Setup Slack
  - [ ] Setup CI (eg Travis)
-
-## Modules
-
- - [ ] [admin_toolbar](https://www.drupal.org/project/admin_toolbar)
- - [ ] [ctools](https://www.drupal.org/project/ctools)
- - [ ] [pathauto](https://www.drupal.org/project/pathauto)
- - [ ] [pathologic](https://www.drupal.org/project/pathologic)
- - [ ] [redirect](https://www.drupal.org/project/redirect)
- - [ ] [token](https://www.drupal.org/project/token)
- - [ ] [google_analytics](https://www.drupal.org/project/google_analytics)
- - [ ] [simple_sitemap](https://www.drupal.org/project/simple_sitemap)
-
----
-
- - [ ] [backup_migrate](https://www.drupal.org/project/backup_migrate)
- - [ ] [config_update](https://www.drupal.org/project/config_update)
- - [ ] [config_devel](https://drupal.org/project/config_devel)
- - [ ] [devel](https://www.drupal.org/project/devel)
- - [ ] [features](https://www.drupal.org/project/features)
- - [ ] [masquerade](https://www.drupal.org/project/masquerade)
- - [ ] [stage_file_proxy](https://www.drupal.org/project/stage_file_proxy)
-
-## Themes (base)
-
- - [ ] [omega](https://www.drupal.org/project/omega)
- - [ ] [bootstrap](https://www.drupal.org/project/bootstrap)
- - [ ] [zurb_foundation](https://www.drupal.org/project/zurb_foundation)
- - [ ] [kashmir](https://drupal.org/project/kashmir)
- - [ ] [neato](https://www.drupal.org/project/neato)
- - [ ] [basic](https://www.drupal.org/project/basic)
- - [ ] [xtheme](https://www.drupal.org/project/xtheme)
- - [ ] [gesso](https://www.drupal.org/project/gesso)
- - [ ] [radix](https://www.drupal.org/project/radix)
- - [ ] [cog](https://www.drupal.org/project/cog)
- - [ ] [bear_skin](https://www.drupal.org/project/bear_skin)
- - [ ] classy (core theme)
- 
----
-
- - [ ] [adminimal_theme](https://www.drupal.org/project/adminimal_theme)
+ - [ ] Setup CD (eg GitHub Actions)
 
 ## Drupal Settings
+
+ToDo: See template for **settings.php**.
 
  - [ ] Enable dev mode
  - [ ] Enable php error_log
  - [ ] Enable apache2 error_log
  - [ ] Copy ssh keys
+ - [ ] Setup private and public files folders and permissions
+ - [ ] Logging system and alerts (eg on Slack)
+
+## Modules/Themes
+
+See [favorites.md](Drupal favorite modules).
 
 ## Site Architecture
 
@@ -121,12 +93,14 @@ Prefer to install all software globally.
  - [ ] Create Project folder
  - [ ] Create drush aliases
  - [ ] git-flow init
- - [ ] drupal console chain commands
  - [ ] Setup **cron jobs**
  - [ ] Set xdebug
  - [ ] IDE setup (eg Phpstorm)
  - [ ] Create [teamocil](www.teamocil.com) file
  - [ ] Create bash aliases
+ - [ ] Create basic docker images needed (eg for testing or local development)
+ - [ ] Create ddev/lando setup
+ - [ ] Create gitpod setup
 
 ## After development tasks
 

@@ -19,6 +19,7 @@ See also my DO starred projects https://www.drupal.org/user/869224/starred.
 - [fixed_block_content](https://www.drupal.org/project/fixed_block_content)
 - [twig_field_value](https://www.drupal.org/project/twig_field_value)
 - [twig_tweak](https://www.drupal.org/project/twig_tweak)
+- [webprofiler](https://www.drupal.org/project/devel)
 
 
 ### Administration
@@ -83,7 +84,23 @@ See also my DO starred projects https://www.drupal.org/user/869224/starred.
 - [back_to_top](https://www.drupal.org/project/back_to_top)
 - [honeypot](https://www.drupal.org/project/honeypot)
 - [eu_cookie_compliance](https://www.drupal.org/project/eu_cookie_compliance)
+- [monolog](https://www.drupal.org/project/monolog)
 
+---
+
+## Themes
+- [gesso](https://www.drupal.org/project/gesso)
+- [radix](https://www.drupal.org/project/radix)
+- [bootstrap](https://www.drupal.org/project/bootstrap)
+- [zurb_foundation](https://www.drupal.org/project/zurb_foundation)
+- [kashmir](https://drupal.org/project/kashmir)
+- [basic](https://www.drupal.org/project/basic)
+- [xtheme](https://www.drupal.org/project/xtheme)
+- classy (core theme)
+ 
+---
+
+ - [ ] [adminimal_theme](https://www.drupal.org/project/adminimal_theme)
 
 ## Similar Lists - Resources
 - https://opensenselabs.com/blog/articles/ultimate-drupal-seo-guide-2020
