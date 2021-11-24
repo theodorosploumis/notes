@@ -194,6 +194,7 @@
 - [redcrackle.com/blog/drupal-8/free-tutorials-list](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
 - [Drupal 9 Module Development - Packt Book](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Getting Started with Drupal Workshop, Drupal.org](https://www.drupal.org/project/getting_started_with_drupal)
+- [Study Drupal 8 for Drupal 8 Developer Cert (2019)](https://github.com/thled/d8cards)
 
 ## Homework - Tasks
 - Create a simple website with 5 pages and 4 custom blocks
