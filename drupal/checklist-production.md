@@ -102,6 +102,7 @@ The steps bellow are not mandatory and their order is not strict.
 ## Resources
 
 - https://www.drupal.org/project/production_checklist
+- https://www.drupal.org/project/launch_checklist
 - https://github.com/alehkot/drupal-launch-checklist
 - https://github.com/meSingh/product-launch-checklist
 - https://www.vardot.com/en-us/ideas/resources/website-project-pre-post-launch-checklists
