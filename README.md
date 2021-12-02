@@ -27,6 +27,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [README template](drupal/readme-template.md)
   - [Selling Drupal](drupal/selling-drupal)
   - [Theme validator](drupal/theme-validator.md)
+  - [Terminology](drupal/terminology.md)
 - [UI Design](design) (tips for UI design)
 
 ## Licence
