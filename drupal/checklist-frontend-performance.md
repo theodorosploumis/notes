@@ -360,6 +360,8 @@
 
 # 4. Guides & Resources
 ## 4.1 Collections of tools, posts etc
+- https://github.com/davidsonfellipe/awesome-wpo
+- https://github.com/pajaydev/awesome-web-performance-budget
 - https://github.com/fabkrum/web-performance-resources
 - https://developer.yahoo.com/performance/rules.html
 - https://perf.rocks
