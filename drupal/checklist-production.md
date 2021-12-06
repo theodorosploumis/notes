@@ -9,7 +9,7 @@ The steps bellow are not mandatory and their order is not strict.
 ### 1. Setup
 - [ ] Other: Define the datetime for the launch to happen.
 - [ ] Merge git branch stage to master (Pull Request)
-- [ ] `git pull && composer install --no-dev && drush cim -y && drush updb`
+- [ ] `git pull origin master && composer install --no-dev && drush deploy`
 - [ ] Drupal: Content freeze (usually on stage website)
 - [ ] Server: Fix permissions for translations folder and update translations
 - [ ] Drupal: Update project translations `/admin/reports/translations/check`
