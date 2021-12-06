@@ -55,7 +55,7 @@ ToDo: See template for **settings.php**.
 
 ## Modules/Themes
 
-See [favorites.md](Drupal favorite modules).
+See [Drupal favorite modules](favorites.md).
 
 ## Site Architecture
 
