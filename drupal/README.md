@@ -1,4 +1,5 @@
 # Drupal Notes
+
 > My Personal notes, tips and bookmarks regarding Drupal.
 
 - [Checklist: Development](checklist-development.md)
@@ -13,4 +14,5 @@
 - [README template](readme-template.md)
 - [Selling Drupal](selling-drupal)
 - [Terminology](terminology.md)
+- [Testing, CI/CD](testing.md)
 - [Theme validator](theme-validator.md)

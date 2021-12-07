@@ -28,7 +28,8 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Selling Drupal](drupal/selling-drupal)
   - [Theme validator](drupal/theme-validator.md)
   - [Terminology](drupal/terminology.md)
-  - [Testing](drupal/testing.md)
+  - [Testing, CI/CD](drupal/testing.md)
+  - [Theme validator](drupal/theme-validator.md)
 - [UI Design](design) (tips for UI design)
 
 ## Licence
