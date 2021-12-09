@@ -36,4 +36,4 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 
 ## Licence
 
-[CC0 1.0 Universal](LICENSE) 2021
+[CC0 1.0 Universal](LICENSE) 2016 - 2021
