@@ -1,8 +1,9 @@
 # Notes
+
 My Personal notes and bookmarks regarding Work, Drupal, Project management and more.
 
-
 ## Index
+
 - [Project Management](pm.md) (Project estimation, hr, brief, work streams etc)
 - [e-Commerce](commerce)
   - [General Guide](general.md)
@@ -25,7 +26,8 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Lessons](drupal/lessons.md)
   - [Maintennace and support Contract](drupal/contract.md)
   - [README template](drupal/readme-template.md)
-  - [Selling Drupal](drupal/selling-drupal)
+  - [Selling Drupal](drupal/selling-drupal.md)
+  - [Start with Drupal](start-drupal.md)
   - [Theme validator](drupal/theme-validator.md)
   - [Terminology](drupal/terminology.md)
   - [Testing, CI/CD](drupal/testing.md)
@@ -33,4 +35,5 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 - [UI Design](design) (tips for UI design)
 
 ## Licence
+
 [CC0 1.0 Universal](LICENSE) 2021

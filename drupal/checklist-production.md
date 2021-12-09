@@ -7,6 +7,7 @@ The steps bellow are not mandatory and their order is not strict.
 ## Checklist
 
 ### 1. Setup
+
 - [ ] Other: Define the datetime for the launch to happen.
 - [ ] Merge git branch stage to master (Pull Request)
 - [ ] `git pull origin master && composer install --no-dev && drush deploy`
@@ -21,6 +22,7 @@ The steps bellow are not mandatory and their order is not strict.
   - [ ] private files
 
 ### 2. Migrations
+
 - [ ] Server: Copy public files from 7.x
 - [ ] Server: Copy db from Stage to Prod (except if there is no new content on stage)
 - [ ] Drupal: Execute final migrations (from the frozen production 7.x db)
@@ -34,10 +36,12 @@ The steps bellow are not mandatory and their order is not strict.
   - [ ] migrate
 
 ### 3. Clean up
+
 - [ ] Drupal: Remove old Super Admin users
 - [ ] Drupal: Remove demo Nodes and content
 
 ### 4. Production prepare
+
 - [ ] Server: Add cron jobs
 - [ ] Drupal: Disable displaying errors on screen
 - [ ] Drupal: Disable modules used on development except if they are needed.
@@ -65,22 +69,26 @@ The steps bellow are not mandatory and their order is not strict.
 - [ ] Drupal: Download a complete whole archive of the new website (code, database, public files)
 
 ### 5. GDPR
+
 - [ ] GDPR: Remove IP tracking on Webforms
 - [ ] GDPR: Remove IP tracking on dblog
 - [ ] GDPR: Add cookies banner
 
 ### 6. Updates
+
 - [ ] Drupal: Run cron several times to index on Search or sitemap
 - [ ] Drupal: Update sitemap.xml and inform the Search Engines about it
 - [ ] Drupal: Rebuild content permissions
 
 ### 7. Production
+
 - [ ] Server: Change DNS
 - [ ] Drupal: Test all forms to send emails (if set to)
 - [ ] Other: Update LastPass passwords and links
 - [ ] Server: Move old 7.x site to a protected new subdomain
 
 ### 8. After launch
+
 - [ ] Other: Give all the required passwords to the customer
 - [ ] Other: Give all the required files and manuals to the customer, provide education
 - [ ] Other: Sing a Support contract with the customer
@@ -94,10 +102,10 @@ The steps bellow are not mandatory and their order is not strict.
   - [ ] findings about Drupal or other used services
   
 ### 9. Sales/Promotion
+
 - [ ] Promotion: Write helpful Blog post(s) about the project
 - [ ] Promotion: Ask for a customer testimonial
 - [ ] Promotion: Add project to the website portfolio
-
 
 ## Resources
 
