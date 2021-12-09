@@ -27,7 +27,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Maintennace and support Contract](drupal/contract.md)
   - [README template](drupal/readme-template.md)
   - [Selling Drupal](drupal/selling-drupal.md)
-  - [Start with Drupal](start-drupal.md)
+  - [Start with Drupal](drupal/start-drupal.md)
   - [Theme validator](drupal/theme-validator.md)
   - [Terminology](drupal/terminology.md)
   - [Testing, CI/CD](drupal/testing.md)
