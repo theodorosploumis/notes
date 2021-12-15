@@ -23,3 +23,15 @@
 - Deploy on STAGE/PRODUCTION etc
 - Generate a sanitized database backup from Production
 - Send notifications
+
+## Examples
+
+What to test with a Drupal project:
+
+- REST API (CRUD operations)
+- REST API (Permissions)
+- Functionality (eg module API, test functions)
+- Permissions (eg a Druapl user can access a page)
+- Integration (eg PHP versions, dependencies versions, Drupal core versions)
+- UI (Expected behavior on a Drupal page)
+- Code validation according to standards.
