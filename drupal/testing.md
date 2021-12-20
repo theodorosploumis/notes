@@ -7,7 +7,7 @@
 - Speed test (lighthouse score)
 - Functional testing
 - UI testing with behat
-- JS testing with nightwatch
+- JS testing with nightwatch, cypress etc
 - Browser support testing
 - A11y testing
 - Stretch test (jmeter, artillery, k6 etc)
