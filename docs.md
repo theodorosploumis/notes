@@ -21,7 +21,7 @@ What should we include on internal Company Docs.
   - Training of new members
   - General best practices (Do and Don't list)
 - Local Development setup
-  - IDEs and extensions
+  - IDEs setup and extensions
   - Snippet management for the whole company (eg using an online tool)
 - VCS
   - Where are we hosting the VCS
