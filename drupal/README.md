@@ -12,6 +12,7 @@
 - [Maintennace and support Contract](contract.md)
 - [Mastering Authoring - tips and modules](mastering-authoring.md)
 - [README template](readme-template.md)
+- [Script: Get Prod config](script-get-prod-config.md)
 - [Selling Drupal](selling-drupal.md)
 - [Start with Drupal](start-drupal.md)
 - [Terminology](terminology.md)
