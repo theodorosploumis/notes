@@ -22,6 +22,7 @@
 - Create a git release with Release.txt (eg on GitHub)
 - Deploy on STAGE/PRODUCTION etc
 - Generate a sanitized database backup from Production
+- Get screenshots (eg for different devices and screen sizes)
 - Send notifications
 
 ## Examples
