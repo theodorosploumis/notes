@@ -92,10 +92,10 @@ Distributions like [Lightning](https://www.drupal.org/project/lightning), [Thund
 
 ## Other useful material
 
-![](drupal_vs_wp.jpeg)
+![Drupal VS WP](drupal_vs_wp.jpeg)
 
-![](curve_roles.png)
+![Drupal roles path](curve_roles.png)
 
-![](decouple_drupal.png)
+![Decoupled Drupal](decouple_drupal.png)
 
 ---
