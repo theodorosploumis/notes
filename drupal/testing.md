@@ -25,6 +25,13 @@
 - Get screenshots (eg for different devices and screen sizes)
 - Send notifications
 
+## Guidelines
+
+- If you want to test **class methods** write "[Unit tests](https://www.drupal.org/docs/automated-testing/phpunit-in-drupal)".
+- If you want to test **Module APIs** write "[Kernel tests](https://api.drupal.org/api/drupal/core%21tests%21Drupal%21KernelTests%21KernelTestBase.php/class/KernelTestBase/)".
+- If you want to test Functional (Web UI) without JS needs write "[Browser tests](https://www.drupal.org/docs/automated-testing/phpunit-in-drupal/phpunit-browser-test-tutorial)".
+- If you want to test Functional (Web UI) that involve JS write "[Javascript tests](https://www.drupal.org/docs/8/phpunit/phpunit-javascript-testing-tutorial)", [nightwatch tests](https://www.drupal.org/docs/automated-testing/javascript-testing-using-nightwatch), "[Behat tests](https://behat-drupal-extension.readthedocs.io)", [cypress.io tests](https://www.cypress.io) etc.
+
 ## Examples
 
 What to test with a Drupal project:
@@ -54,3 +61,13 @@ What to test with a Drupal project:
 - System: sanitize database
 - System: rollback site to a snapshot
 - drupal_rector & upgrade_status report
+
+## Other useful material
+
+- [Drupal.org - Automated testing](https://www.drupal.org/docs/automated-testing)
+- [Drupalize.me - Automated Testing in Drupal](https://drupalize.me/series/automated-testing-drupal)
+- [Lullabot - An Overview of Testing in Drupal 8, 2017](https://www.lullabot.com/articles/an-overview-of-testing-in-drupal-8)
+
+![Testing diagram open_social](testing/testing_flows_open-social.jpg)
+
+![Testing diagram drupalize](https://drupalize.me/sites/default/files/tutorials/frameworks-which.png)

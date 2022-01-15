@@ -1,7 +1,9 @@
 # Selling Drupal
+
 > A notebook about "selling" Drupal to potential clients, companies, organizations etc. Or, alternatively, a list of Drupal advantages against other solutions.
 
 ## What to consider
+
 - Sell Drupal as a "Story", as a narative.
 - Sell Drupal as an approach, as a philosophy.
 - Drupal has the flexibility to adapt on custom needs (eg a business logic).
@@ -19,19 +21,21 @@
 - Show other clients feedback (testimonials) about Drupal.
 
 ## What to avoid
-- Don's sell what it does or how it works.
+
+- Don't sell what it does or how it works.
 - Don't try to present Drupal as a box of lego pieces (do it yourself toy) but as a complete toy (a ready to play car of legos).
 - Don't be too generic about Drupal features.
 - Don't compare to others except if there is already a system to replace.
 - Don't sell Drupal as a product.
 - Avoid demos of any type.
-- Avoid showing large tables of Drupal capabilities.
+- Avoid showing large tables and charts of Drupal capabilities.
 - Don't talk about open source vs closed source advantages.
 - Don't say that Drupal is a cheap solution or cheaper than other solutions.
-- Don't talk about the community, free modules, issues and other Drupal* things.
-- Don't use Drupal specific terminology. Speak with end-user functionality terms.
+- Don't talk about the community, free modules, issues and other Drupal\* things.
+- Don't use Drupal specific terminology. Speak with well-known, common, end-user functionality terms.
 
 ## Keywords to use in the context
+
 - adapted software
 - open software
 - business logic
@@ -47,6 +51,7 @@
 - customization
 
 ## Slogans to use
+
 - Pay for the customization, not for the license
 - Get only what you need. Nothing less, nothing more.
 - Fits perfectly on your needs.
@@ -55,13 +60,14 @@
 - Grows as you grow.
 - Built for the "hard".
 
-
 ## Drupal Distributions
-- Before giving an estimation about a project search carefully on Drupal.org because a [Distribution](https://www.drupal.org/project/project_distribution) may already exist there to fit your needs. 
+
+- Before giving an estimation about a project search carefully on Drupal.org because a [Distribution](https://www.drupal.org/project/project_distribution) may already exist there to fit your needs.
 
 Distributions like [Lightning](https://www.drupal.org/project/lightning), [Thunder](https://www.drupal.org/project/thunder) [Rain](https://www.drupal.org/project/rain), [Varbase](https://www.drupal.org/project/varbase) etc could be an option for generic content websites.
 
 ## Sources & links
+
 - [Drupal: Agency Marketing](https://www.drupal.org/community/agency-marketing)
 - [Drupal Initiative Material (google drive)](https://drive.google.com/drive/folders/1ZkRt80-XuEmAIka_w3SLv8stc4zlaFwG)
 - [The ultimate guide to Drupal 8 (pdf)](https://www.acquia.com/sites/acquia.com/files/documents/2019-05/UltimateGuideToDrupal_8.7.pdf)
@@ -85,6 +91,7 @@ Distributions like [Lightning](https://www.drupal.org/project/lightning), [Thund
 - [Svg glyphs, illustrations and icons related to Drupal CMS (github)](https://github.com/theodorosploumis/drupal-glyphs)
 
 ## Other useful material
+
 ![](drupal_vs_wp.jpeg)
 
 ![](curve_roles.png)
@@ -92,4 +99,3 @@ Distributions like [Lightning](https://www.drupal.org/project/lightning), [Thund
 ![](decouple_drupal.png)
 
 ---
-
