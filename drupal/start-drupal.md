@@ -15,10 +15,15 @@ A step by step, opinioned, checklist for a Drupal rookie.
 
 - [ ] I have an account on Drupal.org.
 - [ ] I have an account on [drupal.slack.com](https://drupal.slack.com).
+- [ ] I have an account on [drupal.stackexchange.com](https://drupal.stackexchange.com).
 - [ ] I can understand Drupal.org project versions, issues etc.
 - [ ] I know what is drush and I can use it from the cli.
 - [ ] I can install Drupal 9.x+ using a tool from [here](https://drupaltools.github.io). I propose using [ddev](https://ddev.readthedocs.io).
 - [ ] I can enable/disable modules from the Admin UI.
+
+## 3. Local setup
+
+- [ ] I have installed all the required software from [Drupal Developer Setup](developer-setup.md)
 
 Ready to start your journey with Drupal.
 
