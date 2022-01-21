@@ -33,6 +33,13 @@ See also **https://drupaltools.com**.
 - [phpmetrics](https://github.com/phpmetrics/PhpMetrics)
 - [security-checker](https://github.com/enlightn/security-checker)
 
+## Nodejs packages (global):
+
+- [grunt-cli](https://gruntjs.com)
+- [gulp-cli](https://gulpjs.com)
+- [husky](https://github.com/typicode/husky)
+- [yeoman](https://yeoman.io)
+
 ## Generic tools
 
 - [ddev](https://ddev.readthedocs.io)
