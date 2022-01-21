@@ -1,5 +1,6 @@
 # Drupal Developer Setup
-My machine setup (software, tools etc) on Linux that helps me develop with Drupal
+My machine setup (software, tools etc) on Linux that helps me develop with Drupal and other frontend frameworks.
+
 
 ## Drupal tools
 
@@ -8,6 +9,7 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 - https://github.com/theodorosploumis/generate_drupal_report
 
 See also **https://drupaltools.com**.
+
 
 ## PHP tools
 
@@ -33,6 +35,7 @@ See also **https://drupaltools.com**.
 - [phpmetrics](https://github.com/phpmetrics/PhpMetrics)
 - [security-checker](https://github.com/enlightn/security-checker)
 
+
 ## Nodejs packages (global):
 
 - [grunt-cli](https://gruntjs.com)
@@ -40,22 +43,38 @@ See also **https://drupaltools.com**.
 - [husky](https://github.com/typicode/husky)
 - [yeoman](https://yeoman.io)
 
-## Generic tools
 
+## Local VMs & Docker tools
+
+- [docker](https://docs.docker.com)
+- [virtualbox](https://www.virtualbox.org)
+- [vagrant](https://www.vagrantup.com)
 - [ddev](https://ddev.readthedocs.io)
 - [lando](https://docs.lando.dev)
+- [takeout](https://github.com/tighten/takeout) (docker services scaffolding)
+
+
+## Generic tools
+
 - [brew](https://brew.sh)
-- [git-crypt](https://github.com/AGWA/git-crypt)
+- [nvm](https://github.com/nvm-sh/nvm)
 - [rsync](https://rsync.samba.org)
 - [sass](https://sass-lang.com)
-- [nvm](https://github.com/nvm-sh/nvm)
-- [ohmyzsh](https://ohmyz.sh)
+
+
+## Utilities
+
+- [git-crypt](https://github.com/AGWA/git-crypt)
+- [flameshot (screenshots)](https://flameshot.org)
 - [scm_breeze](https://github.com/scmbreeze/scm_breeze)
 - [tmux](https://github.com/tmux/tmux)
 - [teamocil](https://github.com/remi/teamocil)
 - [rupa/z](https://github.com/rupa/z)
-- [takeout](https://github.com/tighten/takeout) (docker services scaffolding)
-- [flameshot (screenshots)](https://flameshot.org)
+
+## Terminal, CLI
+
+- [ohmyzsh](https://ohmyz.sh)
+
 
 ## Editors - IDE
 
