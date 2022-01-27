@@ -6,13 +6,13 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 
 - [Project Management](pm.md) (Project estimation, hr, brief, work streams etc)
 - [e-Commerce](commerce)
-  - [General Guide](general.md)
-  - [Analytics](analytics.md)
-  - [Best Practices](best_practices.md)
-  - [Common issues](issues.md)
-  - [Sales](sales.md)
-  - [Trends 2020](trends.md)
-  - [User flows](flows.md)
+  - [General Guide](commerce/general.md)
+  - [Analytics](commerce/analytics.md)
+  - [Best Practices](commerce/best_practices.md)
+  - [Common issues](commerce/issues.md)
+  - [Sales](commerce/sales.md)
+  - [Trends 2020](commerce/trends.md)
+  - [User flows](commerce/flows.md)
 - [Jobs](jobs.md)
 - [Offers](offers.md)
 - [Company Docs](docs.md) (What should we include on internal Company Docs)
@@ -34,6 +34,12 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Testing, CI/CD](drupal/testing.md)
   - [Theme validator](drupal/theme-validator.md)
 - [UI Design](design) (tips for UI design)
+
+## Similar
+
+See also:
+
+- https://github.com/theodorosploumis/drupal-best-practices
 
 ## Licence
 
