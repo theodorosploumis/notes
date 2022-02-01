@@ -82,6 +82,7 @@
 - The Block management UI
 - Drupal configuration UI
 - Register new blocks
+- Create custom Block Plugins on code
 - Users, Roles and permissions
 
 ### The User entity
