@@ -10,7 +10,7 @@
 - JS testing with nightwatch, cypress etc
 - Browser support testing
 - A11y testing
-- Stretch test (jmeter, artillery, k6 etc)
+- Stress test (jmeter, artillery, k6 etc)
 - Unit testing
 - Add testing results budges to README
 - Send notifications
@@ -31,6 +31,7 @@
 - If you want to test **Module APIs** write "[Kernel tests](https://api.drupal.org/api/drupal/core%21tests%21Drupal%21KernelTests%21KernelTestBase.php/class/KernelTestBase/)".
 - If you want to test Functional (Web UI) without JS needs write "[Browser tests](https://www.drupal.org/docs/automated-testing/phpunit-in-drupal/phpunit-browser-test-tutorial)".
 - If you want to test Functional (Web UI) that involve JS write "[Javascript tests](https://www.drupal.org/docs/8/phpunit/phpunit-javascript-testing-tutorial)", [nightwatch tests](https://www.drupal.org/docs/automated-testing/javascript-testing-using-nightwatch), "[Behat tests](https://behat-drupal-extension.readthedocs.io)", [cypress.io tests](https://www.cypress.io) etc.
+- If you want to do **stress tests** use jmeter, artillery, k6 etc.
 
 ## Examples
 
