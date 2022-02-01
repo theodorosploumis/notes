@@ -185,7 +185,6 @@
 - [drupal.org/documentation](https://www.drupal.org/documentation)
 - [Drupal 8.x User Guide](https://www.drupal.org/project/user_guide)
 - [Drupal 8.x User Guide downloads & translations](https://www.drupal.org/node/3076366)
-- [OpenDrupal.org](https://opendrupal.org)
 - [drupalize.me](https://drupalize.me)
 - [buildamodule.com](https://buildamodule.com)
 - [symfonycasts.com](https://symfonycasts.com/tracks/drupal)
