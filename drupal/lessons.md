@@ -188,6 +188,7 @@
 - [drupalize.me](https://drupalize.me)
 - [buildamodule.com](https://buildamodule.com)
 - [symfonycasts.com](https://symfonycasts.com/tracks/drupal)
+- [drupal.tv - Video collections](https://drupal.tv)
 - [LevelUpTuts - Drupal 8 Basics](https://www.youtube.com/watch?v=J9U1DQYbFjA&list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI)
 - https://www.ostraining.com/blog/drupal/200-drupal-8-videos
 - Learn Drupal 8 for Beginners, Step by Step: [#1](https://www.youtube.com/watch?v=BXvaKPm1x-E), [#2](https://www.youtube.com/watch?v=oG93vZ0s5rk), [#3](https://www.youtube.com/watch?v=g5KTrznNJzo)
