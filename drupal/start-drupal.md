@@ -28,6 +28,7 @@ A step by step, opinioned, checklist for a Drupal rookie.
 - [ ] I have an account on [drupal.slack.com](https://drupal.slack.com).
 - [ ] I have an account on [drupal.stackexchange.com](https://drupal.stackexchange.com).
 - [ ] I have joined my local community group. See [drupal.org/community](https://www.drupal.org/community#connect-nearby).
+- [ ] I know about the Drupal.org scholarship on https://www.drupal.org/association/discover-drupal.
 
 ## Resources
 
