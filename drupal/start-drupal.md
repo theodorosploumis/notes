@@ -25,6 +25,10 @@ A step by step, opinioned, checklist for a Drupal rookie.
 
 - [ ] I have installed all the required software from [Drupal Developer Setup](developer-setup.md)
 
+## Resources
+
+- [How to Become a Drupal Developer - drupalize.me, 2021](https://drupalize.me/blog/how-become-drupal-developer)
+
 Ready to start your journey with Drupal.
 
 See also [Drupal Lessons](lessons.md).
