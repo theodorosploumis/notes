@@ -9,7 +9,8 @@
 - Do not give only numbers to customers (eg the price and the deadline).
 - Try to not be strict about delivery dates and set the variables that may affect delivery.
 - Keep useful statistics that can be reused on future estimations.
-- Determine which parameter is flexible on the Project (time, budget or scope)
+- Determine which parameter is flexible on the Project (time, budget or scope).
+- Consider using the [Three-point estimation](https://en.wikipedia.org/wiki/Three-point_estimation).
 
 ---
 
