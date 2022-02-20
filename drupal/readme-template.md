@@ -10,7 +10,7 @@
 | -- **Agency** -- | **NAME OF THE AGENCY HERE**            |
 | Website          | [theodorosploumis.com](https://www.theodorosploumis.com) |
 | Contacts         | Theodoros Ploumis                      |
-| -- **Project** --| **`Project tile here with Drupal version`** |
+| -- **Project** --| **`Project title here with Drupal version`** |
 | Dates (development) | 01/01/2021 - 31/10/2021 |
 | PM/Tasks         | `link to your online PM tool here`        |
 | Wiki             | `link to your online Wiki tool here`      |
@@ -29,18 +29,23 @@
 | Contributors     | `Add the humans (Names, emails etc) that worked for this Project` |
 
 ## About
+
 A basic introduction about this project...
 
 ## Setup
+
 Details about setup and installation
 
 ### Installation
+
 Install normally. Select "Install Drupal form existing configuration" option.
 
 ### Settings & Environmental Variables
+
 Examples and notes about settings.php files and configuration.
 
 ## Development & Deployment
+
 Example of steps.
 
 1. Always have a fresh **working** copy of the repository.
@@ -55,6 +60,7 @@ Example of steps.
 10. Merge **dev** to **stage** to trigger a deployment to the Stage site and **run steps 7 and 10** again for the Stage site.
 
 ## Online workflow commands
+
 ```
 ssh ...
 cd [ROOT_PATH]
@@ -67,6 +73,7 @@ drush cr
 ```
 
 ### Database commands
+
 ```
 // Export db
 mysqldump db_name > backup-file.sql
@@ -77,12 +84,17 @@ mysql -p -u [user] [database] < backup-file.sql
 ```
 
 ### Development (Dev) Site
+
 Details about development instance (if exists).
 
+Show information about: ssh, url, drush site-alias, htaccess credentials etc.
+
 ### Preview (Stage) Site
+
 Details about staging instance (if exists).
 
 ### Production Site
+
 Details about production instance.
 
 ## Other notes
