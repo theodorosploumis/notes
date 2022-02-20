@@ -39,7 +39,6 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
  - [ ] Development dependencies (eg nodejs, bash, ruby)
  - [ ] Component based design (eg Storybook, Patternlab etc)
  - [ ] Has a styleguide
- - [ ] 
 
 ---
 
@@ -78,7 +77,7 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
  - [ ] Breakpoints available
  - [ ] Right to left support (if needed)
 
- -- 
+ ---
 
  - [ ] Is using css variables
  - [ ] Is using grid/flexbox properties for layout
@@ -89,7 +88,7 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
  
  - [ ] Errors and warnings
  - [ ] W3C validation (Valid HTML)
- - [ ] A11 validation
+ - [ ] A11y validation
  - [ ] Browser Compatible (screenshots)
  - [ ] Performance
  - [ ] SEO friendly
@@ -109,7 +108,7 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
 ## ToDo
 
 - Make this checklist more granular/detailed
-- Add ranges for each item (eg percent)
+- Add grades for each item (eg percent)
 - Add specific standards per item
 - Create a webpage with the list
 - Validate several free themes
