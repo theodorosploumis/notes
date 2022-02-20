@@ -190,7 +190,7 @@
 
 # 3. Tools
 ## 3.1 Performance scoring - Online
-- https://developers.google.com/speed/pagespeed/insights
+- https://pagespeed.web.dev
 - https://www.thinkwithgoogle.com/feature/testmysite
 - https://yellowlab.tools
 - https://www.webpagetest.org
@@ -397,7 +397,3 @@
 - https://jonyablonski.com/designers-wpo-checklist
 - https://github.com/TerribleDev/WebPerformanceChecklist
 - https://docs.google.com/spreadsheets/d/1PQTsn_A24CCSXtp8NcXg3ciL6IVa9LVJ_fG_e9oEH_0
-
---- 
-# 6. Licence
-[MIT](LICENSE.txt)
