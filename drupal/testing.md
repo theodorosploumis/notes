@@ -6,12 +6,11 @@
 
 - **Unit testing** is a kind of test in which minor testable parts or units of an application, called units, are individually and independently tested for proper operation.
 - **Integration Testing** has a focus on the interaction between components or systems. This kind of testing means we’re checking the interplay of the units and how they’re working together.
-- **End-To-End Testing**, or E2E testing, means that actual user interactions are simulated by the computer; in doing so, E2E testing should include as many functional areas and parts of the technology stack used in the application as possible.
+- **End-To-End Testing**, or E2E testing or **UI testing**, means that actual user interactions are simulated by the computer; in doing so, E2E testing should include as many functional areas and parts of the technology stack used in the application as possible (nightwatch, cypress, behat etc).
 - **Visual Testing** is the process of checking the visible output of an application and comparing it to the expected results. Put another way, it helps find "visual bugs" in the appearance of a page or screen different from purely functional bugs.
 - **Static analysis** is not precisely testing, but I think it’s essential to mention it here. You can imagine it working like a spelling correction: It debugs your code without running the program and detects code style issues. This simple measure can prevent many bugs.
 - **Functional testing**
 - Speed/performance testing (lighthouse score)
-- UI testing with behat
 - JS testing with nightwatch, cypress etc
 - Browser support testing
 - A11y testing
