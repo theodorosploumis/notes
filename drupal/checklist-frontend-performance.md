@@ -392,6 +392,7 @@
 # 5. Similar projects
 - https://frontendchecklist.io
 - https://github.com/thedaviddias/Front-End-Performance-Checklist
+- https://www.toptal.com/developers/webdevchecklist
 - https://web.dev/fast
 - https://www.taskade.com/v/H1XaaoP0Ab
 - https://jonyablonski.com/designers-wpo-checklist
