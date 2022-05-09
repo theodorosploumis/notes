@@ -10,7 +10,7 @@
 ## Contrib/custom modules
 - https://www.drupal.org/project/require_revision_log_message
 - https://www.drupal.org/project/scheduler
-- https://www.drupal.org/project/diff (also entity_diff)
+- https://www.drupal.org/project/diff (also [entity_diff_ui](https://www.drupal.org/project/entity_diff_ui))
 - https://www.drupal.org/project/save_edit
 - https://www.drupal.org/project/simplei
 - https://www.drupal.org/project/masquarade
