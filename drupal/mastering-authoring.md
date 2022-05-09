@@ -8,7 +8,7 @@
 - preview before save
 
 ## Contrib/custom modules
-- Force revision log messages
+- https://www.drupal.org/project/require_revision_log_message
 - https://www.drupal.org/project/scheduler
 - https://www.drupal.org/project/diff (also entity_diff)
 - https://www.drupal.org/project/save_edit
