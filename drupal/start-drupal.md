@@ -24,7 +24,7 @@ A step by step, opinioned, checklist for a Drupal rookie.
 
 ## 4. Community
 
-- [ ] I have an account on Drupal.org.
+- [ ] I have an account on [Drupal.org](https://www.drupal.org).
 - [ ] I have an account on [drupal.slack.com](https://drupal.slack.com).
 - [ ] I have an account on [drupal.stackexchange.com](https://drupal.stackexchange.com).
 - [ ] I have joined my local community group. See [drupal.org/community](https://www.drupal.org/community#connect-nearby).
