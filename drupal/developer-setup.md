@@ -4,7 +4,7 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 
 ## Drupal tools
 
-- [drush-launcher](https://github.com/drush-ops/drush-launcher)
+- [**drush-launcher**](https://github.com/drush-ops/drush-launcher)
 - [drupalorg-cli](https://github.com/mglaman/drupalorg-cli)
 - https://github.com/theodorosploumis/generate_drupal_report
 
@@ -15,7 +15,7 @@ See also **https://drupaltools.com**.
 
 **Required**:
 
-- [composer](https://getcomposer.org)
+- [**composer**](https://getcomposer.org)
 - [phpbrew](https://github.com/phpbrew/phpbrew)
 - [robo](https://robo.li)
 
@@ -49,7 +49,7 @@ See also **https://drupaltools.com**.
 - [docker](https://docs.docker.com)
 - [virtualbox](https://www.virtualbox.org)
 - [vagrant](https://www.vagrantup.com)
-- [ddev](https://ddev.readthedocs.io)
+- [**ddev**](https://ddev.readthedocs.io)
 - [lando](https://docs.lando.dev)
 - [takeout](https://github.com/tighten/takeout) (docker services scaffolding)
 
@@ -57,28 +57,28 @@ See also **https://drupaltools.com**.
 ## Generic tools
 
 - [brew](https://brew.sh)
-- [nvm](https://github.com/nvm-sh/nvm)
-- [rsync](https://rsync.samba.org)
-- [sass](https://sass-lang.com)
+- [**nvm**](https://github.com/nvm-sh/nvm)
+- [**rsync**](https://rsync.samba.org)
+- [**sass**](https://sass-lang.com)
 
 
 ## Utilities
 
 - [git-crypt](https://github.com/AGWA/git-crypt)
 - [flameshot (screenshots)](https://flameshot.org)
-- [scm_breeze](https://github.com/scmbreeze/scm_breeze)
-- [tmux](https://github.com/tmux/tmux)
-- [teamocil](https://github.com/remi/teamocil)
+- [**scm_breeze**](https://github.com/scmbreeze/scm_breeze)
+- [**tmux**](https://github.com/tmux/tmux)
+- [**teamocil**](https://github.com/remi/teamocil)
 - [rupa/z](https://github.com/rupa/z)
 
 ## Terminal, CLI
 
-- [ohmyzsh](https://ohmyz.sh)
+- [**ohmyzsh**](https://ohmyz.sh)
 
 
 ## Editors - IDE
 
-- https://www.jetbrains.com/phpstorm
+- **https://www.jetbrains.com/phpstorm**
 - https://www.sublimetext.com
 - https://code.visualstudio.com
 - https://www.vim.org
