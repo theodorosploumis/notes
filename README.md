@@ -33,7 +33,8 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Terminology](drupal/terminology.md)
   - [Testing, CI/CD](drupal/testing.md)
   - [Theme validator](drupal/theme-validator.md)
-- [UI Design](design) (tips for UI design)
+- [Figma Component Checklist](design/figma)
+- [UI Design](design/ui) (tips for UI design)
 
 ## Similar
 
