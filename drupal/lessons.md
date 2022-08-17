@@ -13,7 +13,7 @@
     - [Drupal Blocks](#drupal-blocks)
     - [The User entity](#the-user-entity)
     - [Drupal Views](#drupal-views)
-    - [Drupal REST API](#drupal-rest-api)
+    - [Drupal JSON:API and REST](#drupal-jsonapi-and-rest)
     - [Form submissions](#form-submissions)
     - [Theming](#theming)
     - [Development for Drupal](#development-for-drupal)
