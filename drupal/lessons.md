@@ -97,12 +97,13 @@
 - Views terminology
 - Advanced Views
 
-### Drupal REST API
-- Core JSON API (REST)
+### Drupal JSON:API and REST
+- Core JSON:API
 - Create resources
-- REST authentication
+- Authentication
 - Data Serialization
-- Extend REST API
+- Extend JSON:API
+- Core REST module
 - JS frontend libraries with Drupal
 
 ### Form submissions
