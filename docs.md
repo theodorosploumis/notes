@@ -22,6 +22,9 @@ What should we include on internal Company Docs.
   - General best practices (Do and Don't list)
 - Local Development setup
   - IDEs setup and extensions
+  - Browsers and extensions
+  - Docker based tools (ddev etc)
+  - Other tools used (eg rsync, ssh)
   - Snippet management for the whole company (eg using an online tool)
 - VCS
   - Where are we hosting the VCS
@@ -65,7 +68,7 @@ What should we include on internal Company Docs.
   - txt or other files we remove from repositories
   - drush site aliases
   - settings.php and dotenv
-  - How to override a Drupal distro
+  - How to override a Drupal distro (eg social)
   - Public and Private files paths
   - How to get a Database backup
   - How to get Public files
@@ -87,6 +90,7 @@ What should we include on internal Company Docs.
   - Browsers we support
   - A11y testing
   - Using paid themes
+  - Twig basics and functions
 - Marketing
   - How to create Presentations for Projects (templates, branding)
   - How to use our brand
