@@ -105,7 +105,8 @@ What should we include on internal Company Docs.
   - Links to code examples grouped by task type (eg Drupal queues, cron tasks)
   - Links to reusable scripts (eg fix-drupal-permissions.sh)
 
-* For Drupal see also a more detailed list of lessons on https://github.com/theodorosploumis/drupal-lessons.
+- For Drupal see also a more detailed list of lessons on <https://github.com/theodorosploumis/drupal-lessons>.
 
 ## Examples
-- https://handbook.civicactions.com
+
+- <https://handbook.civicactions.com>

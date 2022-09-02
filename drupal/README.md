@@ -9,7 +9,7 @@
 - [Developer Setup](developer-setup.md)
 - [Favorite Drupal modules](favorites.md)
 - [Lessons](lessons.md)
-- [Maintennace and support Contract](contract.md)
+- [Maintenance and support Contract](contract.md)
 - [Mastering Authoring - tips and modules](mastering-authoring.md)
 - [README template](readme-template.md)
 - [Script: Get Prod config](script-get-prod-config.md)

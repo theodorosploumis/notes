@@ -81,12 +81,12 @@
 - Possible ideas
 - Tone of voice (eg branding, UX defined etc)
 
-
 [Source: Drupalize.me - Introduction to Project Management](https://drupalize.me/series/introduction-project-management)
 
 ---
 
 ## Making accurate estimates in software development
+
 - Break down the work into smaller tasks
 - Don’t assume without asking questions
 - Propose adjusting the requirement

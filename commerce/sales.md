@@ -1,3 +1,5 @@
+# Sales and marketing
+
 ## 11 reasons why you lose clients
 
 1. You didn\'t listen the client
@@ -26,6 +28,7 @@
 ---
 
 ## How to close a client deal
+
 - As more details, read carefully the project plan
 - Make a mini research about the customer (area of activity, current status, strengths, proposals)
 - Show them your enthousiasm, kindly ask for the job
@@ -37,6 +40,7 @@
 ---
 
 ## How to get paid more by clients
+
 - Make life of the customers easier (tasks flow, save time etc)
 - Offer some tasks or material for free (freebies)
 - Use convincing wording (exaplain why you are worthing the money they pay):

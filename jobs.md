@@ -28,4 +28,3 @@
 - Company physical meetings
 - Budget for education, lessons, conferences, human improvement
 - Budget for Drupal contribution
-

@@ -11,4 +11,3 @@
 - [Sales](sales.md)
 - [Trends 2020](trends.md)
 - [User flows](flows.md)
-

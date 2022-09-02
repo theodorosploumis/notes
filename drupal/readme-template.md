@@ -19,9 +19,9 @@
 | Server           | `link to your Server provider or dashboard here` |
 | DNS | `link to your DNS provider or dashboard here`  |
 | SMTP | `link to your DNS provider or dashboard here` |
-| Site: dev branch    | http://dev.example.com (webroot `/home/www-data/example.com/dev/web`)     |
-| Site: stage branch  | http://stage.example.com (webroot `/home/www-data/example.com/stage/web`) |
-| Site: master branch | http://prod.example.com (webroot `/home/www-data/example.com/prod/web`)   |
+| Site: dev branch    | <http://dev.example.com> (webroot `/home/www-data/example.com/dev/web`)     |
+| Site: stage branch  | <http://stage.example.com> (webroot `/home/www-data/example.com/stage/web`) |
+| Site: master branch | <http://prod.example.com> (webroot `/home/www-data/example.com/prod/web`)   |
 | Htpasswd         | `link to your Password provider or file here` |
 | Drupal admin     | `link to your Password provider or file here` |
 | Database dump UI | `No UI, use only cli` |
@@ -98,4 +98,3 @@ Details about staging instance (if exists).
 Details about production instance.
 
 ## Other notes
-

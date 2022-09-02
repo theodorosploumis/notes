@@ -1,6 +1,7 @@
 # e-Commerce User Flows and Marketing automations
 
 ## User flows
+
 - Product Display > Add to Cart > Go to Cart/Checkout
 - Product Display > Ask for this Product > Send email to Admin
 - Cart: Adandoned > Send email (reminder) to Customer after x time > Delete cart after y time

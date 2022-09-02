@@ -1,6 +1,7 @@
 # e-Commerce Best Practices
 
 ## eShop Management (humans)
+
 - Reduce to zero the shipping costs
 - No hidden or unexpected costs annd fees
 - Fast shipping
@@ -14,13 +15,15 @@
 - Provide an easy way to get contacted (phone, email etc)
 
 ## eShop website
-- Secure transactions and data manipulation (check https://pcisecuritystandards.org)
+
+- Secure transactions and data manipulation (check <https://pcisecuritystandards.org>)
 - Focus on Product search and easy navigation
 - Eliminate the 404 errors for Products, Categories and Searches
 - Allow Users to save their searches by url path (take care of paging also)
 - System (CMS) testing process for new features or updates
 
 ## Usability tips
+
 - Use emails instead of usernames
 - Use nice and meaningfull breadcrumbs
 - Make contact information visible
@@ -35,4 +38,3 @@
 - Make Cart visible
 - Make Content visible
 - Use information on each Order to increase credibility
-

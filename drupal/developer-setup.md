@@ -1,15 +1,14 @@
 # Drupal Developer Setup
-My machine setup (software, tools etc) on Linux that helps me develop with Drupal and other frontend frameworks.
 
+My machine setup (software, tools etc) on Linux that helps me develop with Drupal and other frontend frameworks.
 
 ## Drupal tools
 
 - [**drush-launcher**](https://github.com/drush-ops/drush-launcher)
 - [drupalorg-cli](https://github.com/mglaman/drupalorg-cli)
-- https://github.com/theodorosploumis/generate_drupal_report
+- <https://github.com/theodorosploumis/generate_drupal_report>
 
-See also **https://drupaltools.com**.
-
+See also **<https://drupaltools.com>**.
 
 ## PHP tools
 
@@ -35,14 +34,12 @@ See also **https://drupaltools.com**.
 - [phpmetrics](https://github.com/phpmetrics/PhpMetrics)
 - [security-checker](https://github.com/enlightn/security-checker)
 
-
-## Nodejs packages (global):
+## Nodejs packages (global)
 
 - [grunt-cli](https://gruntjs.com)
 - [gulp-cli](https://gulpjs.com)
 - [husky](https://github.com/typicode/husky)
 - [yeoman](https://yeoman.io)
-
 
 ## Local VMs & Docker tools
 
@@ -53,14 +50,12 @@ See also **https://drupaltools.com**.
 - [lando](https://docs.lando.dev)
 - [takeout](https://github.com/tighten/takeout) (docker services scaffolding)
 
-
 ## Generic tools
 
 - [brew](https://brew.sh)
 - [**nvm**](https://github.com/nvm-sh/nvm)
 - [**rsync**](https://rsync.samba.org)
 - [**sass**](https://sass-lang.com)
-
 
 ## Utilities
 
@@ -75,16 +70,15 @@ See also **https://drupaltools.com**.
 
 - [**ohmyzsh**](https://ohmyz.sh)
 
-
 ## Editors - IDE
 
-- **https://www.jetbrains.com/phpstorm**
-- https://www.sublimetext.com
-- https://code.visualstudio.com
-- https://www.vim.org
+- **<https://www.jetbrains.com/phpstorm>**
+- <https://www.sublimetext.com>
+- <https://code.visualstudio.com>
+- <https://www.vim.org>
 
 ## Images - Graphics
 
-- https://www.gimp.org
-- https://inkscape.org
-- https://trimage.org
+- <https://www.gimp.org>
+- <https://inkscape.org>
+- <https://trimage.org>

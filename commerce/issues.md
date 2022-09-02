@@ -1,6 +1,7 @@
 # e-Commerce common Issues, Problems and Challenges
 
 ## Most common Challenges
+
 1. Finding the right products to sell
 2. Attracting the perfect customer
 3. Generating targeted traffic
@@ -17,6 +18,7 @@
 ---
 
 ## Most common Problems
+
 1. An absence of online identity verification
 2. Delivering an omnichannel customer experience
 3. Competitor Analysis
@@ -33,6 +35,7 @@
 ---
 
 ## Abandoned Carts/Checkouts reasons
+
 - Unexpected Shipping Costs
 - Having to create a new account
 - Was just conducting research
@@ -51,6 +54,7 @@
 ---
 
 ## Most common eCommerce website mistakes
+
 - Choosing the wrong ecommerce shopping cart
 - Not making sure your site is secure
 - Unintuitive or cumbersome site navigation
@@ -64,7 +68,3 @@
 - Making it hard to contact you, the seller
 
 [Source 1](https://www.cio.com/article/2601367/11-common-ecommerce-mistakes-and-how-to-fix-them.html)
-
-
-
-

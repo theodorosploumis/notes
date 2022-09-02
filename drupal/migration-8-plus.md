@@ -51,7 +51,7 @@ drush pmu -y upgrade_status
 ## Tips
 
 - Modules that do have patches for 10.x compadibility require 8.x core so they cannot apply through composer! You can download these modules as 'custom' and apply there any patches.
-- For the problem above you can also use the Drupal lenient endpoint so you allow patches to be applied. See https://dgo.to/3240297.
+- For the problem above you can also use the Drupal lenient endpoint so you allow patches to be applied. See <https://dgo.to/3240297>.
 - You may need `dev` versions for several modules.
 - Some of the major drupal modules may not have 10.x support.
 - If you do the same process for other environments (eg from `dev` to `stage`) don't forget to run `drush updb` after the first `composer install`. Otherwise the `drush cim` may cause errors like `The base theme stable cannot be uninstalled, because theme classy depends on it`.
@@ -65,11 +65,11 @@ drush pmu -y upgrade_status
 
 ## Articles
 
-- https://dev.acquia.com/blog/how-prepare-your-drupal-8-site-move-drupal-9
-- https://www.drupal.org/docs/upgrading-drupal/how-to-prepare-your-drupal-7-or-8-site-for-drupal-9
+- <https://dev.acquia.com/blog/how-prepare-your-drupal-8-site-move-drupal-9>
+- <https://www.drupal.org/docs/upgrading-drupal/how-to-prepare-your-drupal-7-or-8-site-for-drupal-9>
 - [Preparing Drupal.org projects for Drupal 9](https://www.drupal.org/node/3053183)
-- https://drupalize.me/tutorial/upgrade-drupal-9
-- https://www.drupal.org/docs/develop/using-composer/using-drupals-lenient-composer-endpoint
+- <https://drupalize.me/tutorial/upgrade-drupal-9>
+- <https://www.drupal.org/docs/develop/using-composer/using-drupals-lenient-composer-endpoint>
 
 ## db updates example
 

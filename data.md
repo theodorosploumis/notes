@@ -3,6 +3,7 @@
 What fields should we include on a table like data sheet?
 
 ## Drupal Projects
+
 - (Project) Name
 - Drupal version
 - PHP
@@ -19,6 +20,7 @@ What fields should we include on a table like data sheet?
 - Chat channel
 
 ## Team Members
+
 - Member name
 - Role
 - Email
@@ -27,4 +29,3 @@ What fields should we include on a table like data sheet?
 - (Photo)
 - Expertise
 - Tasks assigned
-

@@ -1,6 +1,7 @@
 # General e-Commerce Guide
 
 **Table of Contents**
+
 - [Structure](#structure)
 - [Blocks](#blocks)
 - [Simple Pages](#simple-pages)
@@ -23,7 +24,7 @@
   - Metatag (schema.org)
   - Product reviews
   - Add to favorites
- 
+
 - **Product Variation** (entity)
   - Price
   - List price
@@ -37,7 +38,7 @@
   - See also list (related Products)
   - Product bundles (packages of Products sold as a single item)
   - Product gifts (free Products when you buy other Products)
- 
+
 - **Payment types**
   - Cash on delivery
   - Cash on store
@@ -66,6 +67,7 @@
 ---
 
 ## Blocks
+
 - Breadcrumbs
 - System messages
 - Search form (text input)
@@ -94,6 +96,7 @@
 ---
 
 ## Simple Pages
+
 - Shipping
 - Payments
 - Returns
@@ -106,6 +109,7 @@
 ---
 
 ## Commerce Pages (Customer)
+
 - Checkout pages (with steps)
 - My Order(s)
 - My favorite Products
@@ -118,6 +122,7 @@
 ---
 
 ## Commerce Pages (Admin)
+
 - Shop overview/dashboard
 - Orders
 - Products
@@ -129,6 +134,7 @@
 ---
 
 ## Emails
+
 Emails as also as SMS and Mobile App messages (eg WhatsApp)
 
 - New Order created (Customer)
@@ -141,6 +147,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 ---
 
 ## Search
+
 - External service (SOLR, Elastic, Algolia, Sajari) vs core Views
 - Autocomplete (ajax)
 - Suggestions for keywords
@@ -164,6 +171,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 ---
 
 ## Other
+
 - Product
   - path aliases
   - metatags
@@ -202,4 +210,5 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 ---
 
 ## Drupal Modules
+
 Interesting Drupal modules for e-commerce websites

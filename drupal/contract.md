@@ -1,6 +1,6 @@
 # Drupal project maintenance contract
-Drupal Maintenance and Support contract template, tips and task lists.
 
+Drupal Maintenance and Support contract template, tips and task lists.
 
 ## Parameters to consider
 
@@ -54,6 +54,7 @@ Drupal Maintenance and Support contract template, tips and task lists.
 ---
 
 ## Statistics
+
 The values here are just for reference, every project has its own complexity and functionality. Also, they refer only to major sucurity updates on core and contributed modules.
 
 - A simple Drupal 8.x+ website without many contributed modules may need about **1hr per month**.
@@ -92,13 +93,13 @@ Some tasks may not refer to technical maintenance but keep here for reference (e
 | Core security updates | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Core minor version upgrade | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Contributed modules & theme security updates | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Bug fixes due to existing code & infrastructure | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| Version control development (dev, stage, prod) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Bug fixes due to existing code & infrastructure | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Version control development (dev, stage, prod) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Support via email | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Support via phone call | - | - | :heavy_check_mark: |
-| 24x7 support | - | - | :heavy_check_mark: | 
+| 24x7 support | - | - | :heavy_check_mark: |
 | Response time | 24hr | 8hr | 2hr |
-| Monthly report | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Monthly report | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Contract duration | 12 month | 12 month | 12 month |
 | Urgent tasks not included in contract | 35$/hr | 35$/hr | 30$/hr |
 | **Cost $/yr** | **2000** | **3000** | **5000** |
@@ -107,13 +108,15 @@ Some tasks may not refer to technical maintenance but keep here for reference (e
 
 ## Drop Support Task list
 
-Sometimes you need to take off a project and drop maintenance and support. 
+Sometimes you need to take off a project and drop maintenance and support.
 Here are the basic steps to follow to accomplish this.
 
 ### Backups
+
 - Before anyhing please take a **full backup of the Production environment** (database, public files, code).
 
 ### Drupal
+
 - Change User 1 email or create new Admin users for the new Company.
 - Remove or change emails for any other Company accounts (non admin).
 - Remove emails from Security Updates settings (email to get alerts).
@@ -121,16 +124,19 @@ Here are the basic steps to follow to accomplish this.
 - Remove your credentials from the website.
 
 ### DNS
+
 - Remove any DNS record (Cloudflare etc) that point to specific `.mycompany.domain` development subdomains for this project.
 - Delete any site aliases on the server that point to `.mycompany.domain` subdomains.
 
 ### Hosting
+
 - Remove ssh keys and known_hosts entries.
 - Remove all `.git` folders.
 - Remove any development related credentials for this project (eg CI keys etc).
 - Remove your email from the Hosting provider.
 
 ### Other
+
 - Disable testing tools (eg GitHub actions, BitBucket Pipelines, CircleCI, Testing screenshots etc).
 - Disable server health monitoring tool (if any).
 - Archive project on Internal Project Manegement tool (tasks and issues).
@@ -141,16 +147,17 @@ Here are the basic steps to follow to accomplish this.
 ---
 
 ## Resources
-- https://en.wikipedia.org/wiki/Service-level_agreement
-- https://www.appnovation.com/services/drupal-development/support-maintenance
-- https://opensenselabs.com/blog/articles/a-drupal-support-and-maintenance-guide
-- https://www.drupaldevelopersstudio.com/drupal-support-maintenance
-- https://www.drupalpartners.com/services/drupal-maintenance-and-support-company
-- https://www.optasy.com/services/drupal-maintenance-support
-- https://www.drupalaid.com
-- https://ixis.co.uk/drupal/support
-- https://maintainn.com/plans
-- https://www.web-savvy-marketing.com/wordpress-consulting/wordpress-support-and-maintenance
-- https://www.freelock.com/product/drupal-protection-plan
-- https://www.adcisolutions.com/knowledge/importance-website-maintenance
-- https://www.vardot.com/en-us/ideas/resources/support-maintenance-and-growth
+
+- <https://en.wikipedia.org/wiki/Service-level_agreement>
+- <https://www.appnovation.com/services/drupal-development/support-maintenance>
+- <https://opensenselabs.com/blog/articles/a-drupal-support-and-maintenance-guide>
+- <https://www.drupaldevelopersstudio.com/drupal-support-maintenance>
+- <https://www.drupalpartners.com/services/drupal-maintenance-and-support-company>
+- <https://www.optasy.com/services/drupal-maintenance-support>
+- <https://www.drupalaid.com>
+- <https://ixis.co.uk/drupal/support>
+- <https://maintainn.com/plans>
+- <https://www.web-savvy-marketing.com/wordpress-consulting/wordpress-support-and-maintenance>
+- <https://www.freelock.com/product/drupal-protection-plan>
+- <https://www.adcisolutions.com/knowledge/importance-website-maintenance>
+- <https://www.vardot.com/en-us/ideas/resources/support-maintenance-and-growth>

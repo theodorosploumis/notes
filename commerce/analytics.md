@@ -1,6 +1,7 @@
 # e-Commerce website Analytics
 
 ## Analytics setup
+
 Mainly for Google Analytics (using Google Tag Manager).
 
 - Set Goals
@@ -29,6 +30,7 @@ Mainly for Google Analytics (using Google Tag Manager).
 - Real users UX interviews and surveys
 
 ## Analytics reports
+
 - Acquisition report
 - Abandoned Carts
 - Add to Cart paths (which paths are the most successful?)
@@ -42,6 +44,7 @@ Mainly for Google Analytics (using Google Tag Manager).
 - Count of (same) User visits to complete an Order
 
 ## KPI
+
 1. Website traffic
 2. Referral Traffic
 3. Conversion Rate
@@ -62,6 +65,7 @@ Mainly for Google Analytics (using Google Tag Manager).
 18. Cost of goods sold
 
 ## Sources
-- https://www.webfx.com/industries/retail-ecommerce/ecommerce/kpis-for-ecommerce.html
-- https://developers.google.com/analytics/devguides/collection/analyticsjs/ecommerce
-- https://developers.google.com/tag-manager/enhanced-ecommerce
+
+- <https://www.webfx.com/industries/retail-ecommerce/ecommerce/kpis-for-ecommerce.html>
+- <https://developers.google.com/analytics/devguides/collection/analyticsjs/ecommerce>
+- <https://developers.google.com/tag-manager/enhanced-ecommerce>

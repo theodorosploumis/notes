@@ -1,4 +1,5 @@
 # Deployment workflow for Drupal
+
 > Assuming we are using git, composer and STAGE/PROD servers. The steps can be done by a human or a CD system.
 
 1. Get a backup of the database
