@@ -5,6 +5,7 @@
 - [Checklist: Development](checklist-development.md)
 - [Checklist: Production](checklist-production.md)
 - [Checklist: Frontend Performance](checklist-frontend-performance.md)
+- [config_exclude_modules on settings.php](config-exclude-modules.md)
 - [Deployment workflow](deployment-workflow.md)
 - [Developer Setup](developer-setup.md)
 - [Favorite Drupal modules](favorites.md)

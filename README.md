@@ -21,6 +21,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Checklist: Development](drupal/checklist-development.md)
   - [Checklist: Production](drupal/checklist-production.md)
   - [Checklist: Frontend Performance](drupal/checklist-frontend-performance.md)
+  - [config_exclude_modules on settings.php](drupal/config-exclude-modules.md)
   - [Developer Setup](drupal/developer-setup.md)
   - [Favorite Drupal modules](drupal/favorites.md)
   - [Lessons](drupal/lessons.md)
