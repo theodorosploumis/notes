@@ -31,6 +31,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Script: Get Prod config](drupal/script-get-prod-config.md)
   - [Selling Drupal](drupal/selling-drupal)
   - [Start with Drupal](drupal/start-drupal.md)
+  - [Teamocil (tool)](drupal/teamocil.md)
   - [Theme validator](drupal/theme-validator.md)
   - [Terminology](drupal/terminology.md)
   - [Testing, CI/CD](drupal/testing.md)
