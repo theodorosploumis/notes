@@ -1,9 +1,16 @@
-# Drupal migration
+# Migration to Drupal
 
 > A basic of tips, best practices and resources about migration to Drupal.
 
+## Prepare for migration
+
+Most of the times you need to create a report about the site/source that will be migrated to Drupal.
+
+If you are going to migrate from an old (7.x or less) Drupal site and need to generate a Report please check [drupal-report](https://github.com/theodorosploumis/drupal-report).
+
 ## Tips
 
+- Generate a sheet of the entities, fields etc to be migrated.
 - Use always the **migrate_plus** module.
 - Always create and enable a custom module that will contain any **custom migration plugins** and initial **configuration**.
 - Migrate only data, not settings or other special configuration (eg avoid migrating permissions, site settings, node settings etc).
@@ -14,10 +21,10 @@
 - Always try to run migrations from cli (drush) and not the UI.
 - Create several Views on the old website (that will be migrated) if it is built on Drupal that allows you to get an overview of the old data and have a UI when testing (Nodes, Users, Paragraphs, Fields, Menu links etc).
 - Document the custom module with a README file (mappings, process, drush commands, what to excpect, dependencies, manual process, database credentials example etc).
-- While developing the migrations import and export configuration continously until you get the results you excpect. When the experiments are finished copy the final yml files back to the custom module (after removing key `_core`).
+- While developing the migrations import and export configuration continuously until you get the results you expect. When the experiments are finished copy the final yml files back to the custom module (after removing key `_core`).
 - Before migrating private files it is required to copy them to the new website (on the private folder) using rsync or any other similar tool.
 - If there is a multilingual node migration to happen use a custom field to keep information about the old nid (eg an integer field) to allow you better testing.
-- Be careful when migrating Drupal 7.x (or 6.x) websites that have assymetric field values (eg Paragraphs).
+- Be careful when migrating Drupal 7.x (or 6.x) websites that have asymmetric field values (eg Paragraphs).
 - If you want to skip a migration row you have to `return FALSE;` on the `function prepareRow(Row $row)`.
 - If you want to get real distinct rows (eg only 1 row with the same title) do not try to do this on the `query()` function but on the `prepareRow(Row $row)` function. Function `query()` usually returns error when running the migration due to the mysql restrictions.
 - If you need to get data from html tags or massage html content use the PHP `DOMDocument` library.
