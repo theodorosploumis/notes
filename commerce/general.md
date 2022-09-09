@@ -10,6 +10,8 @@
 - [Emails](#emails)
 - [Search](#search)
 - [Other](#other)
+- [Drupal Modules](#drupal-modules)
+- [Resources](resources)
 
 ---
 
@@ -215,3 +217,9 @@ Interesting Drupal modules for e-commerce websites:
 
  - https://www.drupal.org/project/commerce, https://docs.drupalcommerce.org
  - https://www.drupal.org/project/digital_marketing_checklist
+
+---
+
+## Resources
+
+- [Book: Digital Marketing with Drupal, 03/2022](https://www.packtpub.com/product/digital-marketing-with-drupal/9781801071895)
