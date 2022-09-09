@@ -11,7 +11,7 @@
 - [Search](#search)
 - [Other](#other)
 - [Drupal Modules](#drupal-modules)
-- [Resources](resources)
+- [Resources](#resources)
 
 ---
 
