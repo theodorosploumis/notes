@@ -211,4 +211,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 
 ## Drupal Modules
 
-Interesting Drupal modules for e-commerce websites
+Interesting Drupal modules for e-commerce websites:
+
+ - https://www.drupal.org/project/commerce, https://docs.drupalcommerce.org
+ - https://www.drupal.org/project/digital_marketing_checklist
