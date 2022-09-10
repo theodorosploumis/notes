@@ -111,6 +111,7 @@ The steps bellow are not mandatory and their order is not strict.
 
 - <https://www.drupal.org/project/production_checklist>
 - <https://www.drupal.org/project/launch_checklist>
+- <https://www.drupal.org/project/digital_marketing_checklist>
 - <https://github.com/alehkot/drupal-launch-checklist>
 - <https://github.com/meSingh/product-launch-checklist>
 - <https://docs.acquia.com/cloud-platform/onboarding/preparing-launch>
