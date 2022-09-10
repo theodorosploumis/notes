@@ -47,6 +47,10 @@ See also:
 - <https://github.com/theodorosploumis/drupal-best-practices>
 - <https://github.com/kbariotis/templates>
 
-## Licence
+## Inspired by
 
-[CC0 1.0 Universal](LICENSE) 2016 - 2021
+- <https://github.com/RichardLitt/knowledge>
+
+---
+
+Maintained since 2016
