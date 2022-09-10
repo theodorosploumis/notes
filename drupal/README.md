@@ -20,5 +20,5 @@
 - [Start with Drupal](start-drupal.md)
 - [Teamocil (tool)](teamocil.md)
 - [Terminology](terminology.md)
-- [Testing, CI/CD](testing.md)
+- [Testing, CI/CD](testing)
 - [Theme validator](theme-validator.md)

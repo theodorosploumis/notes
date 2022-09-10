@@ -35,7 +35,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Teamocil (tool)](drupal/teamocil.md)
   - [Theme validator](drupal/theme-validator.md)
   - [Terminology](drupal/terminology.md)
-  - [Testing, CI/CD](drupal/testing.md)
+  - [Testing, CI/CD](drupal/testing)
   - [Theme validator](drupal/theme-validator.md)
 - [Figma Component Checklist](design/figma)
 - [UI Design](design/ui) (tips for UI design)
