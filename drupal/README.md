@@ -8,6 +8,7 @@
 - [config_exclude_modules on settings.php](config-exclude-modules.md)
 - [Deployment workflow](deployment-workflow.md)
 - [Developer Setup](developer-setup.md)
+- [Debug](debug)
 - [Favorite Drupal modules](favorites.md)
 - [Lessons](lessons.md)
 - [Maintenance and support Contract](contract.md)
