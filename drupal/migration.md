@@ -10,6 +10,7 @@ If you are going to migrate from an old (7.x or less) Drupal site and need to ge
 
 ## Tips
 
+- **Before starting get an overview** (as an anonymous user) of the webpages that will be migrated (eg following the Main menu). Doing this you will get an idea of what content types and widgets exist on the site. Eg if there are many images or links to internal files inside text fields will require a custom HTML persing.
 - Generate a sheet of the entities, fields etc to be migrated.
 - Use always the **migrate_plus** module.
 - Always create and enable a custom module that will contain any **custom migration plugins** and initial **configuration**.
@@ -21,7 +22,7 @@ If you are going to migrate from an old (7.x or less) Drupal site and need to ge
 - Always try to run migrations from cli (drush) and not the UI.
 - Create several Views on the old website (that will be migrated) if it is built on Drupal that allows you to get an overview of the old data and have a UI when testing (Nodes, Users, Paragraphs, Fields, Menu links etc).
 - Document the custom module with a README file (mappings, process, drush commands, what to excpect, dependencies, manual process, database credentials example etc).
-- While developing the migrations import and export configuration continuously until you get the results you expect. When the experiments are finished copy the final yml files back to the custom module (after removing key `_core`).
+- While developing the migrations import and export configuration continuously until you get the results you expect. When the experiments are finished copy the final yml files back to the custom module (after removing key `_core`). Or better use the [config_devel](https://www.drupal.org/project/config_devel) module).
 - Before migrating private files it is required to copy them to the new website (on the private folder) using rsync or any other similar tool.
 - If there is a multilingual node migration to happen use a custom field to keep information about the old nid (eg an integer field) to allow you better testing.
 - Be careful when migrating Drupal 7.x (or 6.x) websites that have asymmetric field values (eg Paragraphs).
