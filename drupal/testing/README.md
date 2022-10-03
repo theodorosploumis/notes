@@ -70,6 +70,7 @@ What to test with a Drupal project:
 - [Drupal.org - Automated testing](https://www.drupal.org/docs/automated-testing)
 - [Drupalize.me - Automated Testing in Drupal](https://drupalize.me/series/automated-testing-drupal)
 - [Lullabot - An Overview of Testing in Drupal 8, 2017](https://www.lullabot.com/articles/an-overview-of-testing-in-drupal-8)
+- [UI Testing: A Getting Started Guide and Checklist, 2022](https://applitools.com/blog/ui-testing-guide/)
 
 ![Testing diagram open_social](testing_flows_open-social.jpg)
 
