@@ -2,6 +2,8 @@
 
 > A basic of tips, best practices and resources about migration to Drupal.
 
+Official Drupal.org documentation: https://www.drupal.org/docs/drupal-apis/migrate-api.
+
 ## Prepare for migration
 
 Most of the times you need to create a report about the site/source that will be migrated to Drupal.
@@ -84,9 +86,16 @@ $databases['migrate']['default'] = array (
 );
 ```
 
-## Migration plugins list
+## Migration source plugins list
 
 Notice: The list is not complete and may depends on several contributed modules and not only core.
+
+If you want to get your current project **migrate source plugin** list run:
+
+```bash
+drush ev "print_r(array_keys(\Drupal::service('plugin.manager.migrate.source')->getDefinitions()));"
+```
+
 
 ```txt
 addressfield,
