@@ -2,8 +2,6 @@
 
 > A basic of tips, best practices and resources about migration to Drupal.
 
-Official Drupal.org documentation: https://www.drupal.org/docs/drupal-apis/migrate-api.
-
 ## Prepare for migration
 
 Most of the times you need to create a report about the site/source that will be migrated to Drupal.
@@ -50,11 +48,11 @@ If you are going to migrate from an old (7.x or less) Drupal site and need to ge
 - Test node translation form: edit
 - Test node translation form: delete
 - Test node translation form: unpublish (should hide the equivalent menu link and language switch link)
-- Test node: add translation
+- Test node: add translation, update moderation state, revert revisions etc
 
 ## References
 
-Notice: The references were added for the 9.0.x version.
+Notice: The references were added for the 9+ version.
 
 - [Drupal.org Docs - Migrate API](https://www.drupal.org/docs/drupal-apis/migrate-api)
 - [drupalmigrate.org](https://drupalmigrate.org)
@@ -65,9 +63,9 @@ Notice: The references were added for the 9.0.x version.
 
 ## Useful modules to install
 
-- migrate_tools
-- migrate_plus
-- migrate_devel
+- [migrate_tools](https://www.drupal.org/project/migrate_tools)
+- [migrate_plus](https://www.drupal.org/project/migrate_plus)
+- [migrate_devel](https://www.drupal.org/project/migrate_devel)
 
 ## DB example for migration
 
