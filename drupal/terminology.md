@@ -1,5 +1,7 @@
 # Drupal terminology
 
+See also https://www.drupal.org/docs/user_guide/en/glossary.html.
+
 - Core (Drupal core)
 - Distribution (Distro)
 - Install profile (Profile)
