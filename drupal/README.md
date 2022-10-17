@@ -23,3 +23,4 @@
 - [Terminology](terminology.md)
 - [Testing, CI/CD](testing)
 - [Theme validator](theme-validator.md)
+- [Translation solutions](translations.md)
