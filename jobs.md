@@ -1,4 +1,6 @@
-# Questions to ask before you join a company
+# Job seeking, interviews, HR
+
+## Questions to ask before you join a company
 
 - Company details (website, email, contact person)
 - About Company (when, where, customers, philosophy, plan)
@@ -28,3 +30,15 @@
 - Company physical meetings
 - Budget for education, lessons, conferences, human improvement
 - Budget for Drupal contribution
+
+## Remote Jobs
+
+- https://jobs.drupal.org (Drupal only)
+- https://remoteok.com
+- https://remote.co
+- https://weworkremotely.com
+- https://remotive.com
+- https://www.remotefrontendjobs.com
+- https://www.workingnomads.com/jobs
+- https://www.flexjobs.com
+- 
