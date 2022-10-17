@@ -4,23 +4,14 @@
 
 - Install MYPROFILE with any modules
 - Enable additional languages (non English)
-- Go to the Translation UI (/admin/config/regional/translate) and add
-  translations for strings
-- Go to the Configuration Translations page
-  (/admin/config/regional/config-translation) and add translations for
+- Go to the Translation UI (`/admin/config/regional/translate`) and add translations for strings
+- Go to the Configuration Translations page (`/admin/config/regional/config-translation`) and add translations for
   configuration settings forms (this can - be also done for each form on the
-  form page “translations” tab).
-- When ready, export all po files for each language and add this under
-  `mymodule/translations/mymodule.de.po`. The translation path
-  1translations/mymodule.de.po`is set on`mymodule.info.yml`. Alternatively, use
-  a pot file (template) to generate po translations. Example on
+  form page "translations" tab).
+- When ready, export all po files for each language and add this under `mymodule/translations/mymodule.de.po`. The translation path `translations/mymodule.de.po` is set on `mymodule.info.yml`. Alternatively, use a pot file (template) to generate po translations. Example on
   <https://MY-ONLINE-REPOSITORY/MYPROFILE-platform/-/tree/master/web/modules/custom/MY_CUSTOM_MODULE/translations>
-- When ready, export all config yml files and copy all the files under
-  `config/sync/language` folders under your module/theme
-  `config/install/language` folder. See example on
-  <https://MY-ONLINE-REPOSITORY/MYPROFILE-platform/-/tree/master/web/modules/custom/MY_CUSTOM_MODULE/config/install/language>
-- Data should be translated with CSV import or through the UI (menu link items,
-  custom content blocks, nodes, taxonomy terms etc)
+- When ready, export all config yml files and copy all the files under `config/sync/language` folders under your module/theme `config/install/language` folder. See example on <https://MY-ONLINE-REPOSITORY/MYPROFILE-platform/-/tree/master/web/modules/custom/MY_CUSTOM_MODULE/config/install/language>
+- Data should be translated with CSV import or through the UI (menu link items, custom content blocks, nodes, taxonomy terms etc)
 
 | **Type** | **Configuration** | **twig templates** |**module strings** | **drupal entities** |
 | :---: | :---: | :---: | :---: | :---: |
@@ -82,7 +73,7 @@ drush config:set language.negotiation url.prefixes.el el
 - [config_translation_po](https://www.drupal.org/project/config_translation_po)
 - [decoupled_interface_translations](https://www.drupal.org/project/decoupled_interface_translations)
 - [interface_string_stats](https://www.drupal.org/project/interface_string_stats)
-- [l10n_client](https://www.drupal.org/project/l10n_client)
+- [**l10n_client**](https://www.drupal.org/project/l10n_client)
 - [l10n_quick_links](https://www.drupal.org/project/l10n_quick_links)
 - [l10n_tools](https://www.drupal.org/project/l10n_tools)
 - [l10n_update_bundled](https://www.drupal.org/project/l10n_update_bundled)
@@ -93,11 +84,11 @@ drush config:set language.negotiation url.prefixes.el el
 - [multilingual_audit](https://www.drupal.org/project/multilingual_audit)
 - [po_translations_report](https://www.drupal.org/project/po_translations_report)
 - [potion](https://www.drupal.org/project/potion)
-- [potx](https://www.drupal.org/project/potx)
+- [**potx**](https://www.drupal.org/project/potx)
 - [simple_entity_translations](https://www.drupal.org/project/simple_entity_translations)
 - [simple_tmgmt](https://www.drupal.org/project/simple_tmgmt)
 - [string_translation_ui](https://www.drupal.org/project/string_translation_ui)
-- [tmgmt](https://www.drupal.org/project/tmgmt)
+- [**tmgmt**](https://www.drupal.org/project/tmgmt)
 - [tmgmt_spreadsheet](https://www.drupal.org/project/tmgmt_spreadsheet)
 - [tranc](https://www.drupal.org/project/tranc)
 - [translate_set](https://www.drupal.org/project/translate_set)
@@ -110,7 +101,9 @@ drush config:set language.negotiation url.prefixes.el el
 - [views_entity_translations_links](https://www.drupal.org/project/views_entity_translations_links)
 - [yaml_translation_import](https://www.drupal.org/project/yaml_translation_import)
 
-## Translations sheet columns (if used)
+## Translations sheet columns
+
+The basic columns needed when translating using a Sheet (e.g. Google Sheets),
 
 - location (where us the string coming from)
 - source (the string to translate, always in English)
@@ -127,8 +120,7 @@ A. Translate
 
 ```bash
 Translator → Google Sheets (xls) → csv → po (for non Entities) (OR)
-Translator → l10n_server (or Service) → translate (manually or through the
-service API) → export to po file
+Translator → l10n_server (or Service) → translate (manually or through the service API) → export to po file
 ```
 
 B. Import to Projects
@@ -139,16 +131,13 @@ po → "/translations/PROJECT.LANGCODE.po" file each project root (git)
 
 ## Tools
 
-1. [localize.drupal.org](https://localize.drupal.org) (official Drupal localize
-   server)
+1. [localize.drupal.org](https://localize.drupal.org) (official Drupal localize server)
 2. [drupal.org/project/l10n_server](https://www.drupal.org/project/l10n_server)
-3. [localizejs.com](https://localizejs.com/products/web) (translation service,
-   on the fly translation through DOM)
+3. [localizejs.com](https://localizejs.com/products/web) (translation service, on the fly translation through DOM)
 4. [poeditor.com](https://poeditor.com/) (translation service)
 5. [poedit.net](https://poedit.net/) (translation service)
 6. [weblate.org](https://weblate.org/) (translation service)
-7. [mlocati.github.io/jsgettext](https://mlocati.github.io/jsgettext) (Online
-   convert from/to po, pot, mo)
+7. [mlocati.github.io/jsgettext](https://mlocati.github.io/jsgettext) (Online convert from/to po, pot, mo)
 
 ## D.O related issues
 
