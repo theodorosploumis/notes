@@ -30,18 +30,18 @@
 | Content integrating                         |
 | Content edit                                |
 | Other requirements                          |
-| Unforeseen expenses (20%)                   |
+| **Unforeseen expenses (20%)**               |
 | **Total**                                   |
 
 ---
 
 | **Task groups**    | **Tasks**                                                                 | **Timeline** | **Cost** |
 |--------------------|---------------------------------------------------------------------------|--------------|----------|
-| Structure          | SitemapContent schemeMenusContent types (nodes, taxonomies, profiles etc) |
-| Display            | ThemeContent pagesViewsBlocksUser pages                                   |
-| Users              | RolesPermissionsActions                                                   |
+| Structure          | Sitemap, Content scheme, Menus, Content types (nodes, taxonomies etc)     |
+| Display            | Theme, Content pages, Views, Blocks, User pages                           |
+| Users              | Roles, Permissions, Actions                                               |
 | Translations       | Content types                                                             |
-| Modules            | Contrib modulesCustom modules                                             |
+| Modules            | Contrib modules, Custom modules                                           |
 | 3rd party services | Integration                                                               |
 | **Total**          |
 
