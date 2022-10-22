@@ -68,6 +68,7 @@ Distributions like [Lightning](https://www.drupal.org/project/lightning), [Thund
 
 ## Sources & links
 
+- [Selling Drupal CMS - A YouTube list of related presentations](https://www.youtube.com/playlist?list=PLu2UqJVurcrveBrIuRUvQPLld2Spg_Hzg)
 - [Drupal: Agency Marketing](https://www.drupal.org/community/agency-marketing)
 - [Drupal Initiative Material (google drive)](https://drive.google.com/drive/folders/1ZkRt80-XuEmAIka_w3SLv8stc4zlaFwG)
 - [The ultimate guide to Drupal 8 (pdf)](https://www.acquia.com/sites/acquia.com/files/documents/2019-05/UltimateGuideToDrupal_8.7.pdf)
