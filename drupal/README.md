@@ -6,6 +6,7 @@
 - [Checklist: Production](checklist-production.md)
 - [Checklist: Frontend Performance](checklist-frontend-performance.md)
 - [config_exclude_modules on settings.php](config-exclude-modules.md)
+- [Cost estimation](cost.md)
 - [Deployment workflow](deployment-workflow.md)
 - [Developer Setup](developer-setup.md)
 - [Debug](debug)
