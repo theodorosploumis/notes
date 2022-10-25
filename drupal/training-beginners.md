@@ -2,6 +2,8 @@
 
 > Assuming a new member is coming on the team and you need to educate her/him so she/he can use Drupal.
 
+## Training schedule
+
 These are the proposed steps for (Drupal only) onboarding with approximately time needed.
 
 - Study on **Drupalize.me** or similar online guide: 2 week
@@ -13,8 +15,13 @@ These are the proposed steps for (Drupal only) onboarding with approximately tim
 
 After the initial training period (**4 week**) you can start as an **assistant developer** on a simple project with easy tasks.
 
+## Useful processes
 
-See also:
+- **Pair programming**
+- Live coding
+- Snippet sharing
+
+## See also
 
 - [Start with Drupal](start-drupal.md)
 - [Drupal Lessons](lessons.md)
