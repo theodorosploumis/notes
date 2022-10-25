@@ -40,6 +40,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Testing, CI/CD](drupal/testing)
   - [Theme validator](drupal/theme-validator.md)
   - [Translation solutions](drupal/translations.md)
+  - [Training Beginners](drupal/training-beginners.md)
 - [Figma Component Checklist](design/figma)
 - [UI Design](design/ui) (tips for UI design)
 
