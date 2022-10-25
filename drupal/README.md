@@ -24,4 +24,5 @@
 - [Terminology](terminology.md)
 - [Testing, CI/CD](testing)
 - [Theme validator](theme-validator.md)
+- [Training Beginners](training-beginners.md)
 - [Translation solutions](translations.md)
