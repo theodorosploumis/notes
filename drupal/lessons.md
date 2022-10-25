@@ -207,7 +207,7 @@
 - [symfonycasts.com](https://symfonycasts.com/tracks/drupal)
 - [drupal.tv - Video collections](https://drupal.tv)
 - [LevelUpTuts - Drupal 8 Basics](https://www.youtube.com/watch?v=J9U1DQYbFjA&list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI)
-- <https://www.ostraining.com/blog/drupal/200-drupal-8-videos>
+- [OSTraining Will Release 200 Drupal 8 Videos for Free](https://www.ostraining.com/blog/drupal/200-drupal-8-videos)
 - Learn Drupal 8 for Beginners, Step by Step: [#1](https://www.youtube.com/watch?v=BXvaKPm1x-E), [#2](https://www.youtube.com/watch?v=oG93vZ0s5rk), [#3](https://www.youtube.com/watch?v=g5KTrznNJzo)
 - [redcrackle.com/blog/drupal-8/free-tutorials-list](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
 - [Drupal 9 Module Development - Packt Book](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
@@ -223,7 +223,7 @@
 
 ## Useful Resources
 
-- [Drupal Glyphs - Illustrations suitable for education materials](https://github.com/theodorosploumis/drupal-glyphs)
+- [OpenDrupal, Free and Open Source training materials for teaching and learning Drupal](https://github.com/OpenDrupal)
 - [Sprint Participant Role Task Cards](https://www.drupal.org/sprint-task-cards)
 
 ## License
