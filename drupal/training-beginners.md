@@ -6,6 +6,7 @@
 
 These are the proposed steps for (Drupal only) onboarding with approximately time needed.
 
+- Check the official, community supported, [user guide](https://www.drupal.org/project/user_guide). It is mirrored by drupalize me and is availalbe as a PDF too. Has room for improvement and can get a bit tiring but it is well organised and gets updated, something which is not true for online-videos.
 - Study on **Drupalize.me** or similar online guide: 2 week
 - Watch internal howto videos (how to work with the other members, company tools etc): 3 days
 - Study internal documentation: 2 days
