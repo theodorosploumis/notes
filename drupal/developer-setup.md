@@ -6,20 +6,19 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 
 - [**drush-launcher**](https://github.com/drush-ops/drush-launcher)
 - [drupalorg-cli](https://github.com/mglaman/drupalorg-cli)
-- <https://github.com/theodorosploumis/generate_drupal_report>
 
-See also **<https://drupaltools.com>**.
+See a full list on **<https://drupaltools.com>**.
 
 ## PHP tools
 
 **Required**:
 
 - [**composer**](https://getcomposer.org)
-- [phpbrew](https://github.com/phpbrew/phpbrew)
-- [robo](https://robo.li)
 
 **Optional**:
 
+- [**phpbrew**](https://github.com/phpbrew/phpbrew)
+- [**robo**](https://robo.li)
 - [deployer](https://deployer.org)
 - [captainhook](https://github.com/captainhookphp/captainhook)
 - [codeception](https://github.com/codeception/codeception)
