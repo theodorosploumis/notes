@@ -2,11 +2,14 @@
 
 > Assuming a new member is coming on the team and you need to educate her/him so she/he can use Drupal.
 
+Before starting it is a good idea to check the **official, community supported, [Drupal.org User Guide](https://www.drupal.org/project/user_guide)**. 
+
+It is mirrored by drupalize.me and is availalbe as a **PDF** too. It is well organised and gets updated, something which is not true for online-videos.
+
 ## Training schedule
 
 These are the proposed steps for (Drupal only) onboarding with approximately time needed.
 
-- Check the official, community supported, [user guide](https://www.drupal.org/project/user_guide). It is mirrored by drupalize me and is availalbe as a PDF too. Has room for improvement and can get a bit tiring but it is well organised and gets updated, something which is not true for online-videos.
 - Study on **Drupalize.me** or similar online guide: 2 week
 - Watch internal howto videos (how to work with the other members, company tools etc): 3 days
 - Study internal documentation: 2 days
