@@ -1,10 +1,8 @@
 # Training beginners on Drupal
 
 > Assuming a new member is coming on the team and you need to educate her/him so she/he can use Drupal.
-
-Before starting it is a good idea to check the **official, community supported, [Drupal.org User Guide](https://www.drupal.org/project/user_guide)**. 
-
-It is mirrored by drupalize.me and is availalbe as a **PDF** too. It is well organised and gets updated, something which is not true for online-videos.
+> Before starting it is a good idea to check the **official, community supported, [Drupal.org User Guide](https://www.drupal.org/project/user_guide)**. 
+> It is mirrored by drupalize.me and is availalbe as a **PDF** too. It is well organised and gets updated, something which is not true for online-videos.
 
 ## Training schedule
 
