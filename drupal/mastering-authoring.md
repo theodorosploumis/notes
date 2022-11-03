@@ -1,6 +1,7 @@
 # Mastering Authoring experience in Drupal
 
 > A list of modules and tips to offer a better experience to Authors of a Drupal website.
+> See also https://github.com/eworx-org/drupal-editors
 
 ## Core modules/functionality
 
