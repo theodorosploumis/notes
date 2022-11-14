@@ -28,10 +28,10 @@
 - During the update the developer(s) should not be on a hurry when doing the sec. updates.
 - After the update the developer(s) should monitor the site for some time and be ready to revert/act if anything happens.
 - Demand a **content freeze** during the updates (you can use the module [readonlymode](https://www.drupal.org/project/readonlymode) or the core **maintenance_mode** variable for that).
-- Maintenance windows (date or range of dates).
-- Maintenance calendar (a shared calendar where the site owner should mention which dates should not be an option for security updates).
-- Maintenance emails (inform the customer about the **upcoming** update, inform the customer about the update **happened**).
-- Create a technical report about each update (git tag/commit, Drupal core, Drupal contrib versions, PHP packages versions). You can use tools like [generate_drupal_report](https://github.com/theodorosploumis/generate_drupal_report).
+- Decide the **Maintenance windows** (date or range of dates).
+- Use a **Maintenance windows calendar** (a calendar shared with the parts evolved where the site owner should mention which dates should not be an option for security updates).
+- Send **Maintenance emails** before and after the update (inform the customer about the **upcoming** update, inform the customer about the update **happened**).
+- Create a **technical report** about each update (git tag/commit, Drupal core, Drupal contrib versions, PHP packages versions). You can use tools like [generate_drupal_report](https://github.com/theodorosploumis/generate_drupal_report).
 - Add **datetime to bash history** so each cli command has a datetime entry.
 - Use a special **cli color when ssh on a Production server** (eg make it with red background).
 - Allow for emergency **system rollback** from the UI (code, database, public files). This is needed in cases where an error occur after a sec. update and there is lack of communication between the sec. team and the site owner.
@@ -39,6 +39,7 @@
 - Establish a **manual (UAT) testing** guide to allow the customer check the updates.
 - Establish a **clean plan about the responsibilities**. Who is going to have each responsibility, which are the communication options (email, phone etc), which are the tasks need to be done when a problem arise etc.
 - If there are **many companies or vendors evolving** be careful about any misunderstands and delays that may happen due to the number of the people evolved.
+- Developers and other parts evolved should update a **shared checklist** for all the steps required.
 
 ## Monitor site health
 
