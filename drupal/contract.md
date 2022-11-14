@@ -15,7 +15,7 @@ Drupal Maintenance and Support contract template, tips and task lists.
 - Custom modules, plugins, code
 - Multisite system
 - eCommerce system. eCommerce needs special treatment and specific maintenance tasks
-- Other special requirements (eg Goverment website)
+- Other special requirements (eg Government website)
 
 ---
 
@@ -113,7 +113,7 @@ Here are the basic steps to follow to accomplish this.
 
 ### Backups
 
-- Before anyhing please take a **full backup of the Production environment** (database, public files, code).
+- Before anything please take a **full backup of the Production environment** (database, public files, code).
 
 ### Drupal
 
