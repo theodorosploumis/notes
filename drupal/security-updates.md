@@ -40,14 +40,10 @@
 - Establish a **clean plan about the responsibilities**. Who is going to have each responsibility, which are the communication options (email, phone etc), which are the tasks need to be done when a problem arise etc.
 - If there are **many companies or vendors evolving** be careful about any misunderstands and delays that may happen due to the number of the people evolved.
 
----
-
 ## Monitor site health
 
 - Uptime monitoring (external SASS, eg [uptimerobot](https://uptimerobot.com), [New Relic](https://newrelic.com))
 - Get SMS and email alerts for PHP fatal errors on Drupal
-
----
 
 ## UAT examples for Drupal
 
@@ -60,8 +56,6 @@
 - Cron task works
 - SMTP and mail system works
 - There are no JS errors on console
-
----
 
 ## Related guides
 
