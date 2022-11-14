@@ -32,6 +32,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Migration from 8.x to latest version](drupal/migration-8-plus.md)
   - [README template](drupal/readme-template.md)
   - [Script: Get Prod config](drupal/script-get-prod-config.md)
+  - [Security Updates for Drupal](drupal/security-updates.md)
   - [Selling Drupal](drupal/selling-drupal)
   - [Start with Drupal](drupal/start-drupal.md)
   - [Teamocil (tool)](drupal/teamocil.md)

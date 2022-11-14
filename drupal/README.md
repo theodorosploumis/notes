@@ -19,6 +19,7 @@
 - [README template](readme-template.md)
 - [Script: Get Prod config](script-get-prod-config.md)
 - [Selling Drupal](selling-drupal.md)
+- [Security Updates for Drupal](security-updates.md)
 - [Start with Drupal](start-drupal.md)
 - [Teamocil (tool)](teamocil.md)
 - [Terminology](terminology.md)

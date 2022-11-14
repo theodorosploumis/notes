@@ -37,10 +37,11 @@
 
 ## Examples
 
-What to test with a Drupal project:
+What to test for a Drupal project:
 
 - dev\* and \*\_ui modules are disabled on Production
-- A user for Role X can submit a node form
+- A user of Role X can submit a node form of a bundle
+- A user of Role X can view a node of a bundle
 - New site can be installed from configuration and/or demo content
 - REST API (CRUD operations)
 - REST API (get Nodes single, list, filtering, pager)
@@ -52,7 +53,7 @@ What to test with a Drupal project:
 - REST API (security test)
 - REST API (Permissions)
 - Functionality (eg module API, test functions)
-- Permissions (eg a Druapl user can access a page)
+- Permissions (eg a Drupal user can access a page)
 - Integration (eg PHP versions, dependencies versions, Drupal core versions)
 - UI (Expected behavior on a Drupal page)
 - Code validation according to standards

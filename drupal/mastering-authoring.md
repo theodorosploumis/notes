@@ -23,7 +23,7 @@
 ## Other
 
 - UI option to take backups before any change
-- DEV/STAGE/PROD environemnts
+- DEV/STAGE/PROD environments
 - Override backend theme
 - Custom Admin content views
 - All blocks on code (under vcs)
