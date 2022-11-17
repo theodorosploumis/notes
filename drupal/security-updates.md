@@ -26,7 +26,7 @@
 - During the update the developer(s) should always follow all the steps even if you are sure they are not needed.
 - During the update the developer(s) should not be tired, doing multitasking, talking on the phone etc.
 - During the update the developer(s) should not be on a hurry when doing the sec. updates.
-- After the update the developer(s) should monitor the site for some time and be ready to revert/act if anything happens.
+- After the update the developer(s) should monitor the site for some time and be ready to revert/act if anything happens (eg for 1 day).
 - Demand a **content freeze** during the updates (you can use the module [readonlymode](https://www.drupal.org/project/readonlymode) or the core **maintenance_mode** variable for that).
 - Decide the **Maintenance windows** (date or range of dates).
 - Use a **Maintenance windows calendar** (a calendar shared with the parts evolved where the site owner should mention which dates should not be an option for security updates).
