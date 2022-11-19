@@ -6,10 +6,12 @@
 - We are using composer.
 - We are deploying a Drupal 8+ version.
 - There are some tests already passed (on DEV, STAGE environments only). Continue only if tests pass.
+- We have a [drush alias](https://www.drush.org/latest/site-aliases) for each environment.
 
 ## Deployment steps
 
 > The steps can be done by a human or a Continuous Deployment (CD) system.
+> The commands can be executed using drush site aliases.
 
 1. Allocate time required for the deployment.
 2. Get a backup of the database, code, and public files (a full backup).
