@@ -15,7 +15,7 @@
 ## When to do the updates
 
 - Always use a maintenance window and a **shared calendar** (with the customer) to plan the updates. For example. you should not do the updates (even if there is a sec. issue) when the site is having a high traffic campaign.
-- Prefer the same dates as Drupal core security releases. For example, **the third Wednesday of each month** is a good option to plan for updates.
+- Prefer the same dates as Drupal core security releases. For example, **the third Wednesday of each month** is a good option to plan for updates otherwise go for **the very next Monday**.
 - ASAP when the security issue is of high priority.
 - Do not do the updates late on the day (at least 4 hours before leaving the office) or on the last day of the week (eg Friday).
 - Try to do the updates when all the related parts are active (developers, sysadmin, hosting provider, customer etc)
