@@ -6,7 +6,7 @@
 
 - Drupal core and contrib modules security updates are maintained by the [Drupal security team](https://www.drupal.org/drupal-security-team).
 - **Security release "windows" are every Wednesday for Drupal contributed projects, and one Wednesday a month (usually the third Wednesday) for Drupal core.** See more at [D.O.: Security release numbers and release timing](https://www.drupal.org/drupal-security-team/security-release-numbers-and-release-timing)
-- For Drupal core the **bug fix/feature** rele1ase window is on the **first Wednesday of the month**.
+- For Drupal core the **bug fix/feature** release window is on the **first Wednesday of the month**.
 - Security releases happen between 16:00 UTC and 22:00 UTC.
 - D.O. Security updates list: <https://www.drupal.org/security>
 - D.O. Security updates Twitter alerts: <https://twitter.com/drupalsecurity>
