@@ -12,6 +12,7 @@
 - [Stakes.social](https://stakes.social)
 - [Open Source Collective](https://www.oscollective.org)
 - [OSS.Fund](https://www.oss.fund)
+- [PayPal.Me](https://www.paypal.me)
 
 ## Software specific
 
