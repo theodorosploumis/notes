@@ -56,7 +56,7 @@
 - [ ] JS loads with the async property
   - [ ] `<script async src="https://hi.js"></script>`
   - [ ] or `defer` when scripts need to be loaded in order, or require the DOMContentLoaded Event
-- [ ] Keep DOM simple and small (Maximum DOM Depth < 12). Must "kill" some of the default Drupal wrappers
+- [ ] Keep DOM simple and small (Maximum DOM Depth < 32 HTML Nodes, Total HTML Nodes by page < 800, Childs of a parent < 60). See https://web.dev/dom-size.
 - [ ] Create custom and simple 404, 403 error pages using twig template suggestions
 
 ### 1.2 Images
