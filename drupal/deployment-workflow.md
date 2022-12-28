@@ -26,6 +26,7 @@
 12. `drush cr`
 13. `drush cset system.maintenance_mode 0 --input-format=integer` (Disable maintenance mode)
 14. `drush cset readonlymode.settings enabled 0 -y` (Disable readonlymode settings)
+15. Clear all external system caches (eg Varnish)
 
 Modules used on the process above:
 
