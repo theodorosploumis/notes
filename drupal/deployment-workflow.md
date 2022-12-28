@@ -17,7 +17,7 @@
 2. Get a backup of the database, code, and public files (a full backup). // ToDo: Add the Drush command for that
 3. `drush @mysite.myenv ssh` // ssh on the server for the specific website
 4. `drush cset readonlymode.settings enabled 1 -y` (Enable **readonlymode** module related configuration)
-6. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see https://www.drupal.org/docs/user_guide/en/extend-maintenance.html)
+6. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see [D.O. Enabling and Disabling Maintenance Mode](https://www.drupal.org/docs/user_guide/en/extend-maintenance.html))
 7. `git pull` (or `git checkout mytag1` if using tags)
 8. `drush updb` (so we disable any modules through hook_update_N that will not come from composer)
 9. `composer install`
