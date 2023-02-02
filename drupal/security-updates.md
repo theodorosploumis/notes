@@ -1,6 +1,7 @@
 # Drupal security updates
 
-> Drupal security updates guide and best practices.
+> Drupal security updates guide and best practices. See also [drupal/contract](contract.md).
+
 
 ## Important things to know
 
