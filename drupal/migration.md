@@ -84,6 +84,26 @@ $databases['migrate']['default'] = array (
 );
 ```
 
+## Drupal structure to investigate on
+
+- Nodes
+- Blocks
+- Taxonomy terms
+- Menus
+- Media/Files
+- Paragraphs
+- Views
+- Forms (webforms etc)
+- Special fields
+- Multilingual
+- Text editors and options
+- User roles & permissions
+- Users
+- JS libraries used
+- Search
+- Sitemap
+- Authoring tools
+
 ## Migration source plugins list
 
 Notice: The list is not complete and may depends on several contributed modules and not only core.
