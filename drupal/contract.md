@@ -1,6 +1,6 @@
 # Drupal project maintenance contract
 
-Drupal Maintenance and Support contract template, tips and task lists.
+> Drupal Maintenance and Support contract template, tips and task lists. See also [drupal/security-updates](security-updates.md)
 
 ## Parameters to consider
 
