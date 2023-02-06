@@ -31,3 +31,4 @@
   - cookies
 - UX helper modules (simplei, replicate, revision UI, diff, menu_admin_per_menu, taxonomy_access_fix etc)
 - User roles and permissions
+- Prepare for **theming** (sub-theme, twig templates, libraries, assets compiling etc)
