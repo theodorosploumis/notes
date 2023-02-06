@@ -35,6 +35,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Script: Get Prod config](drupal/script-get-prod-config.md)
   - [Security Updates for Drupal](drupal/security-updates.md)
   - [Selling Drupal](drupal/selling-drupal)
+  - [Site-building tasks](drupal/site-building.md)
   - [Start with Drupal](drupal/start-drupal.md)
   - [Teamocil (tool)](drupal/teamocil.md)
   - [Theme validator](drupal/theme-validator.md)

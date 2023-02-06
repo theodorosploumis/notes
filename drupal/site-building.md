@@ -1,0 +1,32 @@
+# Drupal Site Building tasks
+
+- Install basic modules
+- Setup languages
+- Setup timezone and datetime formats
+- Menus
+- Text formats and WYSIWYG editor
+- Image styles
+- linkit profiles
+- Media types and media fields
+- Taxonomy terms
+- Content types (fields, view modes, translations, form modes, permissions)
+- Content workflows (content_moderation etc)
+- Static block types (logo, copyright etc)
+- Dynamic lists for the frontend (views)
+- Dynamic lists for the backend (Admin views)
+- Block UI (add Blocks to the UI)
+- Webforms
+- Search functionality
+- SEO several tasks
+  - redirects
+  - path aliases and patterns
+  - xml sitemap
+  - metatags
+  - rdf
+  - advagg
+- Other tasks
+  - queues
+  - cron jobs and UI
+  - cookies
+- UX helper modules (simplei, replicate, revision UI, diff, menu_admin_per_menu, taxonomy_access_fix etc)
+- User roles and permissions
