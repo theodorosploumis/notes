@@ -18,6 +18,7 @@
 - Webforms
 - Search functionality
 - SEO several tasks
+  - extlink
   - redirects
   - path aliases and patterns
   - xml sitemap
