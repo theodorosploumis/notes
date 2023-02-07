@@ -44,6 +44,7 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [taxonomy_access_fix](https://www.drupal.org/project/taxonomy_access_fix)
 - [transliterate_filenames](https://www.drupal.org/project/transliterate_filenames)
 - [config_pages](https://www.drupal.org/project/config_pages)
+- [config_views](https://www.drupal.org/project/config_views)
 
 ### Backups
 
