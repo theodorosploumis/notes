@@ -92,6 +92,8 @@ $databases['migrate']['default'] = array (
 - Menus
 - Media/Files
 - Paragraphs
+- field_group
+- field_collection
 - Views
 - Forms (webforms etc)
 - Special fields
