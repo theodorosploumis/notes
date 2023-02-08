@@ -51,15 +51,15 @@ drush pmu -y upgrade_status
 ## Tips
 
 - Modules that do have patches for 10.x compadibility require 8.x core so they cannot apply through composer! You can download these modules as 'custom' and apply there any patches.
-- For the problem above you can also use the Drupal lenient endpoint so you allow patches to be applied. See <https://dgo.to/3240297>.
+- For the problem above you can also use the Drupal **lenient** endpoint so you allow patches to be applied. See <https://dgo.to/3240297> and <https://github.com/mglaman/composer-drupal-lenient>.
 - You may need `dev` versions for several modules.
 - Some of the major drupal modules may not have 10.x support.
 - If you do the same process for other environments (eg from `dev` to `stage`) don't forget to run `drush updb` after the first `composer install`. Otherwise the `drush cim` may cause errors like `The base theme stable cannot be uninstalled, because theme classy depends on it`.
 
 ## References
 
-- [upgrade_status](https://www.drupal.org/project/upgrade_status)
-- [rektor](https://www.drupal.org/project/rector)
+- [drupal/upgrade_status](https://www.drupal.org/project/upgrade_status)
+- [drupal/rector](https://www.drupal.org/project/rector)
 - [mglaman/drupal-check](https://github.com/mglaman/drupal-check)
 - [Change records for Drupal core 9.0.x](https://www.drupal.org/list-changes/drupal/published?to_branch=9.0.x)
 
