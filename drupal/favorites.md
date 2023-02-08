@@ -37,7 +37,7 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 
 ### Authoring
 
-- [replicate](https://www.drupal.org/project/replicate)
+- [replicate](https://www.drupal.org/project/replicate) (also [entity_clone](https://www.drupal.org/project/entity_clone))
 - [linkit](https://www.drupal.org/project/linkit)
 - [override_node_options](https://www.drupal.org/project/override_node_options)
 - [menu_admin_per_menu](https://www.drupal.org/project/menu_admin_per_menu)
