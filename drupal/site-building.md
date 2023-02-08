@@ -21,6 +21,7 @@
   - extlink
   - redirects
   - path aliases and patterns
+  - pathologic
   - xml sitemap
   - metatags
   - rdf
