@@ -56,9 +56,10 @@ Notice: The references were added for the 9+ version.
 
 - [Drupal.org Docs - Migrate API](https://www.drupal.org/docs/drupal-apis/migrate-api)
 - [drupalmigrate.org](https://drupalmigrate.org)
+- [Migration modules](https://drupalmigrate.org/search/modules)
 - [migrate_tools drush commands](https://www.drupal.org/node/1561820)
-- [Drupal core migrate yml files, 1](https://git.drupalcode.org/project/drupal/-/tree/9.0.x/core/modules/node/src/Plugin/migrate/source)
-- [Drupal core migrate yml files, 2](https://git.drupalcode.org/project/drupal/-/tree/9.0.x/core/modules/node/migrations)
+- [Drupal core migrate yml files, 1](https://git.drupalcode.org/project/drupal/-/tree/10.0.x/core/modules/node/src/Plugin/migrate/source)
+- [Drupal core migrate yml files, 2](https://git.drupalcode.org/project/drupal/-/tree/10.0.x/core/modules/node/migrations)
 - [Migrate Drupal from 8.x to 10.x](migration-8-plus)
 
 ## Useful modules to install
