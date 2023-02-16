@@ -223,4 +223,5 @@ Interesting Drupal modules for e-commerce websites:
 ## Resources
 
 - [Book: Digital Marketing with Drupal, 03/2022](https://www.packtpub.com/product/digital-marketing-with-drupal/9781801071895)
+- [How to Build a B2B eCommerce Marketplace with Drupal Commerce (2023)](https://lembergsolutions.com/blog/how-build-b2b-ecommerce-marketplace-drupal-commerce)
 - [astrotars/awesome-ecommerce-stack](https://github.com/astrotars/awesome-ecommerce-stack)
