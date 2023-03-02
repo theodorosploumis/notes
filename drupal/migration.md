@@ -26,6 +26,7 @@ If you are going to migrate from an old (7.x or less) Drupal site and need to ge
 - Before migrating private files it is required to copy them to the new website (on the private folder) using rsync or any other similar tool.
 - If there is a multilingual node migration to happen use a custom field to keep information about the old nid (eg an integer field) to allow you better testing.
 - Be careful when migrating Drupal 7.x (or 6.x) websites that have asymmetric field values (eg Paragraphs).
+- When migrating from old Drupla versions (eg 7.x) be careful with some **special field**s. For example the `vid` (revision id) and `uuid` fields most of the times cause issues (this is because Drupal itself is adding such data on each table by default when creating an entry so overriding these through migration might cause entity API errors). Thngs getting worse when the old site is `multilingual` and has a process to keep `revisions`.
 - If you want to skip a migration row you have to `return FALSE;` on the `function prepareRow(Row $row)`.
 - If you want to get real distinct rows (eg only 1 row with the same title) do not try to do this on the `query()` function but on the `prepareRow(Row $row)` function. Function `query()` usually returns error when running the migration due to the mysql restrictions.
 - If you need to get data from html tags or massage html content use the PHP `DOMDocument` library.
