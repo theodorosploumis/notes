@@ -5,7 +5,7 @@
 
 ## Core modules/functionality
 
-- workspaces (experimental)
+- workspaces
 - revisions
 - content moderation
 - preview before save
