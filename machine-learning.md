@@ -163,6 +163,7 @@
 ### ML formats/standards
 
 - https://stackoverflow.com/questions/61116190/what-are-all-the-formats-to-save-machine-learning-model-in-scikit-learn-keras
+- https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9
 - https://onnx.ai
 - https://github.com/combust/mleap
 - https://github.com/operatorai/modelstore
@@ -210,6 +211,13 @@
 - https://datagrok.ai
 - https://www.pachyderm.com
 - https://www.dremio.com
+
+### ML Model versioning
+
+- https://dvc.org
+- https://modelstore.readthedocs.io
+- https://github.com/VertaAI/modeldb
+- https://github.com/datalad/datalad
 
 ### ML Pipelines
 
