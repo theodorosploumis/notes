@@ -311,10 +311,6 @@
 - https://dagshub.com
 - https://aboutdata.io
 
-## Resources
-
 ## Lessons, courses
 
 ## Books
-
-## Academic papers
