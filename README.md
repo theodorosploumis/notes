@@ -14,6 +14,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Trends 2020](commerce/trends.md)
   - [User flows](commerce/flows.md)
 - [Jobs](jobs.md)
+- [Machine Learning](machine-learning.md)
 - [Offers](offers.md)
 - [Company Docs](docs.md) (What should we include on internal Company Docs)
 - [Data (sheet) tables](data.md) (What fields should we include on a table like data sheet)
