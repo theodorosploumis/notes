@@ -77,6 +77,7 @@
 - https://www.striveworks.com
 - https://github.com/datarevenue-berlin/OpenMLOps
 - https://polyaxon.com
+- https://github.com/SeldonIO/seldon-core
 
 ### ML Saas (similar to MLOps 360)
 
