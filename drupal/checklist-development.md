@@ -16,7 +16,7 @@ Most of the times I delete items from the list so this is the full list.
 
 Prefer to install all software globally.
 
-- [ ] php8 (see [required php extensions](https://drupal.org/docs/8/system-requirements/php-requirements) for drupal 9.x)
+- [ ] php8+ (see [required php extensions](https://www.drupal.org/docs/getting-started/system-requirements/php-requirements) for drupal 9.x)
 - [ ] mysql
 - [ ] apache2
 - [ ] git
