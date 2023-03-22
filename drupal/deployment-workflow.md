@@ -14,7 +14,7 @@
 > The commands can be executed using drush site aliases.
 
 1. Allocate time required for the deployment.
-2. Get a backup of the database, code, and public files (a full backup). // ToDo: Add the Drush command for that
+2. `drush sql:dump --gzip --result-file=/path-to-backup/mysite-$(date +%Y-%m-%d).sql` Get a backup of the database. Sometimes we need to take a backup of code, and public files too (a full backup).
 3. `drush @mysite.myenv ssh` // ssh on the server for the specific website
 4. `drush cset readonlymode.settings enabled 1 -y` (Enable **readonlymode** module related configuration)
 6. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see [D.O. Enabling and Disabling Maintenance Mode](https://www.drupal.org/docs/user_guide/en/extend-maintenance.html))
