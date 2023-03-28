@@ -51,7 +51,7 @@
 - Prefer to use a **strict version** of the distribution on `composer.json`.
 - Let the distribution handle the 2nd level requirements (eg Drupal modules) and **don't override them on `composer.json`** unless there is a reason to do so.
 - Before any update please read carefully the distribution changelog and notes.
-- Check your current version of the distribution (the `composer.json` of it) with the new version you want to update to. This will allow you to inspect which packages and settings have changed on the new `composer.json`.
+- Check your current version of the distribution (the `composer.json` of it) with the new version you want to update to. This will allow you to inspect which packages and settings have changed on the new `composer.json`. You can use `git diff` or [GitHub compare](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits). See for example the Open Social `composer.json` diff between versions `11.7.0` and `11.8.2`: [goalgorilla/open_social/compare/11.7.0...11.8.2#diff...](https://github.com/goalgorilla/open_social/compare/11.7.0...11.8.2#diff-d2ab9925cad7eac58e0ff4cc0d251a937ecf49e4b6bf57f8b95aab76648a9d34)
 - If there are conflicts on updates try to delete the `composer.lock` before upadating.
 - If there are conflicts on updates read the composer logs carefully and then try to fix each problem line by line.
 - Command `composer why X` is your friend.
