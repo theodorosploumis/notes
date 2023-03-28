@@ -43,6 +43,22 @@
 - If there are **many companies or vendors evolving** be careful about any misunderstands and delays that may happen due to the number of the people evolved.
 - Developers and other parts evolved should update a **shared checklist** for all the steps required.
 
+## Updating Drupal distributions (installation profiles)
+
+> For example [open social](https://www.drupal.org/project/social) [opigno_lms](https://www.drupal.org/project/opigno_lms) etc.
+
+- Some distributions (e.g. Open Social) already have a recommended process to run updates and sometimes there is also a UI for updates. Follow that guide instead of yours.
+- Prefer to use a **strict version** of the distribution on `composer.json`.
+- Let the distribution handle the 2nd level requirements (eg Drupal modules) and **don't override them on `composer.json`** unless there is a reason to do so.
+- Before any update please read carefully the distribution changelog and notes.
+- Check your current version of the distribution (the `composer.json` of it) with the new version you want to update to. This will allow you to inspect which packages and settings have changed on the new `composer.json`.
+- If there are conflicts on updates try to delete the `composer.lock` before upadating.
+- If there are conflicts on updates read the composer logs carefully and then try to fix each problem line by line.
+- Command `composer why X` is your friend.
+- It is a good practice to not leave your projects that depend on a Drupal distribution without updates for a long time.
+- It is a good practice to get informed (e.g. through Drupal RSS or GitHub watch) about new releases of the Drupal distribution you depend to.
+
+
 ## Monitor site health
 
 - Uptime monitoring (external SASS, eg [uptimerobot](https://uptimerobot.com), [New Relic](https://newrelic.com))
