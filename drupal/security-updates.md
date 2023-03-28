@@ -45,7 +45,7 @@
 
 ## Updating Drupal distributions (installation profiles)
 
-> For example [open social](https://www.drupal.org/project/social) [opigno_lms](https://www.drupal.org/project/opigno_lms) etc.
+> For example [open social](https://www.drupal.org/project/social), [opigno_lms](https://www.drupal.org/project/opigno_lms) etc.
 
 - Some distributions (e.g. Open Social) already have a recommended process to run updates and sometimes there is also a UI for updates. Follow that guide instead of yours.
 - Prefer to use a **strict version** of the distribution on `composer.json`.
