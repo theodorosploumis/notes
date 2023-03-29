@@ -35,7 +35,7 @@ Prefer to install all software globally.
 
 ## SaaS
 
-- [ ] Create Github/Bitbucket/Gitlab repository
+- [ ] Create Github/Bitbucket/GitLab repository
 - [ ] Create Project Management project (eg Jira, Redmine etc)
 - [ ] Create a Trello board (if using Trello)
 - [ ] Setup Slack
