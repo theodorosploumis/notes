@@ -8,7 +8,27 @@ Using teamocil you can get ready to use templates to start working on a project 
 
 Usually located under `~/.teamocil/example.yml` on a Unix machine.
 
-## Example
+## Install
+
+```
+// Install tmux - https://github.com/tmux/tmux
+sudo apt-get install tmux
+
+// Install teamocil - https://github.com/remi/teamocil
+gem install teamocil
+```
+
+## Create a teamocil template
+
+```
+// Create a teamocil template
+touch ~/.teamocil/example.yml
+
+// Edit the template
+teamocil --edit example
+```
+
+## Example of a template
 
 ```yml
 # ~/.teamocil/example.yml
@@ -21,18 +41,15 @@ windows:
    panes: # Several panes, each one accomplishes a task
     - git pull
     - cd web/themes/custom/mytheme && gulp watch
-    - lando start && google-chrome "https://example.ddev.site" # I usually use ddev for development
+    - ddev start && google-chrome "https://example.ddev.site" # Notice: I usually use ddev for development
     - pstorm . &
     - ssh USER@HOST
     - google-chrome "https://www.example.com"
 ```
 
-## cli command
+## Start a teamocil defined cli
 
 ```bash
 # Open a teamocil project
 tmux new-session -d 'teamocil example' \; attach
-
-# Edit a teamocil template
-teamocil --edit example
 ```
