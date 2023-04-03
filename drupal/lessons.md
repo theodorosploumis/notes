@@ -132,11 +132,12 @@
 - Theme settings
 - (Theme) layouts and breakpoints
 - Twig templates
+- Render arrays
 - Theme template
 - BEM, SMACSS and other CSS methodologies within Drupal
-- Attach CSS and JS (internal, external)
-- Working with JS
-- Useful modules for theming
+- Attach CSS and JS (internal, external) with libraries
+- Working with JS (behaviors etc)
+- Useful modules for theming (kint, webprofiler, twig related etc)
 
 ### Development for Drupal
 
