@@ -133,7 +133,8 @@
 - (Theme) layouts and breakpoints
 - Twig templates
 - Render arrays
-- Theme template
+- Controllers
+- Theme templates and theme hooks
 - BEM, SMACSS and other CSS methodologies within Drupal
 - Attach CSS and JS (internal, external) with libraries
 - Working with JS (behaviors etc)
@@ -166,6 +167,7 @@
 - Media and files management
 - Plugins
 - Symfony services
+- Routing
 - Menus
 - Text filters and CKEditor
 - Contextual links
