@@ -7,7 +7,7 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 - [**drush-launcher**](https://github.com/drush-ops/drush-launcher)
 - [drupalorg-cli](https://github.com/mglaman/drupalorg-cli)
 
-See a full list on **<https://drupaltools.com>**.
+See a full list on **https://drupaltools.com**.
 
 ## PHP tools
 
@@ -42,28 +42,29 @@ See a full list on **<https://drupaltools.com>**.
 
 ## Local VMs & Docker tools
 
+- [**ddev**](https://ddev.readthedocs.io)
 - [docker](https://docs.docker.com)
 - [virtualbox](https://www.virtualbox.org)
 - [vagrant](https://www.vagrantup.com)
-- [**ddev**](https://ddev.readthedocs.io)
 - [lando](https://docs.lando.dev)
 - [takeout](https://github.com/tighten/takeout) (docker services scaffolding)
 
 ## Generic tools
 
-- [brew](https://brew.sh)
+- [GitHub cli](https://cli.github.com/)
 - [**nvm**](https://github.com/nvm-sh/nvm)
 - [**rsync**](https://rsync.samba.org)
 - [**sass**](https://sass-lang.com)
+- [brew](https://brew.sh)
 
 ## Utilities
 
-- [git-crypt](https://github.com/AGWA/git-crypt)
-- [flameshot (screenshots)](https://flameshot.org)
 - [**scm_breeze**](https://github.com/scmbreeze/scm_breeze)
 - [**tmux**](https://github.com/tmux/tmux)
 - [**teamocil**](https://github.com/remi/teamocil)
-- [rupa/z](https://github.com/rupa/z)
+- [**rupa/z**](https://github.com/rupa/z)
+- [git-crypt](https://github.com/AGWA/git-crypt)
+- [flameshot (screenshots)](https://flameshot.org)
 
 ## Terminal, CLI
 
@@ -71,13 +72,13 @@ See a full list on **<https://drupaltools.com>**.
 
 ## Editors - IDE
 
-- **<https://www.jetbrains.com/phpstorm>**
-- <https://www.sublimetext.com>
-- <https://code.visualstudio.com>
-- <https://www.vim.org>
+- [**PhpStorm**](https://www.jetbrains.com/phpstorm)
+- [SublimeText](https://www.sublimetext.com)
+- [VSCode](https://code.visualstudio.com)
+- [vim](https://www.vim.org)
 
 ## Images - Graphics
 
-- <https://www.gimp.org>
-- <https://inkscape.org>
-- <https://trimage.org>
+- [Gimp](https://www.gimp.org)
+- [Inkscape](https://inkscape.org)
+- [trimage](https://trimage.org)
