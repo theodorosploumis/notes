@@ -21,15 +21,16 @@
 4. `drush cex --diff` // See the Assumptions above. Assuming that there are no config overrides on Production.
 5. `drush cset readonlymode.settings enabled 1 -y` (Enable **readonlymode** module related configuration)
 6. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see [D.O. Enabling and Disabling Maintenance Mode](https://www.drupal.org/docs/user_guide/en/extend-maintenance.html))
-7. `git pull` (or `git checkout mytag1` if using tags)
-8. `drush updb` (so we disable any modules through hook_update_N that will not come from composer)
-9. `composer install`
-10. `drush updb`
-11. `drush cim`
-12. `drush cr`
-13. `drush cset system.maintenance_mode 0 --input-format=integer` (Disable maintenance mode)
-14. `drush cset readonlymode.settings enabled 0 -y` (Disable readonlymode settings)
-15. Clear all external system caches (eg Varnish)
+7. `git status` // Check if any file is overriden by mistake
+8. `git pull origin XXX` (or `git checkout myTag` if using tags)
+9. `drush updb` (so we disable any modules through hook_update_N that will not come from composer)
+10. `composer install`
+11. `drush updb`
+12. `drush cim`
+13. `drush cr`
+14. `drush cset system.maintenance_mode 0 --input-format=integer` (Disable maintenance mode)
+15. `drush cset readonlymode.settings enabled 0 -y` (Disable readonlymode settings)
+16. Clear all external system caches (eg Varnish)
 
 Modules used on the process above:
 
