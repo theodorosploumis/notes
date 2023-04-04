@@ -5,6 +5,7 @@
 - We are using git for vcs.
 - We are using composer.
 - We are deploying a Drupal 8+ version.
+- **We have tested the update process locally or on a non Production server** using a copy of the Production database.
 - There are some tests already passed (on DEV, STAGE environments only). Continue only if tests pass.
 - We have a [drush alias](https://www.drush.org/latest/site-aliases) for each environment.
 - No config changes exist on the live website. In some (bad) cases Authors or Admins can do changes on the configuration while on Production (eg translate Views). These config changes need to sync back to the development branch. An option is to export them on Prod (`drush cex`), commit them to git and then merge from the remote branch again. If we have config changes we are going to loose them due to `drush cim` if we do not export them.
