@@ -35,3 +35,17 @@
 Modules used on the process above:
 
 - <https://www.drupal.org/project/readonlymode>
+
+## ssh config example
+
+```ini
+# ~/.ssh/config
+Host gh-backend
+    HostName github.com
+    User git
+    IdentityFile "~/.ssh/id_rsa_github_backend"
+Host gh-frontend
+    HostName github.com
+    User git
+    IdentityFile "~/.ssh/id_rsa_github_frontend"
+```
