@@ -21,7 +21,7 @@
 4. `drush cex --diff` // See the Assumptions above. Assuming that there are no config overrides on Production.
 5. `drush cset readonlymode.settings enabled 1 -y` (Enable **readonlymode** module related configuration)
 6. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see [D.O. Enabling and Disabling Maintenance Mode](https://www.drupal.org/docs/user_guide/en/extend-maintenance.html))
-7. `git status` // Check if any file is overriden by mistake
+7. `git status && git log` // Check if any file is overriden by mistake
 8. `git pull origin XXX` (or `git checkout myTag` if using tags)
 9. `drush updb` (so we disable any modules through hook_update_N that will not come from composer)
 10. `composer install`
