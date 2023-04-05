@@ -42,6 +42,7 @@
 - Establish a **clean plan about the responsibilities**. Who is going to have each responsibility, which are the communication options (email, phone etc), which are the tasks need to be done when a problem arise etc.
 - If there are **many companies or vendors evolving** be careful about any misunderstands and delays that may happen due to the number of the people evolved.
 - Developers and other parts evolved should update a **shared checklist** for all the steps required.
+- Save all the `drush updb` cli logs for each update on a log file for reference.
 
 ## Updating Drupal distributions (installation profiles)
 
