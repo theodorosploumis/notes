@@ -17,20 +17,21 @@
 
 1. Allocate time required for the deployment.
 2. `drush sql:dump --gzip --result-file=/path-to-backup/mysite-$(date +%Y-%m-%d).sql` Get a backup of the database. Sometimes we need to take a backup of code, and public files too (a full backup).
-3. `drush @mysite.myenv ssh` // ssh on the server for the specific website
-4. `drush cex --diff` // See the Assumptions above. Assuming that there are no config overrides on Production.
-5. `drush cset readonlymode.settings enabled 1 -y` (Enable **readonlymode** module related configuration)
-6. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see [D.O. Enabling and Disabling Maintenance Mode](https://www.drupal.org/docs/user_guide/en/extend-maintenance.html))
-7. `git status && git log` // Check if any file is overriden by mistake
-8. `git pull origin XXX` (or `git checkout myTag` if using tags)
-9. `drush updb` (so we disable any modules through hook_update_N that will not come from composer)
-10. `composer install`
-11. `drush updb`
-12. `drush cim`
-13. `drush cr`
-14. `drush cset system.maintenance_mode 0 --input-format=integer` (Disable maintenance mode)
-15. `drush cset readonlymode.settings enabled 0 -y` (Disable readonlymode settings)
-16. Clear all external system caches (eg Varnish)
+3. Login as Admin on the live website. This is needed because sometimes you may need to act imeddiately through the UI if something stragne happen.
+4. `drush @mysite.myenv ssh` // ssh on the server for the specific website
+5. `drush cex --diff` // See the Assumptions above. Assuming that there are no config overrides on Production.
+6. `drush cset readonlymode.settings enabled 1 -y` (Enable **readonlymode** module related configuration)
+7. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see [D.O. Enabling and Disabling Maintenance Mode](https://www.drupal.org/docs/user_guide/en/extend-maintenance.html))
+8. `git status && git log` // Check if any file is overriden by mistake
+9. `git pull origin XXX` (or `git checkout myTag` if using tags)
+10. `drush updb` (so we disable any modules through hook_update_N that will not come from composer)
+11. `composer install`
+12. `drush updb`
+13. `drush cim`
+14. `drush cr`
+15. `drush cset system.maintenance_mode 0 --input-format=integer` (Disable maintenance mode)
+16. `drush cset readonlymode.settings enabled 0 -y` (Disable readonlymode settings)
+17. Clear all external system caches (eg Varnish)
 
 Modules used on the process above:
 
