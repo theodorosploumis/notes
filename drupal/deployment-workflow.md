@@ -32,6 +32,7 @@
 15. `drush cset system.maintenance_mode 0 --input-format=integer` (Disable maintenance mode)
 16. `drush cset readonlymode.settings enabled 0 -y` (Disable readonlymode settings)
 17. Clear all external system caches (eg Varnish)
+18. Check Drupal report status (`admin/reports/status`) for any missed errors.
 
 Modules used on the process above:
 
