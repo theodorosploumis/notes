@@ -72,6 +72,7 @@
 - Where to find modules
 - How to create modules
 - Module issues etc
+- Submit patches and MR to modules
 - Publish modules
 
 ### Drupal Entities
