@@ -25,7 +25,7 @@
 8. `git status && git log` // Check if any file is overriden by mistake
 9. `git pull origin XXX` (or `git checkout myTag` if using tags)
 10. `drush updb` (so we disable any modules through hook_update_N that will not come from composer)
-11. `composer install --no-dev`
+11. `composer install` // Or if we do have a good development setup and we know that any dev package is not required: `composer install --no-dev --no-script`
 12. `drush updb`
 13. `drush cim`
 14. `drush cr`
