@@ -22,3 +22,4 @@
 - [thunderbird](https://give.thunderbird.net)
 - [Mozilla](https://donate.mozilla.org)
 - [Archive.org](https://archive.org/donate)
+- [librespeed.org](https://liberapay.com/fdossena/donate)
