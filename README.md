@@ -46,6 +46,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [Translation solutions](drupal/translations.md)
   - [Training Beginners](drupal/training-beginners.md)
 - [Figma Component Checklist](design/figma)
+- [Public speech](public-speeech.md)
 - [UI Design](design/ui) (tips for UI design)
 
 ## Similar
