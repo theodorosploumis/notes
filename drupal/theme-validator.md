@@ -6,6 +6,7 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
 
 - [ ] Technical support
 - [ ] Documentation (online or manual)
+- [ ] Lisence valid for Drupal (GPL2+ compatible)
 
  ---
 
