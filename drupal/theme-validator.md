@@ -94,7 +94,7 @@ A checklist with rules to validate commercial and free Drupal themes (and distri
 - [ ] Performance
 - [ ] SEO friendly
 - [ ] Security
-- [ ] UX (can nwe measure it?)
+- [ ] UX (can we measure it?)
 
 ---
 
