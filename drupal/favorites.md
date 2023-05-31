@@ -37,6 +37,7 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 ### Theming
 
 - [formdazzle](https://www.drupal.org/project/formdazzle)
+- [twigsuggest](https://www.drupal.org/project/twigsuggest)
 - [twig_field_value](https://www.drupal.org/project/twig_field_value)
 - [twig_tweak](https://www.drupal.org/project/twig_tweak)
 - [nomarkup](https://www.drupal.org/project/nomarkup)
