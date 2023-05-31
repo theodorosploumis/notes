@@ -19,9 +19,8 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [masquerade](https://www.drupal.org/project/masquerade)
 - [structure_sync](https://www.drupal.org/project/structure_sync)
 - [fixed_block_content](https://www.drupal.org/project/fixed_block_content)
-- [twig_field_value](https://www.drupal.org/project/twig_field_value)
-- [twig_tweak](https://www.drupal.org/project/twig_tweak)
 - [webprofiler](https://www.drupal.org/project/devel)
+- [coder](https://www.drupal.org/project/coder)
 
 ### Administration
 
@@ -34,6 +33,13 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [roleassign](https://www.drupal.org/project/roleassign)
 - [userprotect](https://www.drupal.org/project/userprotect)
 - [disable_language](https://www.drupal.org/project/disable_language) (multilingual)
+
+### Theming
+
+- [formdazzle](https://www.drupal.org/project/formdazzle)
+- [twig_field_value](https://www.drupal.org/project/twig_field_value)
+- [twig_tweak](https://www.drupal.org/project/twig_tweak)
+- [nomarkup](https://www.drupal.org/project/nomarkup)
 
 ### Authoring
 
@@ -48,8 +54,8 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 
 ### Backups
 
-- [backup_db](https://www.drupal.org/project/backup_db)
 - [backup_migrate](https://www.drupal.org/project/backup_migrate)
+- [backup_db](https://www.drupal.org/project/backup_db)
 
 ### Performance
 
@@ -68,7 +74,6 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [simple_sitemap](https://www.drupal.org/project/simple_sitemap)
 - [metatag](https://www.drupal.org/project/metatag)
 - [extlink](https://www.drupal.org/project/extlink)
-- [google_analytics](https://www.drupal.org/project/google_analytics) (if used)
 - [google_tag](https://www.drupal.org/project/google_tag) (if used)
 - [schema_metatag](https://www.drupal.org/project/schema_metatag)
 - [easy_breadcrumb](https://www.drupal.org/project/easy_breadcrumb)
@@ -102,10 +107,7 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [basic](https://www.drupal.org/project/basic)
 - [xtheme](https://www.drupal.org/project/xtheme)
 - classy (core theme)
-
----
-
-- [ ] [adminimal_theme](https://www.drupal.org/project/adminimal_theme)
+- [adminimal_theme](https://www.drupal.org/project/adminimal_theme)
 
 ## Similar Lists - Resources
 
