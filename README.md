@@ -47,6 +47,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 - [Offers](offers.md)
 - [Project Management](pm.md) (Project estimation, hr, brief, work streams etc)
 - [Public speech](public-speech.md)
+- [RSS feeds](rss.md)
 - [UI Design](design/ui) (tips for UI design)
 
 ## Similar
