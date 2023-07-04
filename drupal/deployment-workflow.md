@@ -20,7 +20,7 @@
 3. Login as Admin on the live website. This is needed because sometimes you may need to act imeddiately through the UI if something stragne happen.
 4. `drush @mysite.myenv ssh` // ssh on the server for the specific website
 5. `drush cex --diff` // See the Assumptions above. Assuming that there are no config overrides on Production.
-6. `drush cset readonlymode.settings enabled 1 -y` (Enable **readonlymode** module related configuration)
+6. `drush cset readonlymode.settings enabled 1 -y` OR `drush readonlamode:set 1` (Enable **readonlymode** module related configuration)
 7. `drush cset system.maintenance_mode 1 --input-format=integer` (Enable maintenance mode, see [D.O. Enabling and Disabling Maintenance Mode](https://www.drupal.org/docs/user_guide/en/extend-maintenance.html))
 8. `git status && git log` // Check if any file is overriden by mistake
 9. `git pull origin XXX` (or `git checkout myTag` if using tags)
@@ -30,7 +30,7 @@
 13. `drush cim`
 14. `drush cr`
 15. `drush cset system.maintenance_mode 0 --input-format=integer` (Disable maintenance mode)
-16. `drush cset readonlymode.settings enabled 0 -y` (Disable readonlymode settings)
+16. `drush cset readonlymode.settings enabled 0 -y` or `drush readonlamode:set 0` (Disable readonlymode settings)
 17. Clear all external system caches (eg Varnish)
 18. Check Drupal report status (`admin/reports/status`) for any missed errors.
 
