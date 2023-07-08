@@ -102,11 +102,9 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 
 - [gesso](https://www.drupal.org/project/gesso)
 - [radix](https://www.drupal.org/project/radix)
-- [bootstrap](https://www.drupal.org/project/bootstrap)
+- [bootstrap5](https://www.drupal.org/project/bootstrap5)
 - [zurb_foundation](https://www.drupal.org/project/zurb_foundation)
-- [kashmir](https://drupal.org/project/kashmir)
 - [basic](https://www.drupal.org/project/basic)
-- [xtheme](https://www.drupal.org/project/xtheme)
 - classy (core theme)
 - [adminimal_theme](https://www.drupal.org/project/adminimal_theme)
 
