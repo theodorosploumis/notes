@@ -4,9 +4,10 @@
 
 ## Drupal
 
-- <http://drupal.org/planet/rss.xml>
-- <http://drupal.org/changes/drupal/rss.xml>
-- <http://drupal.org/taxonomy/term/25/0/feed>
+- [drupal planet](http://drupal.org/planet/rss.xml)
+- [Core changes](http://drupal.org/changes/drupal/rss.xml)
+- [Showcase](http://drupal.org/taxonomy/term/25/0/feed)
+- [Modules under active development](https://www.drupal.org/taxonomy/term/9988/feed)
 
 ## PHP
 
