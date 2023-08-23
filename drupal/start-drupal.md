@@ -4,11 +4,13 @@ A step by step, opinioned, checklist for a Drupal rookie.
 
 ## 1. Basics
 
-- [ ] I know what is PHP.
-- [ ] I know what is MySQL.
-- [ ] I know how to use composer.
-- [ ] I know how to use git.
-- [ ] I know how to use cli.
+- [ ] I know what is [PHP](https://www.php.net).
+- [ ] I know what is [MySQL](https://www.mysql.com).
+- [ ] I know how to use [composer](https://getcomposer.org).
+- [ ] I know how to use [git](https://git-scm.com).
+- [ ] I know how to use [cli](https://en.wikipedia.org/wiki/Command-line_interface).
+- [ ] I know how to write [Markdown](https://en.wikipedia.org/wiki/Markdown)
+- [ ] I know how to read and write [YAML](https://en.wikipedia.org/wiki/YAML)
 - [ ] I can use an IDE (Phpstorm, VSCode etc).
 
 ## 2. Drupal basics
@@ -33,6 +35,7 @@ A step by step, opinioned, checklist for a Drupal rookie.
 ## Resources
 
 - [How to Become a Drupal Developer - drupalize.me, 2021](https://drupalize.me/blog/how-become-drupal-developer)
+- [Drupal.org - Overview of Drupal](https://www.drupal.org/docs/understanding-drupal/overview-of-drupal)
 
 Ready to start your journey with Drupal.
 
