@@ -27,6 +27,7 @@
   - https://milvus.io
   - https://github.com/duckdb/duckdb
   - https://www.singlestore.com
+  - https://ksqldb.io
 - Graph database
   - https://db-engines.com/en/article/Graph+DBMS
   - https://neo4j.com
@@ -138,6 +139,7 @@
 - https://seaborn.pydata.org
 - https://github.com/nltk/nltk
 - https://scipy.org
+- https://metaflow.org
 - https://pjreddie.com/darknet
 - https://catboost.ai
 - https://spark.apache.org/mllib
@@ -151,6 +153,7 @@
 - https://github.com/onnx/models
 - https://github.com/ibis-project/ibis
 - https://github.com/rapidsai/cuml
+- https://github.com/vaexio/vaex
 - https://dataprep.ai
 - https://jupytext.readthedocs.io
 - https://www.pola.rs
@@ -179,6 +182,7 @@
 - https://transmogrif.ai
 - https://automl.github.io/auto-sklearn/master
 - https://github.com/microsoft/nni
+- https://pycaret.org
 
 ### ML Data labeling
 
