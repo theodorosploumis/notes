@@ -116,3 +116,4 @@ The steps bellow are not mandatory and their order is not strict.
 - <https://github.com/meSingh/product-launch-checklist>
 - <https://docs.acquia.com/cloud-platform/onboarding/preparing-launch>
 - <https://www.vardot.com/en-us/ideas/resources/website-project-pre-post-launch-checklists>
+- <https://www.lnwebworks.com/insight/drupal-website-pre-launch-checklist>
