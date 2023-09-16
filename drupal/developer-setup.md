@@ -77,6 +77,22 @@ See a full list on **https://drupaltools.com**.
 - [VSCode](https://code.visualstudio.com)
 - [vim](https://www.vim.org)
 
+## PHPStorm plugins
+
+> Additional plugins. Bult-in plugins not included on this list.
+
+- [AI Assistant](https://plugins.jetbrains.com/plugin/22282-ai-assistant)
+- [cody-ai-by-sourcegraph](https://plugins.jetbrains.com/plugin/9682-cody-ai-by-sourcegraph)
+- [php-inspections-ea-extended](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
+- [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
+- [php-annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
+- [php-toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
+- [find-pull-request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
+- [code-with-me](https://plugins.jetbrains.com/plugin/14896-code-with-me)
+- [ddev-integration](https://plugins.jetbrains.com/plugin/18813-ddev-integration)
+- [i-love-devtoys](https://plugins.jetbrains.com/plugin/20198-i-love-devtoys)
+- [string-manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+
 ## Images - Graphics
 
 - [Gimp](https://www.gimp.org)
