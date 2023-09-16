@@ -77,7 +77,7 @@ See a full list on **https://drupaltools.com**.
 - [VSCode](https://code.visualstudio.com)
 - [vim](https://www.vim.org)
 
-## PHPStorm plugins
+## PhpStorm plugins
 
 > Additional plugins. Bult-in plugins not included on this list.
 
