@@ -100,6 +100,7 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 
 ## Themes
 
+- [prototype](https://www.drupal.org/project/prototype)
 - [gesso](https://www.drupal.org/project/gesso)
 - [radix](https://www.drupal.org/project/radix)
 - [bootstrap5](https://www.drupal.org/project/bootstrap5)
