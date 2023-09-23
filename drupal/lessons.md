@@ -208,15 +208,19 @@
 - [Drupal 8.x User Guide](https://www.drupal.org/project/user_guide)
 - [Drupal 8.x User Guide downloads & translations](https://www.drupal.org/node/3076366)
 - [drupalize.me](https://drupalize.me)
-- [symfonycasts.com](https://symfonycasts.com/tracks/drupal)
+- [youtube.com/@DrupalAssociation/playlists](https://www.youtube.com/@DrupalAssociation/playlists)
+- [Video: Surviving the Drupal Learning Curve, 2020](https://www.youtube.com/watch?v=Jx0ynrx7jjo)
+- [Video: Why is Drupal So Hard to Learn, 2017](https://www.youtube.com/watch?v=FPz-A8snTJo)
 - [drupal.tv - Video collections](https://drupal.tv)
 - [debugacademy.com](https://debugacademy.com)
+- [Acquia Certification Study Guides](https://docs.acquia.com/certification/study-guides/)
 - [LevelUpTuts - Drupal 8 Basics](https://www.youtube.com/watch?v=J9U1DQYbFjA&list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI)
 - [OSTraining Will Release 200 Drupal 8 Videos for Free](https://www.ostraining.com/blog/drupal/200-drupal-8-videos)
 - [redcrackle.com/blog/drupal-8/free-tutorials-list](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
 - [Drupal 10 Development Cookbook - Packt Book](https://www.packtpub.com/product/drupal-10-development-cookbook-third-edition/9781803234960)
 - [Getting Started with Drupal Workshop, Drupal.org](https://www.drupal.org/project/getting_started_with_drupal)
 - [Study Drupal 8 for Drupal 8 Developer Cert (2019)](https://github.com/thled/d8cards)
+- [PHP: The Right Way](https://phptherightway.com)
 
 ## Homework - Tasks
 
@@ -228,4 +232,5 @@
 ## Useful Resources
 
 - [OpenDrupal, Free and Open Source training materials for teaching and learning Drupal](https://github.com/OpenDrupal)
+- [DrupalShip.org](https://www.drupalship.org)
 - [Sprint Participant Role Task Cards](https://www.drupal.org/sprint-task-cards)
