@@ -1,4 +1,4 @@
-# Drupal favorite modules
+# Drupal favorite modules and themes
 
 Common used modules for almost any simple project (8.x, my choices).
 
