@@ -1,6 +1,6 @@
 # Drupal favorite modules and themes
 
-Common used modules for almost any simple project (8.x, my choices).
+Common used modules for almost any simple project (9.x+, my choices).
 
 The sorting of each list does matter (higher listed items are most used).
 
@@ -15,10 +15,8 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [simplei](https://www.drupal.org/project/simplei), [environment_indicator](https://www.drupal.org/project/environment_indicator)
 - [reroute_email](https://www.drupal.org/project/reroute_email)
 - [devel](https://www.drupal.org/project/devel)
-- [twig_vardumper](https://www.drupal.org/project/twig_vardumper)
 - [masquerade](https://www.drupal.org/project/masquerade)
 - [structure_sync](https://www.drupal.org/project/structure_sync)
-- [fixed_block_content](https://www.drupal.org/project/fixed_block_content)
 - [webprofiler](https://www.drupal.org/project/devel)
 - [coder](https://www.drupal.org/project/coder)
 
@@ -66,6 +64,7 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [quicklink](https://www.drupal.org/project/quicklink)
 - [lazyloader](https://www.drupal.org/project/lazyloader)
 - [imageapi_optimize](https://www.drupal.org/project/imageapi_optimize)
+- [webp](https://www.drupal.org/project/webp)
 
 ### SEO
 
@@ -79,7 +78,6 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [schema_metatag](https://www.drupal.org/project/schema_metatag)
 - [easy_breadcrumb](https://www.drupal.org/project/easy_breadcrumb)
 - [menu_trail_by_path](https://www.drupal.org/project/menu_trail_by_path)
-- [fast_404](https://www.drupal.org/project/fast_404)
 - [yoast_seo](https://www.drupal.org/project/yoast_seo)
 - [shariff](https://www.drupal.org/project/shariff)
 
