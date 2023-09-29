@@ -129,6 +129,8 @@ B. Import to Projects
 po → "/translations/PROJECT.LANGCODE.po" file each project root (git)
 ```
 
+## Common translation issues
+
 ## Tools
 
 1. [localize.drupal.org](https://localize.drupal.org) (official Drupal localize server)
