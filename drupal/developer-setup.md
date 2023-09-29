@@ -92,6 +92,7 @@ See a full list on **https://drupaltools.com**.
 - [ddev-integration](https://plugins.jetbrains.com/plugin/18813-ddev-integration)
 - [i-love-devtoys](https://plugins.jetbrains.com/plugin/20198-i-love-devtoys)
 - [string-manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+- [AceJump](https://plugins.jetbrains.com/plugin/7086-acejump)
 
 ## Images - Graphics
 
