@@ -1,5 +1,7 @@
 # Drupal Translation solutions
 
+- Views: Replace the "Current row language" option on the "Translations" tab with the "Current Interface language" etc.
+
 ## Translations steps for Drupal website
 
 - Install MYPROFILE with any modules
