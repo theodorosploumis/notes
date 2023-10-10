@@ -122,6 +122,7 @@
   - https://cnvrg.io
   - https://www.modzy.com
   - https://github.com/apple/turicreate
+  - https://mistral.ai
 
 ### ML Libraries
 
@@ -157,6 +158,7 @@
 - https://dataprep.ai
 - https://jupytext.readthedocs.io
 - https://www.pola.rs
+- https://ai.meta.com/llama
 
 ### AutoML
 
