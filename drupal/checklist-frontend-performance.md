@@ -373,6 +373,8 @@
 - <https://cloudinary.com>
 - **<https://github.com/thumbor/thumbor>** (OS, self-hosted)
 
+See also https://speedvitals.com/cdn-performance-tracker.
+
 ### 3.13 Other tools
 
 - **<https://instant.page>**
