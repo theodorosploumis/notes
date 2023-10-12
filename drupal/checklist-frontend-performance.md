@@ -366,10 +366,9 @@
 ### 3.12 CDN with free tiers
 
 - <https://anyone.cdn.biz.id>
-- <https://jetpack.com/pricing>
+- <https://jetpack.com/features/design/content-delivery-network>
 - <https://www.cloudflare.com/plans>
 - <https://shift8cdn.com>
-- <https://www.coralcdn.org>
 - <https://cloudinary.com>
 - **<https://github.com/thumbor/thumbor>** (OS, self-hosted)
 
