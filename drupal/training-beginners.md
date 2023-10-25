@@ -35,3 +35,6 @@ After the initial training period (**4 week**) you can start as an **assistant d
 
 - [Start with Drupal](start-drupal.md)
 - [Drupal Lessons](lessons.md)
+
+## Resources
+- https://www.agiledrop.com/blog/how-onboard-next-generation-drupal-engineers
