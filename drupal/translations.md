@@ -145,8 +145,6 @@ po → "/translations/PROJECT.LANGCODE.po" file each project root (git)
 
 ## D.O related issues
 
-1. [Replace the localization server](https://www.drupal.org/node/3016479)
-   (3016479)
 2. [Configuration language being overwritten during module install](https://www.drupal.org/project/drupal/issues/2905295)
    (2905295)
 3. [Translated Config Override should default to original language values if there are no translations](https://www.drupal.org/project/drupal/issues/2993984)
