@@ -66,6 +66,18 @@ What to test for a Drupal project:
 - System: rollback site to a snapshot
 - drupal_rector & upgrade_status report
 
+## UAT examples for Drupal
+
+- View a node (for each bundle)
+- Edit a node (for each bundle)
+- View a list (views)
+- User login works
+- Webform submissions work
+- Search works
+- Cron task works
+- SMTP and mail system works
+- There are no JS errors on console
+
 ## Other useful material
 
 - [Drupal.org - Automated testing](https://www.drupal.org/docs/automated-testing)
@@ -74,5 +86,3 @@ What to test for a Drupal project:
 - [UI Testing: A Getting Started Guide and Checklist, 2022](https://applitools.com/blog/ui-testing-guide/)
 
 ![Testing diagram open_social](testing_flows_open-social.jpg)
-
-![Testing diagram drupalize](https://drupalize.me/sites/default/files/tutorials/frameworks-which.png)
