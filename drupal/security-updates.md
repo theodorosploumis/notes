@@ -59,23 +59,10 @@
 - It is a good practice to not leave your projects that depend on a Drupal distribution without updates for a long time.
 - It is a good practice to get informed (e.g. through Drupal RSS or GitHub watch) about new releases of the Drupal distribution you depend to.
 
-
 ## Monitor site health
 
 - Uptime monitoring (external SASS, eg [uptimerobot](https://uptimerobot.com), [New Relic](https://newrelic.com))
 - Get SMS and email alerts for PHP fatal errors on Drupal
-
-## UAT examples for Drupal
-
-- View a node (for each bundle)
-- Edit a node (for each bundle)
-- View a list (views)
-- User login works
-- Webform submissions work
-- Search works
-- Cron task works
-- SMTP and mail system works
-- There are no JS errors on console
 
 ## Related guides
 
