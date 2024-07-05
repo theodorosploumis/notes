@@ -168,7 +168,38 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 - Disallow empty results (consequence filtering)
 - Voice search input
 
-[Article 1](https://www.easternstandard.com/node/1049), [Article 2](https://www.axelerant.com/resources/team-blog/test-scenarios-search-functionality-drupal)
+### Boosting suggestions
+
+- HTML boosts for H1. H2 H3, STRONG and Bold
+- Field Title boost of 5
+- Field keywords boost of 3
+- Date boosts of 1
+- Content type (non-date based) boosts up to 1
+- Importance boosts up to 1
+
+### Testing Search
+
+#### General issues
+
+- Checking that node CRUD operations are reflected in the search results
+- Is unpublished content shown?
+- Are rare keywords returning the expected results?
+- Are results coming back lightning fast?
+
+#### Generic term testing
+
+- Are the results as expected as an initial gut instinct?
+- Are all content types included on the results as expected?
+- Are more recent items coming to the top?
+- Are promoted items at the top?
+- Are the facets well populated?
+
+#### Specific term testing
+
+- Same as above but with exact results
+- Check that boosting works
+
+[Article 1](https://www.easternstandard.com/node/1049), [Article 2](https://www.axelerant.com/resources/team-blog/test-scenarios-search-functionality-drupal), [Article 3](https://www.morpht.com/blog/perfecting-search-search-api)
 
 ---
 
