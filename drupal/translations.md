@@ -149,15 +149,15 @@ po → "/translations/PROJECT.LANGCODE.po" file each project root (git)
 
 ## D.O related issues
 
-2. [Configuration language being overwritten during module install](https://www.drupal.org/project/drupal/issues/2905295)
+1. [Configuration language being overwritten during module install](https://www.drupal.org/project/drupal/issues/2905295)
    (2905295)
-3. [Translated Config Override should default to original language values if there are no translations](https://www.drupal.org/project/drupal/issues/2993984)
+1. [Translated Config Override should default to original language values if there are no translations](https://www.drupal.org/project/drupal/issues/2993984)
    (2993984)
-4. [Add string context and location filters to the translate interface](https://www.drupal.org/project/drupal/issues/2123543)
+1. [Add string context and location filters to the translate interface](https://www.drupal.org/project/drupal/issues/2123543)
    (2123543)
-5. [Regression: not possible to delete source strings in Drupal 8 interface translation](https://www.drupal.org/project/drupal/issues/2503893)
+1. [Regression: not possible to delete source strings in Drupal 8 interface translation](https://www.drupal.org/project/drupal/issues/2503893)
    (2503893)
-6. [META: Modernize Locale module](https://www.drupal.org/node/3215707)
+1. [META: Modernize Locale module](https://www.drupal.org/node/3215707)
    (3215707)
 
 ## Documentation
