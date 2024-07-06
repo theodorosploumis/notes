@@ -143,6 +143,10 @@ po → "/translations/PROJECT.LANGCODE.po" file each project root (git)
 6. [weblate.org](https://weblate.org/) (translation service)
 7. [mlocati.github.io/jsgettext](https://mlocati.github.io/jsgettext) (Online convert from/to po, pot, mo)
 
+## Scripts
+
+1. [Gist: Convert .po files from Drupal7 to .yml for Drupal9](https://gist.github.com/Dimitris1990/0aabe4cabd0d12e0fbffccac1536ae9e)
+
 ## D.O related issues
 
 2. [Configuration language being overwritten during module install](https://www.drupal.org/project/drupal/issues/2905295)
