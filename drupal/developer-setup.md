@@ -65,6 +65,7 @@ See a full list on **https://drupaltools.com**.
 - [**rupa/z**](https://github.com/rupa/z)
 - [git-crypt](https://github.com/AGWA/git-crypt)
 - [flameshot (screenshots)](https://flameshot.org)
+- [tmate - Instant terminal sharing](https://github.com/tmate-io/tmate)
 
 ## Terminal, CLI
 
