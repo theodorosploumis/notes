@@ -42,7 +42,7 @@ See a full list on **https://drupaltools.com**.
 
 ## Local VMs & Docker tools
 
-- [**ddev**](https://ddev.readthedocs.io)
+- [**ddev**](https://ddev.readthedocs.io) + ddev-cron, ddev-adminer
 - [docker](https://docs.docker.com)
 - [virtualbox](https://www.virtualbox.org)
 - [vagrant](https://www.vagrantup.com)
