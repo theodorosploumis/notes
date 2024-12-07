@@ -66,6 +66,10 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 - [imageapi_optimize](https://www.drupal.org/project/imageapi_optimize)
 - [webp](https://www.drupal.org/project/webp)
 
+### Entities
+
+- [storage](https://www.drupal.org/project/storage)
+
 ### SEO
 
 - [pathauto](https://www.drupal.org/project/pathauto)
@@ -85,7 +89,6 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 
 - [smtp](https://www.drupal.org/project/smtp)
 - [mailsystem](https://www.drupal.org/project/mailsystem)
-- [recaptcha](https://www.drupal.org/project/recaptcha)
 
 ### Other
 
@@ -98,6 +101,8 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 
 ## Themes
 
+- [artisan](https://www.drupal.org/project/artisan)
+- [pinto - Theme helper](https://www.drupal.org/project/pinto)
 - [prototype](https://www.drupal.org/project/prototype)
 - [gesso](https://www.drupal.org/project/gesso)
 - [radix](https://www.drupal.org/project/radix)
