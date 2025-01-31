@@ -23,3 +23,4 @@
 - [Mozilla](https://donate.mozilla.org)
 - [Archive.org](https://archive.org/donate)
 - [librespeed.org](https://liberapay.com/fdossena/donate)
+- [Open Source Initiative](https://members.opensource.org/donate)
