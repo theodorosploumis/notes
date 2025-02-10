@@ -4,6 +4,8 @@
 
 - [GitHub Sponsors](https://github.com/sponsors)
 - [Open Collective](https://opencollective.com)
+- [Open Source Pledge](https://opensourcepledge.com/)
+- [thanks.dev](https://thanks.dev)
 - [patreon.com](https://www.patreon.com)
 - [Buy Me a Coffee](https://www.buymeacoffee.com)
 - [Ko-fi](https://ko-fi.com)
