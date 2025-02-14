@@ -46,6 +46,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 - [Jobs](jobs.md)
 - [Machine Learning](machine-learning.md)
 - [Offers](offers.md)
+- [Privacy](privacy.md)
 - [Project Management](pm.md) (Project estimation, hr, brief, work streams etc)
 - [Public speech](public-speech.md)
 - [RSS feeds](rss.md)
