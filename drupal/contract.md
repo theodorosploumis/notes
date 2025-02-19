@@ -6,6 +6,7 @@
 
 - Drupal version
 - Hosting
+- Define the [Service Level Agreement (SLA)](https://uptime.is) for uptime
 - Member accounts. If anonymous can create member accounts or sumbit data there are more security issues to take care of
 - User permissions and roles
 - 3rd party integrations (authentication, APIs, external js libraries etc). More integrations mean more issues
