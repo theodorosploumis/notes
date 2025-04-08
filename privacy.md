@@ -9,3 +9,4 @@ Tools and services to allow privacy on web browsing as also as on your local mac
 - [Search engine - DuckDuckGo](https://duckduckgo.com)
 - [Browser extension to block trackers - Privacy Badger](https://privacybadger.org)
 - [Browswer extension to block Ads - AdBlock](https://getadblock.com)
+- [Firefox relay - protect your email](https://relay.firefox.com/)
