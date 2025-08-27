@@ -11,6 +11,7 @@
 - [Developer Setup](developer-setup.md)
 - [Debug](debug)
 - [Favorite Drupal modules](favorites.md)
+- [IDE Settings and Plugins](ide-settings-plugins.md)
 - [Lessons](lessons.md)
 - [Maintenance and support Contract](contract.md)
 - [Mastering Authoring - tips and modules](mastering-authoring.md)
