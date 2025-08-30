@@ -6,8 +6,11 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 
 - [**drush-launcher**](https://github.com/drush-ops/drush-launcher)
 - [drupalorg-cli](https://github.com/mglaman/drupalorg-cli)
+- [Drupal Tooler, browser extension for D.O.](https://github.com/baikho/drupal-tooler)
 
 See a full list on **https://drupaltools.com**.
+
+## AI tools
 
 ## PHP tools
 
@@ -83,14 +86,11 @@ See a full list on **https://drupaltools.com**.
 > Additional plugins. Bult-in plugins not included on this list.
 
 - [AI Assistant](https://plugins.jetbrains.com/plugin/22282-ai-assistant)
-- [cody-ai-by-sourcegraph](https://plugins.jetbrains.com/plugin/9682-cody-ai-by-sourcegraph)
 - [php-inspections-ea-extended](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
 - [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
 - [php-annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
 - [php-toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
 - [find-pull-request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
-- [code-with-me](https://plugins.jetbrains.com/plugin/14896-code-with-me)
-- [ddev-integration](https://plugins.jetbrains.com/plugin/18813-ddev-integration)
 - [i-love-devtoys](https://plugins.jetbrains.com/plugin/20198-i-love-devtoys)
 - [string-manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 - [AceJump](https://plugins.jetbrains.com/plugin/7086-acejump)
