@@ -70,6 +70,7 @@ drush config:set language.negotiation url.prefixes.el el
 
 ## Drupal modules for translations
 
+- [**babel**](https://www.drupal.org/project/babel)
 - [config_import_locale](https://www.drupal.org/project/config_import_locale)
 - [config_translation_access](https://www.drupal.org/project/config_translation_access)
 - [config_translation_po](https://www.drupal.org/project/config_translation_po)
