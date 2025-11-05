@@ -101,6 +101,7 @@ See also my DO starred projects <https://www.drupal.org/user/869224/starred>.
 
 ## Themes
 
+- [mercury](https://www.drupal.org/project/mercury)
 - [artisan](https://www.drupal.org/project/artisan)
 - [pinto - Theme helper](https://www.drupal.org/project/pinto)
 - [prototype](https://www.drupal.org/project/prototype)
