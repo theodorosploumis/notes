@@ -4,6 +4,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 
 ## Index
 
+- [AI](ai) (AI related tools, tips and favourites)
 - [Company Docs](docs.md) (What should we include on internal Company Docs)
 - [Cheatsheets](cheatsheets.md) (Drupal and programmig CheatSheets)
 - [Data (sheet) tables](data.md) (What fields should we include on a table like data sheet)
