@@ -60,6 +60,7 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 - Claude GUI
 - https://anythingllm.com
+- https://www.librechat.ai
 - https://github.com/CherryHQ/cherry-studio
 - https://www.jan.ai
 - https://chatboxai.app
