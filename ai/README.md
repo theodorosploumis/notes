@@ -47,6 +47,7 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - OpenAI: GPT-5 Codex
 - Google: Gemini 2.5 Pro
 - Z.AI: GLM 4.6
+- Kwaipilot: KAT-Coder-Pro V1
 - MiniMax: MiniMax M2
 - MoonshotAI: Kimi K2 0905
 - Qwen: Qwen3 Coder Plus
