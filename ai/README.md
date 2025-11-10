@@ -25,9 +25,10 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - codex
 - grok
 - gemini
+- opencode
+- warp
 - task-master
 - crush
-- warp
 
 ### IDE plugins (PHPStorm)
 
