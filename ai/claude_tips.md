@@ -80,6 +80,8 @@ cd ../project-feature && claude
 
 - **Hooks**: .claude/hooks/ (PreThink, PostThink, PreToolUse, PostToolUse, Stop, Start etc)
 - **Commands**: .claude/commands/ (custom slash commands)
+- **Agents**: .claude/agents/ (custom agents)
+- **Skills**: .claude/skills/ (custom skills)
 - **Plugins**: /plugin install for marketplace extensions
 
 ## Effective Prompting
