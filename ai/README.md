@@ -60,7 +60,7 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 ### Local GUI
 
-- Claude GUI
+- Claude GUI [official](https://claude.com/download), [Linux](https://github.com/aaddrick/claude-desktop-debian)
 - https://anythingllm.com
 - https://www.librechat.ai
 - https://github.com/CherryHQ/cherry-studio
