@@ -1,6 +1,6 @@
 # Privacy
 
-Tools and services to allow privacy on web browsing as also as on your local machine.
+Tools and services to allow privacy on web browsing, file sharing etc, as also as on your local machine.
 
 - [Browser Tor](https://www.torproject.org)
 - [DNS - 1.1.1.1](https://one.one.one.one)
