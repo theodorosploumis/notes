@@ -10,3 +10,4 @@ Tools and services to allow privacy on web browsing as also as on your local mac
 - [Browser extension to block trackers - Privacy Badger](https://privacybadger.org)
 - [Browswer extension to block Ads - AdBlock](https://getadblock.com)
 - [Firefox Relay - protect your email](https://relay.firefox.com/)
+- [croc - Easily and securely send things from one computer to another](https://github.com/schollz/croc)
