@@ -12,6 +12,7 @@ Some tools I use for several development or sysadmin tasks.
 
 ## API testing
 
+- https://httpie.io
 - https://www.postman.com
 
 ## Cron jobs
