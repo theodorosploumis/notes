@@ -58,6 +58,17 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - Cohere: Command R+
 - DeepSeek: R1
 
+### MCP
+
+Favorite mcp tools and servers
+
+- https://github.com/modelcontextprotocol/servers
+- https://github.com/mozilla-ai/mcpd-proxy
+- https://rube.app
+- https://ref.tools
+- https://github.com/upstash/context7
+- https://github.com/idosal/git-mcp
+
 ### Local GUI
 
 - Claude GUI [official](https://claude.com/download), [Linux](https://github.com/aaddrick/claude-desktop-debian)
