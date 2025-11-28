@@ -23,18 +23,20 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 - claude
 - codex
-- grok
 - gemini
 - opencode
-- warp
+- openhands
 - task-master
-- crush
+- qwen
+- kimi
+- vtcode
+- warp
 
 ### IDE plugins (PHPStorm)
 
 - cline
-- tabby
 - kilo code
+- tabby
 
 ### Providers
 
