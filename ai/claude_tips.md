@@ -94,6 +94,14 @@ cd ../project-feature && claude
 - Small diffs, short prompts
 - Keep `.claude/` folder clean and versioned
 
+## Companion tools
+
+- https://github.com/musistudio/claude-code-router
+- https://github.com/kbwo/ccmanager
+- https://github.com/GWUDCAP/cc-sessions
+- https://github.com/ruvnet/claude-flow
+
+
 ## Documentation
 
 - https://docs.claude.com/en/docs/claude-code
