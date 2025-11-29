@@ -34,9 +34,11 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 ### IDE plugins (PHPStorm)
 
-- cline
-- kilo code
-- tabby
+> I have tried so many other AI plugins inside PHPStorm and I decided to only keep these:
+
+- cline (https://cline.bot)
+- kilo code (https://kilo.ai)
+- tabby (https://github.com/TabbyML/tabby)
 
 ### Providers
 
@@ -46,13 +48,13 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 ### Models
 
 - xAI: Grok Code Fast 1
-- Anthropic: Claude Sonnet 4.5
+- Anthropic: Claude Haiku 4.5, Sonnet 4.5, Opus 4.5
 - OpenAI: GPT-5 Codex
 - Google: Gemini 2.5 Pro
 - Z.AI: GLM 4.6
 - Kwaipilot: KAT-Coder-Pro V1
 - MiniMax: MiniMax M2
-- MoonshotAI: Kimi K2 0905
+- MoonshotAI: [Kimi K2]((https://platform.moonshot.ai/docs/guide/kimi-k2-quickstart)
 - Qwen: Qwen3 Coder Plus
 - Mistral: Codestral 2508
 - Inception: Mercury Coder
