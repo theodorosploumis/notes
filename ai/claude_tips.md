@@ -100,6 +100,7 @@ cd ../project-feature && claude
 - https://github.com/kbwo/ccmanager
 - https://github.com/GWUDCAP/cc-sessions
 - https://github.com/ruvnet/claude-flow
+- https://opcode.sh (GUI for Claude cli)
 
 
 ## Documentation
