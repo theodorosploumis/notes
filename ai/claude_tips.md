@@ -21,6 +21,7 @@
 | Show context | /context |
 | Manage permissions | /permissions |
 | Edit memories | /memory |
+| Add folders to session | [/add-dir](https://claudelog.com/faqs/--add-dir) |
 | Headless mode | claude -p "query" |
 | Continue chat | claude --continue |
 | Skip permissions | --dangerously-skip-permissions |
