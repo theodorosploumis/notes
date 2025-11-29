@@ -96,11 +96,12 @@ cd ../project-feature && claude
 
 ## Companion tools
 
-- https://github.com/musistudio/claude-code-router
-- https://github.com/kbwo/ccmanager
-- https://github.com/GWUDCAP/cc-sessions
-- https://github.com/ruvnet/claude-flow
-- https://opcode.sh (GUI for Claude cli)
+- https://github.com/musistudio/claude-code-router (`ccr`)
+- https://github.com/kbwo/ccmanager (`ccmanager`)
+- https://github.com/foreveryh/claude-code-switch (`ccm`)
+- https://github.com/GWUDCAP/cc-sessions (`npx cc-sessions`)
+- https://github.com/ruvnet/claude-flow (`npx claude-flow@alpha`)
+- https://opcode.sh (GUI for Claude cli, `opcode`)
 
 
 ## Documentation
