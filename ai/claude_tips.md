@@ -2,6 +2,8 @@
 
 ## Cheatsheet
 
+> See also https://github.com/Njengah/claude-code-cheat-sheet
+
 | Action | Command |
 |--------|---------|
 | Stop operation | ESC |
