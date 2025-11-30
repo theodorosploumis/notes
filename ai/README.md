@@ -54,7 +54,7 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - Z.AI: GLM 4.6
 - Kwaipilot: KAT-Coder-Pro V1
 - MiniMax: MiniMax M2
-- MoonshotAI: [Kimi K2]((https://platform.moonshot.ai/docs/guide/kimi-k2-quickstart)
+- MoonshotAI: [Kimi K2](https://platform.moonshot.ai/docs/guide/kimi-k2-quickstart)
 - Qwen: Qwen3 Coder Plus
 - Mistral: Codestral 2508
 - Inception: Mercury Coder
@@ -96,3 +96,4 @@ Favorite mcp tools and servers
 
 - https://www.waveterm.dev
 - https://www.browseros.com
+- https://github.com/farion1231/cc-switch
