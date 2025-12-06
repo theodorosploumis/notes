@@ -11,7 +11,7 @@
 - Context ...
 - Which md (guides) should I create?
 - What AI related files should we track on VCS?
-- How to run parallel, sandboxed, automated tasks on the same code/project?
+- How to run parallel, sandboxed, automated tasks on the same code/project? Is [git worktree](https://git-scm.com/docs/git-worktree) enough?
 - How to control the token usage and costs?
 - Local only VS dual (local + online)
 - All the git repositories will get bigger due to the new AI md files added
