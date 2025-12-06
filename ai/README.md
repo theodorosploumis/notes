@@ -21,16 +21,16 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 ### Coding
 
-- claude
-- codex
-- gemini
-- opencode
-- openhands
-- task-master (task and agents orchestrator)
-- qwen
-- kimi
-- vtcode
-- warp
+- [**claude**](https://github.com/anthropics/claude-code)
+- [codex](https://github.com/openai/codex)
+- [gemini](https://github.com/google-gemini/gemini-cli)
+- [**opencode**](https://github.com/sst/opencode)
+- [openhands](https://github.com/OpenHands/OpenHands)
+- [**task-master**](https://github.com/eyaltoledano/claude-task-master) (task and agents orchestrator)
+- [qwen](https://github.com/QwenLM/qwen-code)
+- [kimi](https://github.com/MoonshotAI/kimi-cli)
+- [vtcode](https://github.com/vinhnx/vtcode)
+- [**warp**](https://www.warp.dev)
 
 ### IDE plugins (PHPStorm)
 
