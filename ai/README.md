@@ -26,7 +26,7 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - gemini
 - opencode
 - openhands
-- task-master
+- task-master (task and agents orchestrator)
 - qwen
 - kimi
 - vtcode
