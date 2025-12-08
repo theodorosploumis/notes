@@ -92,6 +92,12 @@ Favorite mcp tools and servers
 - https://www.comfy.org
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
+### Playgrounds
+
+- https://openrouter.ai/chat
+- https://huggingface.co/playground
+- https://fal.ai/sandbox (Images)
+
 ### Other
 
 - https://www.waveterm.dev
