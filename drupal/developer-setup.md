@@ -55,6 +55,7 @@ See a full list on **https://drupaltools.com**.
 ## Generic tools
 
 - [GitHub cli](https://cli.github.com/)
+- [GitLab CLI (glab)](https://docs.gitlab.com/cli/)
 - [**nvm**](https://github.com/nvm-sh/nvm)
 - [**rsync**](https://rsync.samba.org)
 - [**sass**](https://sass-lang.com)
