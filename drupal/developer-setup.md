@@ -22,35 +22,23 @@ See a full list on **https://drupaltools.com**.
 
 - [**phpbrew**](https://github.com/phpbrew/phpbrew)
 - [**robo**](https://robo.li)
-- [deployer](https://deployer.org)
+- [phpcbf, phpcs (PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer)
 - [captainhook](https://github.com/captainhookphp/captainhook)
 - [codeception](https://github.com/codeception/codeception)
 - [GrumPHP](https://github.com/phpro/grumphp)
-- [Magallanes](https://github.com/andres-montanez/Magallanes)
-- [phan](https://github.com/phan/phan)
-- [phive](https://github.com/phar-io/phive)
-- [phing](https://www.phing.info)
-- [phpcbf, phpcs (PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer)
-- [phpcpd](https://github.com/sebastianbergmann/phpcpd)
-- [phpmd](https://phpmd.org)
 - [phpmetrics](https://github.com/phpmetrics/PhpMetrics)
-- [security-checker](https://github.com/enlightn/security-checker)
 
 ## Nodejs packages (global)
 
 - [grunt-cli](https://gruntjs.com)
 - [gulp-cli](https://gulpjs.com)
 - [husky](https://github.com/typicode/husky)
-- [yeoman](https://yeoman.io)
 
 ## Local VMs & Docker tools
 
 - [**ddev**](https://ddev.readthedocs.io) + ddev-cron, ddev-adminer
 - [docker](https://docs.docker.com)
-- [virtualbox](https://www.virtualbox.org)
 - [vagrant](https://www.vagrantup.com)
-- [lando](https://docs.lando.dev)
-- [takeout](https://github.com/tighten/takeout) (docker services scaffolding)
 
 ## Generic tools
 
