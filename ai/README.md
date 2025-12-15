@@ -103,3 +103,4 @@ Favorite mcp tools and servers
 - https://www.waveterm.dev
 - https://www.browseros.com
 - https://github.com/farion1231/cc-switch
+- https://www.npmjs.com/package/drupal-claude-collective (Drupal skills on task-master)
