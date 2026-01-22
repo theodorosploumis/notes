@@ -17,3 +17,11 @@
 - Tasks that we have no clue how to monitor, evaluate, fix, update etc (because this rises the technical depth in out code).
 - Tasks we already know that an (specific) LLM cannot still do a good job (e.g. getting the web UI of a Drupal site for a logged in User).
 - Just because it is a trend.
+
+## Guiding AI agents
+
+> Several prompts to get better results with AI agents.
+
+- What information do you need that would let you implement this perfectly right now?
+- What tools are available to you that you could use to discover that information systematically without guessing?
+- Write a long, detailed report on what happened when a bug is fixed
