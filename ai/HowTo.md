@@ -22,6 +22,7 @@
 
 > Several prompts to get better results with AI agents.
 
-- What information do you need that would let you implement this perfectly right now?
-- What tools are available to you that you could use to discover that information systematically without guessing?
-- Write a long, detailed report on what happened when a bug is fixed
+- `What information do you need that would let you implement this perfectly right now?`
+- `What tools are available to you that you could use to discover that information systematically without guessing?`
+- `Write a long, detailed report on what happened when a bug is fixed.`
+- `When you keep notes about the work you do store them in folder X.`
