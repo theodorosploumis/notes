@@ -58,6 +58,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 
 See also:
 
+- <https://github.com/charlax/professional-programming>
 - <https://github.com/theodorosploumis/drupal-best-practices>
 - <https://github.com/kbariotis/templates>
 
