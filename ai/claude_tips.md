@@ -66,18 +66,34 @@ claude --dangerously-skip-permissions
 ## Parallel Sub-agents
 
 ```bash
-git worktree add ../project-feature feature-branch
-cd ../project-feature && claude
-# Or ask: "Use subagents to refactor this"
+# git worktree add ../project-feature feature-branch
+# cd ../project-feature && claude
+# Example: 
+git worktree add ../feat-auth feature/auth
+git worktree add ../feat-api feature/api
+git worktree add ../feat-ui feature/ui
+
+# Then, run claude in each (separate terminals)
+cd ../feat-auth && claude
+cd ../feat-api && claude
+cd ../feat-ui && claude
+
+# Or ask: "Use subagents to do this"
+```
+
+## Common integrations
+
+```bash
+claude mcp add github
 ```
 
 ## Context Management
 
-- Clear between tasks with `/clear`
+- Clear between tasks with `/clear` (currently, claude automatically does this)
 - Use `@imports` for large docs
 - Save plans to markdown files
 - Watch status bar: tokens (percentage)
-- Auto-compact at ~200k tokens (avoid by clearing)
+- Auto-compact at ~200k (or any new limit) tokens (avoid by clearing)
 
 ## Hooks & Plugins
 
@@ -91,7 +107,7 @@ cd ../project-feature && claude
 
 - Be specific with file paths
 - Use `@references` to related files
-- Ask for plan first with "think hard"
+- Ask for plan first (with the words "think hard") or `/plan` command
 - Break large tasks into steps
 - Save plans to docs for reference
 - Small diffs, short prompts
