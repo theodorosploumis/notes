@@ -13,7 +13,7 @@
 | Taxonomy fields                             |
 | Form types (Webforms)                       |
 | Form fields                                 |
-| Custom tpl files                            |
+| Custom template files                       |
 | Ready contrib modules                       |
 | Custom modules                              |
 | Custom theme(s)                             |
