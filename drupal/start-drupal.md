@@ -11,7 +11,7 @@ A step by step, opinioned, checklist for a Drupal rookie.
 - [ ] I know how to use [cli](https://en.wikipedia.org/wiki/Command-line_interface).
 - [ ] I know how to write [Markdown](https://en.wikipedia.org/wiki/Markdown)
 - [ ] I know how to read and write [YAML](https://en.wikipedia.org/wiki/YAML)
-- [ ] I can use an IDE (Phpstorm, VSCode etc).
+- [ ] I can use an IDE ([Phpstorm](ide-settings-plugins.md), VSCode etc).
 
 ## 2. Drupal basics
 
