@@ -34,6 +34,7 @@
 | Create worktree | git worktree add <path> <branch> |
 | Auto-accept edits | --permission-mode acceptEdits |
 | Specify tools | --allowedTools "Bash,Read,Edit" |
+| Insights report | /insights |
 
 ## CLI Basics
 
