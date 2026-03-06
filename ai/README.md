@@ -1,6 +1,7 @@
 # AI
 
 > A collection of tools, best practices, agents, workflows etc for the AI era. Focused on Drupal.
+> Items on ~~strikethrough~~ mean that I was using them at sometime but not anymore. For reasons.
 
 ## Agent generator
 
@@ -21,24 +22,27 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 ### Coding
 
+- [**opencode**](https://github.com/anomalyco/opencode) (with https://ohmyopencode.org)
 - [**claude**](https://github.com/anthropics/claude-code)
 - [codex](https://github.com/openai/codex)
-- [gemini](https://github.com/google-gemini/gemini-cli)
-- [**opencode**](https://github.com/sst/opencode)
-- [openhands](https://github.com/OpenHands/OpenHands)
 - [**task-master**](https://github.com/eyaltoledano/claude-task-master) (task and agents orchestrator)
-- [qwen](https://github.com/QwenLM/qwen-code)
-- [kimi](https://github.com/MoonshotAI/kimi-cli)
-- [vtcode](https://github.com/vinhnx/vtcode)
+- ~~[gemini](https://github.com/google-gemini/gemini-cli)~~
+- ~~[openhands](https://github.com/OpenHands/OpenHands)~~
+- ~~[qwen](https://github.com/QwenLM/qwen-code)~~
+- ~~[kimi](https://github.com/MoonshotAI/kimi-cli)~~
+- ~~[vtcode](https://github.com/vinhnx/vtcode)~~
 - [**warp**](https://www.warp.dev)
 
 ### IDE plugins (PHPStorm)
 
 > I have tried so many other AI plugins inside PHPStorm and I decided to only keep these:
 
-- cline (https://cline.bot)
-- kilo code (https://kilo.ai)
-- tabby (https://github.com/TabbyML/tabby)
+- [AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant) - I use this mostly with ACP agents, even with kilo
+- [kilo code](https://kilo.ai)
+- [Qodo - code reviewer](https://plugins.jetbrains.com/plugin/21206-qodo)
+- [Qoder]
+- [tabby](https://github.com/TabbyML/tabby)
+- ~~cline~~ (https://cline.bot)
 
 ### Providers
 
@@ -47,11 +51,11 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 ### Models
 
-- xAI: Grok Code Fast 1
-- Anthropic: Claude Haiku 4.5, Sonnet 4.5, Opus 4.5
-- OpenAI: GPT-5 Codex
-- Google: Gemini 2.5 Pro
-- Z.AI: GLM 4.6
+- xAI: Grok Code Fast X
+- Anthropic: Claude Haiku, Sonnet, Opus
+- OpenAI: GPT-X Codex
+- Google: Gemini X Pro
+- Z.AI: GLM-X
 - Kwaipilot: KAT-Coder-Pro V1
 - MiniMax: MiniMax M2
 - MoonshotAI: [Kimi K2](https://platform.moonshot.ai/docs/guide/kimi-k2-quickstart)
