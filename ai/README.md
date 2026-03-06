@@ -77,6 +77,11 @@ Favorite mcp tools and servers
 - https://github.com/upstash/context7
 - https://github.com/idosal/git-mcp
 
+### Tracing and Observability
+
+- https://langfuse.com
+- https://smith.langchain.com
+
 ### Local GUI
 
 - Claude GUI [official](https://claude.com/download), [Linux](https://github.com/aaddrick/claude-desktop-debian)
