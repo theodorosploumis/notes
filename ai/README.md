@@ -32,6 +32,7 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - ~~[kimi](https://github.com/MoonshotAI/kimi-cli)~~
 - ~~[vtcode](https://github.com/vinhnx/vtcode)~~
 - [**warp**](https://www.warp.dev)
+- [crush](https://github.com/charmbracelet/crush)
 
 ### IDE plugins (PHPStorm)
 
