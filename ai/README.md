@@ -44,6 +44,19 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - [tabby](https://github.com/TabbyML/tabby)
 - ~~cline~~ (https://cline.bot)
 
+### IDE
+
+> IDE I am planning to use or partial use at the moment and I feel they worth a try.
+> Also, IDE I tried and didn't like for several reasons are marked ~~like this~~.
+
+- **windsurf**
+- cursor
+- zed
+- goose
+- ~~kiro~~
+- ~~antigravity~~
+- ~~droid~~
+
 ### Providers
 
 - openrouter.ai
@@ -52,16 +65,17 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 ### Models
 
 - xAI: Grok Code Fast X
-- Anthropic: Claude Haiku, Sonnet, Opus
+- Anthropic: Haiku, Sonnet, Opus
 - OpenAI: GPT-X Codex
 - Google: Gemini X Pro
 - Z.AI: GLM-X
 - Kwaipilot: KAT-Coder-Pro V1
-- MiniMax: MiniMax M2
+- MiniMax: MiniMax M2.X
 - MoonshotAI: [Kimi K2](https://platform.moonshot.ai/docs/guide/kimi-k2-quickstart)
 - Qwen: Qwen3 Coder Plus
 - Mistral: Codestral 2508
 - Inception: Mercury Coder
+- **Cognition: SWE-1.5**
 - Arcee AI: Coder Large
 - Cohere: Command R+
 - DeepSeek: R1
@@ -109,6 +123,7 @@ Favorite mcp tools and servers
 
 ### Other
 
+- **https://github.com/yigitkonur/cli-continues** (resume any AI coding session in another tool!)
 - https://www.waveterm.dev
 - https://www.browseros.com
 - https://github.com/farion1231/cc-switch
