@@ -26,13 +26,13 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - [**claude**](https://github.com/anthropics/claude-code)
 - [codex](https://github.com/openai/codex)
 - [**task-master**](https://github.com/eyaltoledano/claude-task-master) (task and agents orchestrator)
+- [**warp**](https://www.warp.dev)
+- [crush](https://github.com/charmbracelet/crush)
 - ~~[gemini](https://github.com/google-gemini/gemini-cli)~~
 - ~~[openhands](https://github.com/OpenHands/OpenHands)~~
 - ~~[qwen](https://github.com/QwenLM/qwen-code)~~
 - ~~[kimi](https://github.com/MoonshotAI/kimi-cli)~~
 - ~~[vtcode](https://github.com/vinhnx/vtcode)~~
-- [**warp**](https://www.warp.dev)
-- [crush](https://github.com/charmbracelet/crush)
 
 ### IDE plugins (PHPStorm)
 
@@ -41,9 +41,9 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 - [AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant) - I use this mostly with ACP agents, even with kilo
 - [kilo code](https://kilo.ai)
 - [Qodo - code reviewer](https://plugins.jetbrains.com/plugin/21206-qodo)
-- [Qoder]
+- [Qoder](https://qoder.com)
 - [tabby](https://github.com/TabbyML/tabby)
-- ~~cline~~ (https://cline.bot)
+- ~~[cline](https://cline.bot)~~ 
 
 ### IDE
 
@@ -103,7 +103,6 @@ Favorite mcp tools and servers
 - https://anythingllm.com
 - https://github.com/CherryHQ/cherry-studio
 - https://chatboxai.app
-- https://localai.io
 - https://lmstudio.ai
 - ~~gpt4all~~
 - ~~ollama~~
@@ -112,6 +111,7 @@ Favorite mcp tools and servers
 - ~~brokk~~
 - ~~deepchat~~
 - ~~orchids~~
+- ~~[localai](https://localai.io)~~
 
 ### Local Image GUI
 
