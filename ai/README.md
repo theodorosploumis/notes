@@ -65,21 +65,21 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 ### Models
 
-- xAI: Grok Code Fast X
 - Anthropic: Haiku, Sonnet, Opus
 - OpenAI: GPT-X Codex
+- xAI: Grok Code Fast X
 - Google: Gemini X Pro
 - Z.AI: GLM-X
 - Kwaipilot: KAT-Coder-Pro V1
 - MiniMax: MiniMax M2.X
-- MoonshotAI: [Kimi K2](https://platform.moonshot.ai/docs/guide/kimi-k2-quickstart)
+- MoonshotAI: kimi-k2.5
 - Qwen: Qwen3 Coder Plus
 - Mistral: Codestral 2508
 - Inception: Mercury Coder
-- **Cognition: SWE-1.5**
+- **Cognition: SWE-1.5** (available only on Windsurf IDE)
 - Arcee AI: Coder Large
 - Cohere: Command R+
-- DeepSeek: R1
+- DeepSeek: DeepSeek-V3.2
 
 ### MCP
 
@@ -101,14 +101,17 @@ Favorite mcp tools and servers
 
 - Claude GUI [official](https://claude.com/download), [Linux](https://github.com/aaddrick/claude-desktop-debian)
 - https://anythingllm.com
-- https://www.librechat.ai
 - https://github.com/CherryHQ/cherry-studio
-- https://www.jan.ai
 - https://chatboxai.app
 - https://localai.io
 - https://lmstudio.ai
-- https://github.com/nomic-ai/gpt4all
-- https://github.com/ollama/ollama
+- ~~gpt4all~~
+- ~~ollama~~
+- ~~jan~~
+- ~~libreChat~~
+- ~~brokk~~
+- ~~deepchat~~
+- ~~orchids~~
 
 ### Local Image GUI
 
