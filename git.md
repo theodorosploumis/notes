@@ -65,8 +65,8 @@ If we want to use more than 15% of **git** features we have to master these comm
 
 ## Extensions
 
-hooks... (preCommit etc)
-plugins ... (e.g. https://github.com/tj/git-extras)
+- hooks... (preCommit etc)
+- plugins ... (e.g. https://github.com/tj/git-extras)
 
 ## Integrations
 
