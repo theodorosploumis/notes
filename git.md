@@ -4,50 +4,64 @@ If we want to use more than 15% of **git** features we have to master these comm
 
 ## Commands
 
-git rebase
-git revert
-git reset
-git restore
+**Undoing / Rewriting History**
+- `git rebase` – reapply commits on top of another base
+- `git revert` – create a new commit that undoes a previous one
+- `git reset` – move HEAD and optionally unstage/discard changes
+- `git restore` – restore working tree or index files
+- `git commit -v --amend` – rewrite the last commit
+- `git filter-branch` – rewrite history in bulk
 
-git diff
-git diff-tree
-git apply
-git format-patch
+**Inspection / Diff / Patch**
+- `git diff` – show unstaged or staged changes
+- `git diff-tree` – compare tree objects (low-level)
+- `git apply` – apply a patch to the working tree
+- `git format-patch` – generate patch files from commits
 
-git reflog
+**Recovery / History Navigation**
+- `git reflog` – log of where HEAD has been
 
-git var -l
+**Environment / Config Inspection**
+- `git var -l` – list git logical variables
 
-git cherry-pick
-git stash
+**Selective Changes**
+- `git cherry-pick` – apply specific commits
+- `git stash` – shelve and restore uncommitted changes
 
-git switch
+**Branch Navigation**
+- `git switch` – switch branches (modern replacement for `checkout`)
 
-git name-rev
-git rev-parse
-git rev-list
-git shortlog
-git log --oneline --graph --decorate --all
+**Commit / Revision Lookup**
+- `git name-rev` – find symbolic name for a given rev
+- `git rev-parse` – parse revision expressions to hashes
+- `git rev-list` – list commit objects
+- `git shortlog` – summarise commit log by author
+- `git log --oneline --graph --decorate --all` – visual commit graph
 
-git tag
-git describe
-git archive --format=zip --output=archive.zip HEAD
+**Tagging / Release**
+- `git tag` – create or list tags
+- `git describe` – describe a commit using the nearest tag
+- `git archive --format=zip --output=archive.zip HEAD` – export a snapshot
 
-git worktree
-git flow
+**Parallel Workspaces**
+- `git worktree` – manage multiple working trees
+- `git flow` – high-level branching workflow (extension)
 
-git grep
-git bisect
+**Authorship / Line History**
+- `git blame` – show who last modified each line
+- `git annotate` – alias for blame with slightly different output
 
-git ls-tree
-git ls-files
+**Search / Debug**
+- `git grep` – search working tree or history
+- `git bisect` – binary search to find a bug-introducing commit
 
-git commit -v --amend
+**Tree / Index Inspection**
+- `git ls-tree` – list contents of a tree object
+- `git ls-files` – list tracked files in the index
 
-git filter-branch
-
-git help -g
-git help everyday
+**Documentation / Help**
+- `git help -g` – list concept guides
+- `git help everyday` – common commands for daily use
 
 ## Extensions
 
