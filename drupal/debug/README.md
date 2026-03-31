@@ -33,7 +33,7 @@
 - "Cheap" tests should come first
 - Common problems testing should come first
 - Try to eliminate the error sources from each test
-- git is your friend. Use `git diff`, `git blame`, `git anotate`
+- git is your friend. Use `git diff`, `git blame`, `git annotate`
 
 ## Debug in Drupal
 
