@@ -45,6 +45,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
   - [User flows](commerce/flows.md)
 - [Figma Component Checklist](design/figma)
 - [Jobs](jobs.md)
+- [Git](git.md)
 - [Machine Learning](machine-learning.md)
 - [Offers](offers.md)
 - [Privacy](privacy.md)
