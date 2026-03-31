@@ -25,7 +25,6 @@ After the initial training period (**4 week**) you can start as an **assistant d
 
 ## IDE plugins for education
 
-- Phpstorm: [Code with me](https://www.jetbrains.com/help/phpstorm/code-with-me.html)
 - Phpstorm: [Duckly Pair Programming Tool](https://plugins.jetbrains.com/plugin/14919-duckly-pair-programming-tool)
 - Phpstorm: [CodeTogether](https://plugins.jetbrains.com/plugin/14225-codetogether)
 - VSCode: [Live Share](https://visualstudio.microsoft.com/services/live-share)
