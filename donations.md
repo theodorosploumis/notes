@@ -16,6 +16,7 @@
 - [OSS.Fund](https://www.oss.fund)
 - [PayPal.Me](https://www.paypal.me)
 - [donorbox.org/](https://donorbox.org)
+- [thanks.dev](https://thanks.dev)
 
 ## Software specific
 
