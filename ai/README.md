@@ -11,7 +11,6 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 
 - Each Instructions block should be optimized for both GPT-5 model, claude Sonnet 4.5 and gemini Pro 2.5. 
 - Keep it under 700 tokens (or 2500 characters).
-- Don't mention lando.
 - Focus on Ubuntu development.
 - Focus on LAMP stack.
 - Title should be h1, sections should be h2.
@@ -51,9 +50,10 @@ Optimize an AI Agent instructions for the persona <PERSONA>.
 > Also, IDE I tried and didn't like for several reasons are marked ~~like this~~.
 
 - **windsurf**
-- cursor
+- **cursor**
 - zed
 - goose
+- [emdash](https://www.emdash.sh)
 - ~~kiro~~
 - ~~antigravity~~
 - ~~droid~~
@@ -96,6 +96,19 @@ Favorite mcp tools and servers
 
 - https://langfuse.com
 - https://smith.langchain.com
+
+### Zero Data Retention
+
+Zero Data Retention (ZDR) means that a provider will not store or train your data for any period of time.
+
+- https://openrouter.ai/docs/guides/features/zdr
+- https://openrouter.ai/api/v1/endpoints/zdr
+- https://opencode.ai/zen
+- https://docs.windsurf.com/windsurf/ai-commit-message#privacy
+- https://cursor.com/data-use
+- https://developers.openai.com/api/docs/guides/your-data
+- https://ai.google.dev/gemini-api/docs/zdr
+- https://code.claude.com/docs/en/zero-data-retention (available only on Enterprise)
 
 ### Local GUI
 
