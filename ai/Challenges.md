@@ -38,4 +38,4 @@
 - Review pull requests
 - Refactor suggestions
 - Repots and evaluation of technical depth
-- Try new things an sandboxes
+- Try new things with sandboxes
