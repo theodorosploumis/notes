@@ -36,6 +36,47 @@
 - Focus on the specs, permissions and automation and let the LLM do the iterations, parallel execution and proposals for code changes. Try commands like `/batch`, `/loop`, 
 - Using AI in Drupal is somehow simple because of the structure, APIs, standardization of the modules and tools (composer, drush, ddev, drupalorg) and the gitlab instance for code.
 
+## Choosing AI tools
+
+> Some parameters to consider.
+
+- A2A support
+- Agent orchestrators
+- Agents
+- Background tasks
+- Commands
+- Context management
+- Costs and plan
+- dotenv support for variables
+- Extensible
+- Hidden agents
+- In-line config
+- Inheritance of config (allow, prevent, alter)
+- Internal tools (use, override, extend)
+- LSP support
+- MCP simple setup
+- Memory
+- Multi input support (cli, IDE plugin, ADE, A2A, web UI, SDK ready etc)
+- Open for integrations (GitHub, Google etc)
+- Open source
+- Permissions system
+- PII and guardrails
+- Profiles and harness sets
+- Rules
+- Sharing sessions
+- Skills
+- Sub-agents
+- Support local bash aliases and shortcuts
+- Theming and colors
+- tmux ready
+- Token efficiency
+- Tracing and observabilty
+- Usage indicator
+- Use AI subscriptions
+- Use any API provider
+- Use any LLM
+- UX and usability
+
 ## When not use AI
 
 - Automated tasks that can be done by scripts without AI (e.g. linting, code formatting, phpcs, phpstan, release generator etc).
