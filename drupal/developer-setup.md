@@ -6,7 +6,8 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 
 - [**drush-launcher**](https://github.com/drush-ops/drush-launcher)
 - [drupalorg-cli](https://github.com/mglaman/drupalorg-cli)
-- [Drupal Tooler, browser extension for D.O.](https://github.com/baikho/drupal-tooler)
+- [Chrome extension: Drupal Tooler](https://github.com/baikho/drupal-tooler)
+- [Chrome extension: Drupal Issue Summarizer](https://github.com/askibinski/drupal-issue-summarizer)
 
 See a full list on **https://drupaltools.com**.
 
@@ -23,31 +24,25 @@ See a full list on **https://drupaltools.com**.
 **Optional**:
 
 - [**phpbrew**](https://github.com/phpbrew/phpbrew)
-- [**robo**](https://robo.li)
+- [robo](https://robo.li)
 - [phpcbf, phpcs (PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer)
 - [captainhook](https://github.com/captainhookphp/captainhook)
-- [codeception](https://github.com/codeception/codeception)
 - [GrumPHP](https://github.com/phpro/grumphp)
-- [phpmetrics](https://github.com/phpmetrics/PhpMetrics)
 
 ## Nodejs packages (global)
 
-- [grunt-cli](https://gruntjs.com)
-- [gulp-cli](https://gulpjs.com)
 - [husky](https://github.com/typicode/husky)
 
 ## Local VMs & Docker tools
 
 - [**ddev**](https://ddev.readthedocs.io) + ddev-cron, ddev-adminer
 - [docker](https://docs.docker.com)
-- [vagrant](https://www.vagrantup.com)
 
 ## Generic tools
 
 - [GitHub cli](https://cli.github.com/)
 - [GitLab CLI (glab)](https://docs.gitlab.com/cli/)
 - [**nvm**](https://github.com/nvm-sh/nvm)
-- [**rsync**](https://rsync.samba.org)
 - [**sass**](https://sass-lang.com)
 - [brew](https://brew.sh)
 
@@ -59,7 +54,6 @@ See a full list on **https://drupaltools.com**.
 - [**rupa/z**](https://github.com/rupa/z)
 - [git-crypt](https://github.com/AGWA/git-crypt)
 - [flameshot (screenshots)](https://flameshot.org)
-- [tmate - Instant terminal sharing](https://github.com/tmate-io/tmate)
 
 ## Terminal, CLI
 
@@ -82,7 +76,6 @@ See a full list on **https://drupaltools.com**.
 - [php-annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
 - [php-toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
 - [find-pull-request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
-- [i-love-devtoys](https://plugins.jetbrains.com/plugin/20198-i-love-devtoys)
 - [string-manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 - [AceJump](https://plugins.jetbrains.com/plugin/7086-acejump)
 
