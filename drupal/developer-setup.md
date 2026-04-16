@@ -12,6 +12,8 @@ See a full list on **https://drupaltools.com**.
 
 ## AI tools
 
+- TBD. Until then check https://github.com/AJV009/awesome-drupal-ai
+
 ## PHP tools
 
 **Required**:
