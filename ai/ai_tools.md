@@ -1,5 +1,7 @@
 # AI tools features comparison table
 
+> See also https://artificialanalysis.ai/agents
+
 | Name      | URL                                                                                | Open source | IDE dedicated  | IDE plugins                              | Online PaaS | GUI (local) | BYOK   | Pricing                 | Notes                                             |
 | --------- | ---------------------------------------------------------------------------------- | ----------- | -------------- | ---------------------------------------- | ----------- | ----------- | ------ | ----------------------- | ------------------------------------------------- |
 | amp       | [https://ampcode.com](https://ampcode.com)                                         | No          | No             | Yes (VS Code, JetBrains, Neovim, Zed)    | Yes         | Yes         | Yes    | Free with ads + credits | Agentic CLI-first tool, multi-model orchestration |
