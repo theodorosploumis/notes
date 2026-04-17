@@ -1,6 +1,6 @@
 # AI tools features comparison table
 
-> See also https://artificialanalysis.ai/agents
+> See also https://artificialanalysis.ai/agents/coding
 
 | Name      | URL                                                                                | Open source | IDE dedicated  | IDE plugins                              | Online PaaS | GUI (local) | BYOK   | Pricing                 | Notes                                             |
 | --------- | ---------------------------------------------------------------------------------- | ----------- | -------------- | ---------------------------------------- | ----------- | ----------- | ------ | ----------------------- | ------------------------------------------------- |
