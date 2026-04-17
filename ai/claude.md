@@ -1,4 +1,4 @@
-# Claude Code
+# Claude
 
 ## Cheatsheet
 
@@ -25,7 +25,7 @@
 | Headless mode | claude -p "query" |
 | Continue chat | claude --continue |
 | Skip permissions | --dangerously-skip-permissions |
-| Think opptions | "think", "think hard", "think harder", "ultrathink" |
+| Think options | "think", "think hard", "think harder", "ultrathink" |
 | Plan mode | Shift+Tab x2 |
 | List MCP servers | claude mcp list |
 | Remove MCP | claude mcp remove <n> |
@@ -36,7 +36,7 @@
 | Specify tools | --allowedTools "Bash,Read,Edit" |
 | Insights report | /insights |
 
-## CLI Basics
+## CLI basics
 
 ```bash
 claude -p "query"        # Headless/print mode
@@ -45,16 +45,16 @@ claude --resume <id>     # Resume session
 claude --dangerously-skip-permissions
 ```
 
-## Keyboard Controls
+## Keyboard controls
 
 - **ESC**: Stop operation / **ESC ESC**: History
 - **Tab**: Toggle thinking mode
-- **Shift+Tab**: Cycle modes (Edit → Auto-accept → Plan)
+- **Shift+Tab**: Cycle modes (Edit -> Auto-accept -> Plan)
 - **Up Arrow**: Navigate past chats
 - **Shift+Drag**: Reference files (also images)
 - **Ctrl+V**: Paste images
 
-## Memory & Context
+## Memory and context
 
 - **CLAUDE.md**: Auto-loaded project context (hierarchical)
 - **AGENTS.md**: Symlink to CLAUDE.md for multi-agent setups
@@ -64,12 +64,11 @@ claude --dangerously-skip-permissions
 - **/compact**: Summarize conversation
 - **/context**: Show token usage with details
 
-## Parallel Sub-agents
+## Parallel sub-agents
 
 ```bash
 # git worktree add ../project-feature feature-branch
 # cd ../project-feature && claude
-# Example: 
 git worktree add ../feat-auth feature/auth
 git worktree add ../feat-api feature/api
 git worktree add ../feat-ui feature/ui
@@ -82,21 +81,15 @@ cd ../feat-ui && claude
 # Or ask: "Use subagents to do this"
 ```
 
-## Common integrations
+## Context management
 
-```bash
-claude mcp add github
-```
-
-## Context Management
-
-- Clear between tasks with `/clear` (currently, claude automatically does this)
+- Clear between tasks with `/clear`
 - Use `@imports` for large docs
 - Save plans to markdown files
 - Watch status bar: tokens (percentage)
-- Auto-compact at ~200k (or any new limit) tokens (avoid by clearing)
+- Auto-compact at ~200k tokens (avoid by clearing)
 
-## Hooks & Plugins
+## Hooks and plugins
 
 - **Hooks**: .claude/hooks/ (PreThink, PostThink, PreToolUse, PostToolUse, Stop, Start etc)
 - **Commands**: .claude/commands/ (custom slash commands)
@@ -104,7 +97,7 @@ claude mcp add github
 - **Skills**: .claude/skills/ (custom skills)
 - **Plugins**: /plugin install for marketplace extensions
 
-## Effective Prompting
+## Effective prompting
 
 - Be specific with file paths
 - Use `@references` to related files
@@ -123,9 +116,67 @@ claude mcp add github
 - https://github.com/ruvnet/claude-flow (`npx claude-flow@alpha`)
 - https://opcode.sh (GUI for Claude cli, `opcode`)
 
-
 ## Documentation
 
 - https://docs.claude.com/en/docs/claude-code
 - https://www.anthropic.com/engineering/claude-code-best-practices
 - https://github.com/hesreallyhim/awesome-claude-code
+
+## CLAUDE.md template for Drupal projects
+
+> Example template to use under `~/.claude/CLAUDE.md` or project-level `CLAUDE.md`.
+
+### Rules
+
+- Do not add claude as co-author on git commits.
+- Do not create md files to add notes and task progress. The only folder you can use is @docs (if any).
+- Identify a project as "Drupal project" if it contains a composer.json on root.
+- When returning a full file path, make it relative to the project root.
+
+### Tools
+
+- When running inside a "Drupal project":
+  - Execute drush with `ddev drush`
+  - Execute composer with `ddev composer`
+  - Use the Drupal linting, coding standards, and rules
+  - When you find @vendor/bin/phpstan use this for static analysis before returning code changes
+  - When you find @vendor/bin/phpcs use this for coding standards analysis before returning code changes
+  - When you find @vendor/bin/phpcbf use this to fix coding standards errors before returning code changes
+
+### Contexts
+
+- Folders @web/modules/contrib and @web/core should be included in contexts even if excluded in .gitignore
+- When debugging include packages in @vendor/ folder even if excluded in .gitignore
+
+### Patches
+
+- When you need to alter files under @web/modules/contrib or @web/core, only do this by applying a patch
+- Add custom patches to @patches and include them in @composer.json
+- We use https://github.com/cweagans/composer-patches
+- Docs: https://docs.cweagans.net/composer-patches/usage/defining-patches
+
+### Linting
+
+- Advise the Drupal linting files below when writing code in JS, CSS, SASS or SCSS:
+  - @.editorconfig
+  - @.gitattributes
+  - @web/.csslintrc
+  - @web/.eslintrc.json
+  - @web/core/.eslintrc.json
+  - @web/core/.prettierrc.json
+  - @web/core/.stylelintrc.json
+
+### Using LSP
+
+- When a task is related to searching inside PHP files or LSP is mentioned, use these tools before `mgrep` or `grep`:
+  - The `php-lsp` plugin by Anthropic
+  - The SSE from PHPStorm IDE on `http://localhost:64342/sse`
+  - The MCP of cclsp package with `npx cclsp@latest setup --user`
+  - The `intelephense` plugin
+- Use LSP for:
+  - Resolving PHP symbols (classes, interfaces, traits, methods, constants)
+  - Finding PHP implementations, overrides, or inheritance chains
+  - Locating PHP references, call sites, or usages across the codebase
+  - Navigating large or unfamiliar codebases where guessing is unsafe
+  - Verifying whether code is used, overridden, or dead
+  - Any analysis that depends on what the code actually contains
