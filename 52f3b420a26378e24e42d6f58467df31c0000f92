@@ -1,0 +1,29 @@
+ai/README.md
+  0d9127f810cf8065 3-4,6,8-10
+ai/tips.md
+  0d9127f810cf8065 1,5,8,12-16,21,30,36,39-57,60,62-63,74-114
+ai/tools.md
+  0d9127f810cf8065 1,3-6,29-230
+ai/claude.md
+  0d9127f810cf8065 1,28,39,48,52,57,67,84,86,90,92,100,124-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "52f3b420a26378e24e42d6f58467df31c0000f92",
+  "prompts": {
+    "0d9127f810cf8065": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d409906-d849-4d84-8846-a55dce0484b7",
+        "model": "accounts/fireworks/models/qwen3p6-plus"
+      },
+      "human_author": "Theodoros Ploumis",
+      "messages": [],
+      "total_additions": 1679,
+      "total_deletions": 611,
+      "accepted_lines": 532,
+      "overriden_lines": 0
+    }
+  }
+}
