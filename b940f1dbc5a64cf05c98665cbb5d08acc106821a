@@ -1,0 +1,36 @@
+ai/tools.md
+  a970482c71411683 144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "b940f1dbc5a64cf05c98665cbb5d08acc106821a",
+  "prompts": {
+    "0d9127f810cf8065": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d409906-d849-4d84-8846-a55dce0484b7",
+        "model": "accounts/fireworks/models/qwen3p6-plus"
+      },
+      "human_author": "Theodoros Ploumis",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 526,
+      "overriden_lines": 0
+    },
+    "a970482c71411683": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1d26a657-e0b5-415c-bf31-1277cbb779e1",
+        "model": "accounts/fireworks/routers/kimi-k2p5-turbo"
+      },
+      "human_author": "Theodoros Ploumis",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
