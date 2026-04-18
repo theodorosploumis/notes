@@ -141,6 +141,7 @@
 
 - https://langfuse.com
 - https://smith.langchain.com
+- https://litellm.ai
 
 ## Zero data retention
 
