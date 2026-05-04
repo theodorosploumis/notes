@@ -32,6 +32,7 @@
 - Context and specific knowledge is most important parameter for success. Invest on context.
 - Drupal has already too many modules, tools and guides for LLM usage.
 - Git is your friend. Most cli tools as also as all LLM are using git to do code-related tasks.
+- Questions on prompts should not edit/create files. Should just return an answer. This should be clear on the AGENTS.md file or other instructions file.
 - Adapt these LLM-ready ways to work:
   - Specification Driven Development (SDD)
   - Test Driven Development (TDD)
