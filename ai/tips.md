@@ -18,7 +18,7 @@
 - At the very it is all about an API request we do on an LLM provider. What we can improve is only what we send along with the request.
 - We cannot avoid duplicate instructions on AI agents, skills, tools etc because otherwise we should make all these too complex and hard to manage.
 - We can force a TDD on Drupal somehow by using file structure patterns (e.g. the config yml patterns and schemas) so no Drupal bootstrap or drush is required, just a file parse process.
-- Stick with the giants for the hard tasks (claude, codex, gemini, grok etc)
+- Stick with the giants for the hard or fast to complete tasks (claude, codex, gemini, grok etc)
 - Use a gateway/middleware to unify calls, monitoring, usage overview and observability
 - Markdown is the defacto way to instruct llm and AI tools. Organize your work, thoughts and notes in md
 - Hard tasks may need a lot of experimentation (A/B tests, different tools etc)
@@ -32,7 +32,10 @@
 - Context and specific knowledge is most important parameter for success. Invest on context.
 - Drupal has already too many modules, tools and guides for LLM usage.
 - Git is your friend. Most cli tools as also as all LLM are using git to do code-related tasks.
-- Adapt the Specification Driven Development along with the Test Driven Development for success.
+- Adapt these LLM-ready ways to work:
+  - Specification Driven Development (SDD)
+  - Test Driven Development (TDD)
+  - Structured-Prompt Driven Development (SPDD). See article https://martinfowler.com/articles/structured-prompt-driven.
 - Focus on the specs, permissions and automation and let the LLM do the iterations, parallel execution and proposals for code changes. Try commands like `/batch`, `/loop`,
 - Using AI in Drupal is somehow simple because of the structure, APIs, standardization of the modules and tools (composer, drush, ddev, drupalorg) and the gitlab instance for code.
 
