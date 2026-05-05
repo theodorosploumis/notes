@@ -48,6 +48,7 @@
 - https://github.com/drona23/claude-token-efficient
 - https://github.com/Opencode-DCP/opencode-dynamic-context-pruning
 - https://github.com/JuliusBrussee/caveman
+- https://github.com/aovestdipaperino/tokensave
 
 ## Web search and LLMs
 
