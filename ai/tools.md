@@ -28,6 +28,9 @@
 
 ## Subscriptions
 
+See the lists on:
+- https://www.freetiermodels.com/coding-plans
+
 ### LLM single vendor
 
 - Claude code: https://claude.com/pricing
@@ -123,7 +126,7 @@
 - Qwen: Qwen3 Coder Plus
 - Mistral: Codestral 2508
 - Inception: Mercury Coder
-- **Cognition: SWE-1.5** (available only on Windsurf IDE)
+- **Cognition: SWE-XX** (available only on Windsurf IDE)
 - Arcee AI: Coder Large
 - Cohere: Command R+
 - DeepSeek: DeepSeek-V3.2
@@ -161,7 +164,7 @@ Zero data retention (ZDR) means that a provider will not store or train your dat
 - https://anythingllm.com
 - https://github.com/CherryHQ/cherry-studio
 - https://chatboxai.app
-- https://lmstudio.ai
+- https://lmstudio.ai (open source local models only)
 - ~~gpt4all~~
 - ~~ollama~~
 - ~~jan~~
