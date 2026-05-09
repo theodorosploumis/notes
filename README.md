@@ -9,6 +9,7 @@ My Personal notes and bookmarks regarding Work, Drupal, Project management and m
 - [Cheatsheets](cheatsheets.md) (Drupal and programmig CheatSheets)
 - [Data (sheet) tables](data.md) (What fields should we include on a table like data sheet)
 - [Donations & Sponsorship](donations.md)
+- [Digital literacy and skills](digital_education.md)
 - [Drupal](drupal)
   - [Checklist: Development](drupal/checklist-development.md)
   - [Checklist: Production](drupal/checklist-production.md)

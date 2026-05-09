@@ -1,0 +1,124 @@
+# Digital literacy and skills
+
+This is a simple skeleton of lessons - for mainly elderly - people that would like to start 
+using digital services and the web without any prior knowledge.
+
+The order of these learning material does matter. But it's up to the educator to choose it.
+In any case, grouping of the lessons is important so the "students" do not loose their mind and get confused.
+
+You may find this list "too much" for a newbie on the digital world. Actually, I believe that all these lessons
+should be taught to school students on any level.
+
+- Devices
+	- Common devices by type (computer, tablet, phone, watch)
+	- Operation systems
+	- Most popular software by type
+    - Common parts of a device (e.g. of a computer)
+- How internet works
+	- What is www
+	- Protocols (HTTP, URL, FTP, ssh)
+	- Internet providers
+	- Server
+	- Client
+	- Browser
+    - Exchanging data
+- Search on the www
+	- Search engines
+	- Search tips (keywords, limits, filters, quotes, languages, time)
+	- Using A for search
+	- Dedicated search portals
+- Digital files
+	- Most common filetypes
+	- Digital file data and metadata
+	- Most common web filetypes
+	- Common structured files (md, json, xml, csv, tsv) in the AI era
+	- Storing files on a computer or device
+	- Storing files on a database
+	- Online services to store files (G. Drive)
+	- Compress and decompress files
+- Websites
+	- Website vs webpage
+	- Common parts, sections and files (e.g. sitemap, robots) of a webpage (where to look for into a webpage)
+	- What is HTML
+	- What is CSS
+	- What is JS
+	- Web fonts
+	- What is UI, UX, portal, RSS
+	- Basic a11y concepts and knowledge
+- Browser
+	- Most popular browsers
+	- Basic browser usage (URL, bookmarks, extensions)
+	- Advanced usage (devtools, cookies, localStorage, network calls)
+	- schema.org
+- Social media
+	- What are social media
+	- Popular social media by task
+		- x.com
+		- LinkedIn
+		- Flickr
+		- YouTube
+		- Instagram
+		- Facebook
+	- How to use social media without loosing your time
+	- How to create an account on each social media
+	- What are taxonomies (hastags) in social media
+	- How to identify fake news, spams, bots, trolls
+- Communication
+	- Most common internet shortcuts (FYI etc)
+	- Emoticons
+	- emoji
+	- avatars
+	- Linked data
+	- Chat services and products online (basic overview and features)
+- Email
+	- What is email
+	- Basic concepts
+	- Create an email account to an online service
+- Advertisement
+	- How advertisement works on the www
+	- How to identify tracking
+	- How to protect from traking
+- Licenses
+	- Closed vs open source software
+	- Closed vs open digital file license
+	- Open source licenses
+	- Open source software
+	- Open data
+	- Why "free" online services are never "free"
+- Security
+	- What is spam
+	- Scam
+	- Phising
+	- Malware
+	- Server attack
+	- Bug
+	- Vulnerability
+- eBanking
+	- Most popolar eBanking features (by bank)
+	- 2FA, OTP, authentication
+	- IRIS protocol
+	- Connected payment systems for ecommerce payments
+	- Global payment services (PayPal etc)
+- Programming
+	- What is a program
+	- What is a programming language
+	- Basic programming concepts
+	- IDE (what are they, how to use, AI enhancements)
+	- git
+	- GitHub, GitLab etc
+	- Basic programming languages by task
+	- Common terminology for programming
+	- Isolated environments for programming (docker etc)
+	- Vibe conding with AI
+- Terminal
+	- What is the terminal and why use it
+	- CLI (about, tools)
+- AI and LLM
+	- What is a LLM
+	- How does an LLM work
+	- Tokens, input, output, memory, context
+	- The limitations of using an LLM
+	- Free vs Paid AI tools
+	- Most popular AI online tools
+	- Advanced usage of AI for work or personal use
+	- Prompting tips
