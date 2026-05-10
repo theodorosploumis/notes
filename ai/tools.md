@@ -218,13 +218,14 @@ Zero data retention (ZDR) means that a provider will not store or train your dat
 - PII and guardrails
 - Profiles and harness sets
 - Rules
+- Sandboxes
 - Sharing sessions
 - Skills
 - Sub-agents
 - Support local bash aliases and shortcuts
 - Theming and colors
 - tmux ready
-- Token efficiency
+- Token efficiency and reduction
 - Tracing and observability
 - Usage indicator
 - Use AI subscriptions
