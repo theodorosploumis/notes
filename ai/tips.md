@@ -104,6 +104,28 @@ LLMs use web search to find current information. Help them get better results by
 - Terminal knowledge
 - Prompting knowledge
 
+## Enterprise-grade controls on AI tools
+
+- **Guardrails**
+	- Prevent LLMs from answering off-topic questions
+	- Define what topics are in-scope and out-of-scope
+	- Enforce at the LLM node level
+- **PII Protection**
+	- Automatically detect and mask personal data
+	- Safeguard sensitive information during processing
+- **Role-Based Access Control (RBAC)**
+	- Define who can edit workflows, knowledge bases, and connections
+	- Granular permissions at every level
+- **Approval Flows**
+	- Require admin review before publishing
+	- Protect production environments from accidental edits
+	- Version control for all changes
+- **Audit & Compliance**
+	- SOC 2 Type II, HIPAA, GDPR compliant
+	- ISO 27001 certification in progress
+	- Data retention policies you control
+	- No training on your data (ZDR)
+
 ## Tasks to automate with AI ASAP
 
 - Analyze repository (code, tools, how to, devops, infra, services etc)
