@@ -110,7 +110,6 @@ See the lists on:
 ## Providers
 
 - openrouter.ai
-- apipie.ai
 
 ## Models
 
