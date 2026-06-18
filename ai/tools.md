@@ -22,7 +22,7 @@
 | qoder     | [https://qoder.com](https://qoder.com)                                             | No          | Yes            | Yes (JetBrains)                          | Yes         | Yes         | Likely | Subscription            | AI IDE + CLI + plugins                            |
 | qodo      | [https://qodo.ai](https://qodo.ai)                                                 | No          | No             | Yes (VS Code, JetBrains)                 | Yes         | No          | No     | Subscription            | Code quality, testing focus                       |
 | warp      | [https://warp.dev](https://warp.dev)                                               | Yes         | Yes (terminal) | No                                       | Yes         | Yes         | No     | Freemium                | AI terminal                                       |
-| windsurf  | [https://windsurf.ai](https://windsurf.ai)                                         | No          | Yes            | No                                       | No          | Yes         | No     | Subscription            | AI-first IDE (Codeium)                            |
+| Devin     | [devin.ai](https://devin.ai)                       | No          | Yes            | No                                       | No          | Yes         | No     | Subscription            | AI-first IDE                            |
 | zed       | [https://zed.dev](https://zed.dev)                                                 | Partially   | Yes            | No                                       | No          | Yes         | No     | Free + optional paid AI | High-performance editor with AI features          |
 
 ## Subscriptions
@@ -98,7 +98,7 @@ See the lists on:
 
 ## IDEs to watch
 
-- **windsurf**
+- **devin**
 - **cursor**
 - zed
 - goose
