@@ -180,3 +180,177 @@ cd ../feat-ui && claude
   - Navigating large or unfamiliar codebases where guessing is unsafe
   - Verifying whether code is used, overridden, or dead
   - Any analysis that depends on what the code actually contains
+
+---
+
+## Alternative LLM providers
+
+> Use several LLM providers (inferences) with Claude so you can save some $.
+> See https://code.claude.com/docs/en/llm-gateway#llm-gateway-configuration
+
+### Z.AI
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
+    "ANTHROPIC_AUTH_TOKEN": "XXXXXX",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-4.5-turbo",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5.2",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5.2"
+  }
+}
+```
+
+### DeepSeek
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.deepseek.com/anthropic",
+    "ANTHROPIC_AUTH_TOKEN": "XXXXXX",
+    "ANTHROPIC_MODEL": "deepseek-v4-pro[1m]",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "deepseek-v4-pro[1m]",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "deepseek-v4-pro[1m]",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "deepseek-v4-flash[1m]",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
+    "CLAUDE_CODE_EFFORT_LEVEL": "max"
+  }
+}
+```
+
+### OpenRouter
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
+    "ANTHROPIC_AUTH_TOKEN": "XXXXXX",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "openrouter/free",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "openrouter/free",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "openrouter/free"
+  }
+}
+```
+
+### Chutes
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://claude.chutes.ai",
+    "ANTHROPIC_AUTH_TOKEN": "xxxxxx",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "zai-org/GLM-5-Turbo",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "moonshotai/Kimi-K2.5-TEE",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "MiniMaxAI/MiniMax-M2.5-TEE",
+    "backup_model": "unsloth/Mistral-Nemo-Instruct-2407-TEE"
+  }
+}
+```
+
+### Lightning.ai (Openai compatible only)
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://lightning.ai/api",
+    "ANTHROPIC_AUTH_TOKEN": "xxxxxx",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "google/gemini-2.5-flash-lite-preview-06-17",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "openai/gpt-5.4-mini-2026-03-17",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "google/gemini-3.5-flash"
+  }
+}
+```
+
+### TokenFlux
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://tokenflux.ai/anthropic",
+    "ANTHROPIC_AUTH_TOKEN": "xxxxxx",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "openai/gpt-5-nano",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "openai/gpt-5-mini",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "openai/gpt-5"
+  }
+}
+```
+
+### Ollama (local)
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:11434",
+    "ANTHROPIC_AUTH_TOKEN": "ollama",
+    "ANTHROPIC_MODEL": "qwen2.5-coder",
+  }
+}
+
+```
+
+### APIpie (Codex, openai)
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://apipie.ai/v1",
+    "ANTHROPIC_AUTH_TOKEN": "XXXXXX",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "anthropic/claude-haiku-4.5",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "anthropic/claude-sonnet-4.6",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "anthropic/claude-opus-4.6"
+  }
+}
+```
+
+### piapi.ai (Codex, openai)
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.piapi.ai/v1/",
+    "ANTHROPIC_AUTH_TOKEN": "XXXXXXX",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_MODEL": "claude-sonnet-4-6",
+  }
+}
+```
+
+### AImlAPI.ai
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.aimlapi.com",
+    "ANTHROPIC_AUTH_TOKEN": "XXXXXXX",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "anthropic/claude-haiku-4-5",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "anthropic/claude-sonnet-4.6",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "anthropic/claude-opus-4-8"
+  }
+}
+```
+
+### LiteLLM (local)
+
+```json
+{
+  "env": {
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_BASE_URL": "http://localhost:4077",
+    "ANTHROPIC_AUTH_TOKEN": "XXXXXX",
+    "ANTHROPIC_MODEL": "sonnet",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "haiku",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "sonnet",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "opus",
+  }
+}
+```
+
+Can also use API endpoints from OpenCode Zen/Go, Kilo Gateway etc.
