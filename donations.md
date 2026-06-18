@@ -29,3 +29,4 @@
 - [librespeed.org](https://liberapay.com/fdossena/donate)
 - [Open Source Initiative](https://members.opensource.org/donate)
 - [eff.org](https://supporters.eff.org/donate/support-privacy-badger)
+- [ietf.org](https://www.ietf.org/support-us/donate-ietf)
