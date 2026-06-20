@@ -23,3 +23,61 @@ I really like designs that **contain these information** within the components t
 10. Part of a bigger component
 
 ![](ui_questions.png)
+
+## Design System folder structure
+
+```text
+.
+├── 00-base/
+├── 01-atoms/
+├── 02-molecules/
+├── 03-organisms/
+├── 04-templates/
+├── 05-pages/
+├── _global-data/
+├── images/
+├── README.md
+├── package.json
+```
+
+## Design System inventory
+
+### Template examples
+
+- Home Page
+- Section Landing Page
+- Basic Content Page
+- Event Landing Page
+- Event Detail Page
+- Article Landing Page
+- Listing Page
+- Search Results Page
+
+### Global Components examples
+
+- Header
+- Footer
+- Subnavigation
+- Breadcrumbs
+- Share
+- Alerts
+
+### Page Components examples
+
+- 50/50 Banner
+- Accordion Set
+- Article Search Header
+- CTA Banner
+- Event Banner
+- Event Cards
+- Forms
+- Hero Banner
+- Icon Cards
+- Info Cards
+- Map
+- Media Gallery
+- Persona Selector
+- Rich Text Editor
+- Search Results Cards
+- Stats Cards
+- Testimonial Cards
