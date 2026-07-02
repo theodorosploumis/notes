@@ -65,7 +65,7 @@ See the lists on:
 
 ### ADE/IDE coding plans
 
-- windsurf: https://windsurf.com/pricing
+- devin: https://devin.ai/pricing
 - cursor: https://cursor.com/pricing
 - zed: https://zed.dev/pricing
 - kiro: https://kiro.dev/pricing
@@ -91,9 +91,9 @@ See the lists on:
 
 - [AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant) - I use this mostly with ACP agents, even with kilo
 - [kilo code](https://kilo.ai)
-- [Qodo - code reviewer](https://plugins.jetbrains.com/plugin/21206-qodo)
-- [Qoder](https://qoder.com)
-- [tabby](https://github.com/TabbyML/tabby)
+- ~~[Qodo - code reviewer](https://plugins.jetbrains.com/plugin/21206-qodo)~~
+- ~~[Qoder](https://qoder.com)~~
+- ~~[tabby](https://github.com/TabbyML/tabby)~~
 - ~~[cline](https://cline.bot)~~
 
 ## IDEs to watch
@@ -124,7 +124,7 @@ See the lists on:
 - Qwen: Qwen3 Coder Plus
 - Mistral: Codestral 2508
 - Inception: Mercury Coder
-- **Cognition: SWE-XX** (available only on Windsurf IDE)
+- **Cognition: SWE-XX** (available only on devin IDE)
 - Arcee AI: Coder Large
 - Cohere: Command R+
 - DeepSeek: DeepSeek-V3.2
@@ -150,7 +150,7 @@ Zero data retention (ZDR) means that a provider will not store or train your dat
 - https://openrouter.ai/docs/guides/features/zdr
 - https://openrouter.ai/api/v1/endpoints/zdr
 - https://opencode.ai/zen
-- https://docs.windsurf.com/windsurf/ai-commit-message#privacy
+- https://docs.devin.ai/devin/ai-commit-message#privacy
 - https://cursor.com/data-use
 - https://developers.openai.com/api/docs/guides/your-data
 - https://ai.google.dev/gemini-api/docs/zdr
