@@ -28,10 +28,16 @@ This guide covers IDE configurations, plugins, and settings optimized for Drupal
 
 ### PhpStorm Configuration
 
+#### Setup Drupal namespaces
+
+On the main menu go to `Code > Detect Drupal Namespace roots`
+
 #### File Templates
+
 Add Drupal-specific file templates:
 
 **Drupal Module (.info.yml):**
+
 ```yaml
 name: ${MODULE_NAME}
 type: module
@@ -43,6 +49,7 @@ dependencies:
 ```
 
 **Drupal Service (.services.yml):**
+
 ```yaml
 services:
   ${MODULE_NAME}.${SERVICE_NAME}:
@@ -51,12 +58,14 @@ services:
 ```
 
 #### Code Style Settings
+
 - **Settings → Code Style → PHP**
   - Set to "Drupal" coding standards
   - Enable "Use 'use' for classes from the current namespace"
   - Set array formatting to align values
 
 #### Live Templates
+
 Add custom live templates for Drupal:
 
 ```php
@@ -78,11 +87,13 @@ public function __construct($PARAMETERS$) {
 ### Settings Recommendations
 
 **Editor → General:**
+
 - Enable "Show whitespaces"
 - Set tab size to 2 spaces
 - Enable "Ensure line feed at file end on Save"
 
 **Inspections:**
+
 - Enable all Drupal-specific inspections
 - Configure PHPDoc inspections for Drupal standards
 
@@ -91,6 +102,7 @@ public function __construct($PARAMETERS$) {
 ### Essential Packages
 
 Install via Package Control:
+
 - **Drupal** - Drupal syntax highlighting and snippets
 - **PHP-Twig** - Twig template support
 - **SublimeLinter-php** - PHP linting
@@ -100,6 +112,7 @@ Install via Package Control:
 ### Sublime Text Settings
 
 #### Preferences.sublime-settings
+
 ```json
 {
   "tab_size": 2,
@@ -116,6 +129,7 @@ Install via Package Control:
 ### Code Style Settings
 
 **For all IDEs, configure:**
+
 - **Indentation:** 2 spaces (no tabs)
 - **Line endings:** LF (Unix)
 - **Character encoding:** UTF-8
@@ -126,6 +140,7 @@ Install via Package Control:
 ### File Associations
 
 Configure proper syntax highlighting for Drupal files:
+
 - `.module` → PHP
 - `.install` → PHP
 - `.theme` → PHP
@@ -137,6 +152,7 @@ Configure proper syntax highlighting for Drupal files:
 - `.twig` → Twig/HTML
 
 ### Indexing Optimization
+
 Exclude unnecessary directories:
 - `node_modules/`
 - `vendor/`
@@ -147,12 +163,14 @@ Exclude unnecessary directories:
 ## Team Development Standards
 
 ### Shared Configurations
+
 Store team IDE configurations in project:
 - `.vscode/settings.json` for VS Code
 - `.idea/` directory for PhpStorm (selective commits)
 - `.editorconfig` for cross-IDE consistency
 
 ### Code Quality Integration
+
 - **PHP_CodeSniffer:** Configure Drupal standards
 - **PHPStan:** Set up Drupal-specific rules
 - **ESLint:** Configure for Drupal JavaScript
