@@ -6,5 +6,6 @@
 ## Index
 
 - [claude.md](claude.md) - Claude Code cheatsheet, integrations, and Drupal CLAUDE.md template
+- [models.md](models.md) - LLM lists, tables and other notes
 - [tips.md](tips.md) - Tips, challenges, and guidelines for AI work
 - [tools.md](tools.md) - Tool comparisons, subscriptions, models, and resources
