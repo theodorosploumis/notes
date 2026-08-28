@@ -29,3 +29,4 @@
 - [Theme validator](theme-validator.md)
 - [Training Beginners](training-beginners.md)
 - [Translation solutions](translations.md)
+- [User manual](user-guide.md)
