@@ -39,6 +39,7 @@
   - Structured-Prompt Driven Development (SPDD). See article https://martinfowler.com/articles/structured-prompt-driven.
 - Focus on the specs, permissions and automation and let the LLM do the iterations, parallel execution and proposals for code changes. Try commands like `/batch`, `/loop`,
 - Using AI in Drupal is somehow simple because of the structure, APIs, standardization of the modules and tools (composer, drush, ddev, drupalorg) and the gitlab instance for code.
+- In order to evaluate LLMs pick one part of your work that takes too long. Maybe it's understanding an unfamiliar codebase, writing tests, or getting a pull request ready for review.
 
 ## Token reduction tools
 
