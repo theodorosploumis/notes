@@ -41,3 +41,18 @@ Order of tools is of my preference.
 - https://github.com/cloudflare/cloudflared
 - https://github.com/ekzhang/bore
 - https://github.com/robbie-cahill/tunnelmole-client
+
+## Domains
+
+Free domains for experiments and dev servers.
+
+```
+.link
+.page
+.fyi
+.click
+.page
+.app
+.xyz
+.review
+```
