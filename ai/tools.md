@@ -53,7 +53,6 @@ See the lists on:
 - Fireworks Fire Pass: https://app.fireworks.ai/fire-pass
 - Hugging Face Pro: https://huggingface.co/pro
 - Cerebras: https://www.cerebras.ai/pricing
-- Crof: https://crof.ai/pricing
 - Amazon Q Developer: https://aws.amazon.com/q/developer/pricing
 - Chutes: https://chutes.ai/pricing
 - Ollama Cloud: https://ollama.com
@@ -78,18 +77,26 @@ See the lists on:
 - [**opencode**](https://github.com/anomalyco/opencode) (with https://ohmyopencode.org)
 - [**claude**](https://github.com/anthropics/claude-code)
 - [codex](https://github.com/openai/codex)
-- [**task-master**](https://github.com/eyaltoledano/claude-task-master) (task and agents orchestrator)
-- [**warp**](https://www.warp.dev)
-- [crush](https://github.com/charmbracelet/crush)
+- [**pi**](https://github.com/earendil-works/pi)
+- [herdr](https://github.com/herdrdev/herdr) (runtime for agents)
+- ~~[task-master](https://github.com/eyaltoledano/claude-task-master) (task and agents orchestrator)~~
+- ~~[warp](https://www.warp.dev)~~
 - ~~[gemini](https://github.com/google-gemini/gemini-cli)~~
 - ~~[openhands](https://github.com/OpenHands/OpenHands)~~
 - ~~[qwen](https://github.com/QwenLM/qwen-code)~~
 - ~~[kimi](https://github.com/MoonshotAI/kimi-cli)~~
 - ~~[vtcode](https://github.com/vinhnx/vtcode)~~
 
+Investigating and experimenting with:
+
+- fx (vercel)
+- cmd (commandcode.ai)
+- reasonix
+- freebuff
+
 ## Favorite IDE plugins (PHPStorm)
 
-- [AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant) - I use this mostly with ACP agents, even with kilo
+- [AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant) - I use this mostly with all my ACP agents
 - [kilo code](https://kilo.ai)
 - ~~[Qodo - code reviewer](https://plugins.jetbrains.com/plugin/21206-qodo)~~
 - ~~[Qoder](https://qoder.com)~~
@@ -114,34 +121,38 @@ See the lists on:
 ## Models
 
 - Anthropic: Haiku, Sonnet, Opus
-- OpenAI: GPT-X Codex
-- xAI: Grok Code Fast X
+- OpenAI: GPT-X Codex, **GPT-luna**
+- xAI: Grok Code Fast X, Grok 4.x
 - Google: Gemini X Pro
-- Z.AI: GLM-X
+- **Z.AI: GLM-X**
 - Kwaipilot: KAT-Coder-Pro V1
 - MiniMax: MiniMax M2.X
-- MoonshotAI: kimi-k2.5
+- MoonshotAI: kimi-k3
 - Qwen: Qwen3 Coder Plus
-- Mistral: Codestral 2508
+- Mistral: Mistral Large 4
 - Inception: Mercury Coder
 - **Cognition: SWE-XX** (available only on devin IDE)
 - Arcee AI: Coder Large
 - Cohere: Command R+
-- DeepSeek: DeepSeek-V3.2
+- DeepSeek: Deepseek-v4.1-flash
 
 ## MCP
 
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/mozilla-ai/mcpd-proxy
-- https://ref.tools
 - https://github.com/upstash/context7
 - https://github.com/idosal/git-mcp
 
 ## Tracing and observability
 
-- https://langfuse.com
+- **https://langfuse.com**
 - https://smith.langchain.com
 - https://litellm.ai
+
+## Agent memory
+
+- [**honcho**](https://github.com/plastic-labs/honcho)
+- [mgrep](https://github.com/mixedbread-ai/mgrep)
 
 ## Zero data retention
 
@@ -158,7 +169,7 @@ Zero data retention (ZDR) means that a provider will not store or train your dat
 
 ## Local GUI
 
-- Claude GUI [official](https://claude.com/download), [Linux](https://github.com/aaddrick/claude-desktop-debian)
+- [Claude GUI official](https://claude.com/download)
 - https://anythingllm.com
 - https://github.com/CherryHQ/cherry-studio
 - https://chatboxai.app
@@ -195,7 +206,7 @@ Zero data retention (ZDR) means that a provider will not store or train your dat
 
 - A2A support
 - Agent orchestrators
-- Agents
+- **Agents**
 - Background tasks
 - Commands
 - Context management
@@ -204,17 +215,17 @@ Zero data retention (ZDR) means that a provider will not store or train your dat
 - Extensible
 - Hidden agents
 - In-line config
-- Inheritance of config (allow, prevent, alter)
+- **Inheritance of config** (allow, prevent, alter)
 - Internal tools (use, override, extend)
 - LSP support
 - MCP simple setup
 - Memory
-- Multi input support (cli, IDE plugin, ADE, A2A, web UI, SDK ready etc)
+- **Multi input support** (cli, IDE plugin, ADE, A2A, web UI, SDK ready etc)
 - Open for integrations (GitHub, Google etc)
-- Open source
+- **Open source**
 - Permissions system
 - PII and guardrails
-- Profiles and harness sets
+- **Profiles and harness sets**
 - Rules
 - Sandboxes
 - Sharing sessions
