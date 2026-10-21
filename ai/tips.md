@@ -140,3 +140,4 @@ LLMs use web search to find current information. Help them get better results by
 - Security audit (e.g. on custom code, secrets, services)
 - Testing (create, optimize, automate)
 - Try new things with sandboxes
+- Onboarding on new codebases
