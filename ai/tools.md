@@ -76,9 +76,8 @@ See the lists on:
 
 - [**opencode**](https://github.com/anomalyco/opencode) (with https://ohmyopencode.org)
 - [**claude**](https://github.com/anthropics/claude-code)
+- [**pi**](https://github.com/earendil-works/pi) with omo, omp
 - [codex](https://github.com/openai/codex)
-- [**pi**](https://github.com/earendil-works/pi)
-- [herdr](https://github.com/herdrdev/herdr) (runtime for agents)
 - ~~[task-master](https://github.com/eyaltoledano/claude-task-master) (task and agents orchestrator)~~
 - ~~[warp](https://www.warp.dev)~~
 - ~~[gemini](https://github.com/google-gemini/gemini-cli)~~
@@ -89,10 +88,18 @@ See the lists on:
 
 Investigating and experimenting with:
 
+- **codeaf**
 - fx (vercel)
 - cmd (commandcode.ai)
 - reasonix
 - freebuff
+
+## Favorite agent orchestrators
+
+- [herdr](https://github.com/herdrdev/herdr) (runtime for agents)
+- orca
+- t3 code
+- 
 
 ## Favorite IDE plugins (PHPStorm)
 
@@ -105,11 +112,11 @@ Investigating and experimenting with:
 
 ## IDEs to watch
 
-- **devin**
 - **cursor**
 - zed
 - goose
 - [emdash](https://www.emdash.sh)
+- ~~devin~~
 - ~~kiro~~
 - ~~antigravity~~
 - ~~droid~~
