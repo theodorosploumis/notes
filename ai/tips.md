@@ -3,11 +3,13 @@
 ## Tips
 
 - Keep each session results on a folder (what, how, history of, costs, time, tools, metadata).
-- Make the AI tool think the way you think.
+- Make the AI tool think the way you think (brain to doc).
+- Each AI doc/rule must be much smaller than the real code source it refers to. If not, we need to make it smaller.
 - Most of the times an AI tool needs data that are excluded (.gitignore).
 - Too many mcp can break your LLM context and window limit. Lazy load tools when you need them.
 - Inline comments in code should have a full description. Mentioning links to a 3rd party Doc or PM system is not useful.
 - Make the AI generate automation tools (scripts) for the tasks.
+- Specifications and discussion with thre stakeholders is the No1 skill for humans.
 - For business use of AI and LLM take care of these:
   - ZDR (no training, no telemetry)
   - Privacy of data storage
@@ -40,6 +42,7 @@
 - Focus on the specs, permissions and automation and let the LLM do the iterations, parallel execution and proposals for code changes. Try commands like `/batch`, `/loop`,
 - Using AI in Drupal is somehow simple because of the structure, APIs, standardization of the modules and tools (composer, drush, ddev, drupalorg) and the gitlab instance for code.
 - In order to evaluate LLMs pick one part of your work that takes too long. Maybe it's understanding an unfamiliar codebase, writing tests, or getting a pull request ready for review.
+- `Triage --> Specify --> Implement --> Review --> Ship`
 
 ## Token reduction tools
 
